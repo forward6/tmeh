@@ -166,7 +166,7 @@ permalink: /about/
 <section class="about-content">
     <div class="about-card">
         <h2>The Mission</h2>
-        <p>The Multiverse Employee Handbook is a science comedy podcast that transforms complex quantum physics into hilarious workplace scenarios. Each week, we explore the bizarre intersection of scientific theory and office life, making both physics education and corporate existence significantly more entertaining.</p><br/>
+        <p>The Multiverse Employee Handbook is a science comedy podcast that transforms complex quantum physics into hilarious workplace scenarios. Each week, we explore the bizarre intersection of scientific theory and office life, making both physics education and corporate existence significantly more entertaining. Of course.</p><br/>
 
         <h2>Origin Story</h2>
         <p>It started with a quantum fluctuation of an idea: "What if understanding physics was as straightforward as navigating office politics?" Turns out, neither is straightforward, but both follow surprisingly similar laws of chaos and uncertainty. Like Schrödinger's cat, we decided to be simultaneously educational and absurd until someone observed us.</p>        
