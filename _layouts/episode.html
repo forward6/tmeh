@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<div class="background-container">
+    <div class="background-overlay"></div>
+</div>
+
+<article class="episode-container">
+
+  <!-- Add this after the episode-header div in your episode template -->
+<div class="back-button-container">
+<a href="/episodes/" class="back-button">
+  ← Back to Episodes
+</a>
+</div>
+
+    <div class="episode-header">
+        <span class="episode-number">Episode {{ page.episode_number }}</span>
+        <h1>{{ page.title }}</h1>
+
+        <div class="episode-meta">
+            <span class="episode-date">
+                <i class="far fa-calendar"></i>
+                {{ page.date | date: "%B %d, %Y" }}
+            </span>
+            <span class="episode-duration">
+                <i class="far fa-clock"></i>
+                {{ page.duration }}
+            </span>
+        </div>
+    </div>
+
+    <div class="episode-player">
+        <audio controls class="quantum-player">
+            <source src="{{ page.audio_url }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <div class="episode-description">
+        {{ content }}
+    </div>
+
+    <div class="platform-links">
+        <h3>You Can Also Listen on Your Favorite Platform</h3>
+        <div class="platform-grid">
+            <a href="{{ page.apple_url }}" class="platform-link apple">
+                <span>Apple Podcasts</span>
+            </a>
+            <a href="{{ page.spotify_url }}" class="platform-link spotify">
+                <span>Spotify</span>
+            </a>
+            <a href="{{ page.youtube_url }}" class="platform-link youtube">
+                <span>YouTube</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="episode-transcript">
+        <h3>Get the Episode Transcript</h3>
+        <a href="{{ page.transcript_url }}" class="transcript-button" target="_blank">
+            Download Transcript (PDF)
+            <i class="far fa-file-pdf"></i>
+        </a>
+    </div>
+
+    <div class="episode-navigation">
+        {% if page.previous.url %}
+        <a href="{{page.previous.url}}" class="prev-episode">
+            <span>Previous Episode</span>
+            {{ page.previous.title }}
+        </a>
+        {% endif %}
+
+        {% if page.next.url %}
+        <a href="{{page.next.url}}" class="next-episode">
+            <span>Next Episode</span>
+            {{ page.next.title }}
+        </a>
+        {% endif %}
+    </div>
+</article>
+
+{% include newsletter.html %}
+
+<div id="quantum-field" class="quantum-field"></div>

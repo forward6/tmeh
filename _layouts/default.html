@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <link rel="stylesheet" href="{{ site.css_path }}/main.css">
+    <script>
+    <!-- MailerLite Universal -->
+        (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+        .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+        n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+        (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+        ml('account', '1096863');
+    <!-- End MailerLite Universal -->
+    </script>
+
+    {% seo %}
+
+    {% if page.image or site.seo.default_image %}
+      <meta property="og:image" content="{{ page.image | absolute_url | default: site.seo.default_image | absolute_url }}">
+    {% endif %}
+    
+</head>
+<body>
+    {% include nav.html %}
+    <main class="main-container">
+        {{ content }}
+    </main>
+    {% include footer.html %}
+
+    <script src="{{ site.js_path }}/quantum.js"></script>
+
+</body>
+</html>

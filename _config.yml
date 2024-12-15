@@ -1,0 +1,97 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "The Multiverse Employee Handbook Podcast | Quantum Physics Meets Comedy"
+email: podcast@multiverseemployeehandbook.com
+description: "Where quantum physics meets office humor: A weekly podcast exploring the bizarre intersection of corporate life and cosmic uncertainty. From parallel universe performance reviews to quantum coffee breaks, we make science entertaining and office life existential."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://multiverseemployeehandbook.com/" # Replace with your live site URL
+image: /assets/The_Multiverse_Employee_Handbook_Logo_1024.jpeg
+author:
+  name: Robb Corrigan
+  email: podcast@multiverseemployeehandbook.com
+social:
+  twitter: TMEHpodcast
+  instagram: themultiverseemployeehandbook
+  bluesky: tmehpodcast.bsky.social
+seo:
+  default_image: /assets/images/og_logo_multiverse_employee_handbook-min.jpg
+
+permalink: /blog/:title/
+
+image_path: "/assets/images"
+css_path: "/assets/css"
+js_path: "/assets/js"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: expanded # or expanded / compressed
+  sass_dir: _sass
+  css_dir: assets/css
+
+feed:
+  path: feed.xml
+  title: "The Multiverse Employee Handbook Blog | Science Comedy & Physics Insights"
+  description: "Explore the intersection of quantum physics and workplace humor through our blog posts. Deep dives into scientific concepts, behind-the-scenes looks at episode creation, and insights into the science behind our interdimensional workplace comedy."
+  author:
+    name: "Robb Corrigan"
+    email: "blog@multiverseemployeehandbook.com"
+    url: "https://multiverseemployeehandbook.com/blog"
+  language: "en-US"
+  categories:
+    - "Science Blog"
+    - "Comedy Writing"
+    - "Physics Explanations"
+    - "Podcast Blog"
+  image: "/assets/images/The_Multiverse_Employee_Handbook_Logo_1024.jpeg"  # Blog header image
+  posts_limit: 12           # Number of posts in feed
+  excerpt_only: true
+
+collections:
+  episodes:
+    output: true
+    permalink: /episodes/:title/
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

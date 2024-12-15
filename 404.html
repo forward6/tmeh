@@ -1,0 +1,131 @@
+---
+layout: default
+title: 404 - Page Not Found
+permalink: /404.html
+---
+<style>
+.error-container {
+    max-width: 800px;
+    margin: 4rem auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.error-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+
+    animation: quantum-flicker 2s infinite;
+}
+
+.error-message {
+    background: rgba(30, 41, 59, 0.5);
+    padding: 2rem;
+    border-radius: 1rem;
+    backdrop-filter: blur(10px);
+
+    p {
+        margin-bottom: 1.5rem;
+        font-size: 1.2rem;
+    }
+}
+
+.error-details, .error-solution {
+    text-align: left;
+    margin: 2rem 0;
+
+    ul, ol {
+        list-style: none;
+        padding: 0;
+
+        li {
+            margin: 1rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+
+            &::before {
+                content: '→';
+                position: absolute;
+                left: 0;
+                color: $quantum-blue;
+            }
+        }
+    }
+}
+
+.error-footer {
+    font-family: monospace;
+    color: $grey-light;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(96, 165, 250, 0.2);
+}
+
+@keyframes quantum-flicker {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    51% { opacity: 0.4; }
+    52% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+.error-solution a {
+  background:#fff;
+  color: blue;
+  margin: 1rem auto;
+  padding: .5rem;
+ }
+
+@media (max-width: 768px) {
+    .error-container {
+        margin: 2rem auto;
+        padding: 1rem;
+    }
+
+    .error-title {
+        font-size: 2rem;
+    }
+
+    .error-message p {
+        font-size: 1rem;
+    }
+}
+</style>
+
+<div class="background-container">
+    <div class="background-overlay"></div>
+</div>
+
+<div class="error-container">
+    <h1 class="error-title">Error 404: Reality Not Found</h1>
+
+    <div class="error-message">
+        <p>Oops! It seems this page has quantum tunneled into another dimension.</p>
+
+        <div class="error-details">
+            <p>Possible explanations:</p>
+            <ul>
+                <li>This page exists in a parallel universe where URLs are written in reverse</li>
+                <li>The content has achieved quantum superposition and collapsed into the wrong timeline</li>
+                <li>Someone forgot to file the proper interdimensional paperwork</li>
+                <li>The URL was eaten by Schrödinger's cat (who is simultaneously sorry and not sorry)</li>
+            </ul>
+        </div>
+
+        <div class="error-solution">
+            <p>Recommended actions:</p>
+            <ol>
+                <li>Return to our <a href="/"> current timeline's homepage</a></li>
+                <li>Check your quantum coordinates and try again</li>
+                <li>File a bug report with the Interdimensional IT Department</li>
+                <li>Accept that some pages exist in a superposition of found and not found</li>
+            </ol>
+        </div>
+
+        <p class="error-footer">Error Code: ∞-404<br>
+        Timeline Reference: Earth-Prime-2024<br>
+        Quantum State: Confused but Hopeful</p>
+    </div>
+</div>
+
+<div id="quantum-field" class="quantum-field"></div>
