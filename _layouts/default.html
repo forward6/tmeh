@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <link rel="icon" href="{{ site.image_path }}/favicon.jpg" type="image/x-icon">
     <meta name="description" content="{{ page.description }}">
     <link rel="stylesheet" href="{{ site.css_path }}/main.css">
     <script>
@@ -21,7 +22,7 @@
     {% if page.image or site.seo.default_image %}
       <meta property="og:image" content="{{ page.image | absolute_url | default: site.seo.default_image | absolute_url }}">
     {% endif %}
-    
+
 </head>
 <body>
     {% include nav.html %}
