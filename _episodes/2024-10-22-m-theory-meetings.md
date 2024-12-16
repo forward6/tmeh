@@ -3,15 +3,17 @@ layout: episode
 title: "M-Theory and Meetings About Meetings"
 episode_number: 1-11
 date: 2024-10-22
-duration: "32 minutes"
+duration-en: "32 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/yq7wmg6uuspgic67/E11_-_M-Theory_And_Meetings_About_Meetings_-_TMEH7wzrw.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000673962741"
 spotify_url: "https://open.spotify.com/episode/1PZnTP41HL9OdxiviQhkwy?si=mir4tuRPSRe15Tz1uSJApA"
 youtube_url: "https://youtu.be/5zK21Wt_lOs?si=XbwgcjW_Y4jrjtF9"
 transcript_url: "/assets/transcripts/episode-11.pdf"
+duration: "PT32M33S"
+description: >
+  What do string theory and corporate meetings have in common? Both exist in eleven dimensions and make less sense the more you think about them. Today we explore why every decision made in a meeting spawns an entirely new universe of pointless follow-up meetings.
 ---
 
-## Episode Summary
 What do string theory and corporate meetings have in common? Both exist in eleven dimensions and make less sense the more you think about them. Today we explore why every decision made in a meeting spawns an entirely new universe of pointless follow-up meetings.
 
 {: .callout}

@@ -3,15 +3,17 @@ layout: episode
 title: "The Ninth Doctor"
 episode_number: 1-9
 date: 2024-10-08
-duration: "32 minutes"
+duration-en: "32 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/dq4q2b2c8jwtdmis/E9_-_The_Ninth_Doctor7ih4d.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000672187152"
 spotify_url: "https://open.spotify.com/episode/1Jxho32utL8pV4yEFCCDOK?si=1HgrW8SXTge8UzgSKdIS0A"
 youtube_url: "https://youtu.be/QuSvJDyVMxs?si=UbfmssiiNqGrl-fA"
 transcript_url: "/assets/transcripts/episode-9.pdf"
+duration: "PT32M48S"
+description: >
+  What happens when Doctor Who meets corporate culture? Today we explore why "bigger on the inside" technology would revolutionize office space management, and why the TARDIS would make an excellent solution to your commuting problems - if you can get past the temporal paradoxes.
 ---
 
-## Episode Summary
 What happens when Doctor Who meets corporate culture? Today we explore why "bigger on the inside" technology would revolutionize office space management, and why the TARDIS would make an excellent solution to your commuting problems - if you can get past the temporal paradoxes.
 
 {: .callout}

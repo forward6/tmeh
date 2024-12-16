@@ -3,15 +3,17 @@ layout: episode
 title: "The Infinite Performance Review"
 episode_number: 1-7
 date: 2024-09-24
-duration: "28 minutes"
+duration-en: "28 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/qu8puqpsa2afb4vq/Episode_7_-_The_Infinite_Performance_Review7sdbx.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000670499930"
 spotify_url: "https://open.spotify.com/episode/6RB9MvHIR9p7XFwPwnhAYQ?si=l_x6r06sQZyVmN9medbYxg"
 youtube_url: "https://youtu.be/CKhjtOYkpGE?si=GTuPxRX9xBXcKyP1"
 transcript_url: "/assets/transcripts/episode-7.pdf"
+duration: "PT28M25S"
+description: >
+  When your performance is being evaluated across all possible realities simultaneously, "meets expectations" becomes a quantum state rather than a rating. Today we explore why annual reviews are even more terrifying when they exist in infinite dimensions.
 ---
 
-## Episode Summary
 When your performance is being evaluated across all possible realities simultaneously, "meets expectations" becomes a quantum state rather than a rating. Today we explore why annual reviews are even more terrifying when they exist in infinite dimensions.
 
 {: .callout}

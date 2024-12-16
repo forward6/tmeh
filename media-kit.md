@@ -135,16 +135,16 @@ permalink: /media-kit/
         <h2>Available On</h2>
         <div class="platform-grid">
             <a href="https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739" class="platform-link">
-                <img src="assets/images/platforms/apple.png" alt="Apple Podcasts">
+                Apple Podcasts
             </a>
             <a href="https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ" class="platform-link">
-                <img src="assets/images/platforms/spotify.png" alt="Spotify">
+                Spotify
             </a>
             <a href="https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp" class="platform-link">
-                <img src="assets/images/platforms/google.png" alt="YouTube">
+                YouTube
             </a>
             <a href="https://music.amazon.com/podcasts/c7f5bb7a-1b23-40ad-9239-a033ac37ee82/the-multiverse-employee-handbook" class="platform-link">
-                <img src="assets/images/platforms/amazon.png" alt="Amazon Music">
+                Amazon Music
             </a>
         </div>
     </div>
@@ -153,16 +153,16 @@ permalink: /media-kit/
         <h2>Social Media</h2>
         <div class="platform-grid">
             <a href="https://x.com/TMEHpodcast" class="platform-link">
-                <img src="assets/images/social/twitter.png" alt="Twitter/X">
+                Twitter/X
             </a>
             <a href="https://www.instagram.com/themultiverseemployeehandbook" class="platform-link">
-                <img src="assets/images/social/instagram.png" alt="Instagram">
+                Instagram
             </a>
             <a href="https://reddit.com/r/TMEHpodcast" class="platform-link">
-                <img src="assets/images/social/reddit.png" alt="Reddit">
+                Reddit
             </a>
             <a href="https://bsky.app/profile/tmehpodcast.bsky.social" class="platform-link">
-                <img src="assets/images/social/bluesky.png" alt="BlueSky">
+                BlueSky
             </a>
         </div>
     </div>
@@ -180,12 +180,8 @@ permalink: /media-kit/
 
     <div class="media-kit-section">
         <h2>Brand Assets</h2>
-        <div class="download-grid">
-            <a href="/assets/downloads/show-logo.zip" class="download-button">Show Logo</a>
-            <a href="/assets/downloads/cover-art.zip" class="download-button">Cover Art</a>
-            <a href="/assets/downloads/brand-guidelines.pdf" class="download-button">Brand Guidelines</a>
-            <a href="/assets/downloads/audio-samples.zip" class="download-button">Audio Samples</a>
-        </div>
+        <br/><p>On request.</p>
+
     </div>
 
     <div class="media-kit-section">

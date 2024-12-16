@@ -1,0 +1,72 @@
+<!-- _includes/custom-seo.html -->
+<script type="application/ld+json">
+{% if page.layout == "episode" %}
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "{{ page.url | absolute_url }}",
+  "name": "{{ page.title }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 }}",
+  "episodeNumber": "{{ page.episode_number }}",
+  "timeRequired": "{{ page.duration }}",
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "{{ page.audio_url }}"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "The Multiverse Employee Handbook",
+    "url": "{{ "/" | absolute_url }}"
+  }
+}
+{% elsif page.layout == "post" %}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "url": "{{ page.url | absolute_url }}",
+  "name": "{{ page.title }}",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author | default: site.author }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+{% else %}
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "url": "{{ page.url | absolute_url }}",
+  "name": "{{ page.title }}",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "inLanguage": "{{ site.language | default: 'en' }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ '/' | absolute_url }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.image | absolute_url }}"
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ site.image | default: site.default_image | absolute_url }}"
+  },
+  "mainEntity": {
+    "@type": "WebPageElement",
+    "text": "{{ page.content | strip_html | truncate: 250 }}"
+  }
+}
+{% endif %}
+</script>

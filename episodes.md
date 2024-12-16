@@ -3,6 +3,7 @@ layout: default
 title: "Episodes - The Multiverse Employee Handbook"
 description: "Explore the latest episodes of The Multiverse Employee Handbook, a podcast blending humor and science fiction."
 permalink: /episodes/
+type: podcast
 ---
 
 <div class="background-container">
@@ -26,6 +27,11 @@ permalink: /episodes/
             </div>
 
             <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+
+            <span class="episode-duration">
+                <i class="far fa-clock"></i>
+                Temporal Length: {{ episode.duration-en }}
+            </span>
 
             <div class="episodes-excerpt">
                 {{ episode.excerpt }}

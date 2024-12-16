@@ -3,15 +3,18 @@ layout: episode
 title: "Are We Living In A Simulation?"
 episode_number: 1-18
 date: 2024-12-10
-duration: "24 minutes"
+duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/z6wg6jbik5icknm8/Episode_18_-_Analytical_Engine_Error-_System_Reality_Not_Found_-_2024-12-06_844_PM9zuks.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679859075"
 spotify_url: "https://open.spotify.com/episode/0mrFjKGhnB3V8GhPefED9c?si=BhAc25j1SUW2IZfVTTQqGQ"
 youtube_url: "https://youtu.be/63p7VvUn1_U?si=mybLQc_aF_tJRYHd"
 transcript_url: "/assets/transcripts/episode-18.pdf"
+duration: "PT24M13S"
+description: >
+  When Ada Lovelace created the first computer program in 1842, she probably didn't expect
+  to be debugging reality itself.
 ---
 
-## Episode Summary
 When Ada Lovelace created the first computer program in 1842, she probably didn't expect
 to be debugging reality itself. Today we explore the compelling evidence that our entire
 universe might be running on an impossibly advanced version of her Analytical Engine.

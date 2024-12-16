@@ -1,17 +1,19 @@
 ---
 layout: episode
 title: "The 'Science' of Star Wars"
-episode_number: 1-16
+episode_number-en: 1-16
 date: 2024-11-26
-duration: "24 minutes"
+duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/s7ws5tuijn7ifaz2/Episode_16_-_The_Science_of_Star_Wars_-_2024-11-25_1037_PM8zdl7.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000678259155"
 spotify_url: "https://open.spotify.com/episode/5LIxc5oxZqXJT1stK36Wo0?si=Ctn-3TgrRAS8EEsChrLYXA"
 youtube_url: "https://youtu.be/VMAuXTVuyGc?si=IRn7HDj1UrkUPvAG"
 transcript_url: "/assets/transcripts/episode-16.pdf"
+duration: "PT24M34S"
+description: >
+  From parsecs as a unit of time to midi-chlorians as a management strategy, we explore why the 'science' of Star Wars makes about as much sense as your company's org chart. Our automated response system provides quantum-accurate calculations of why the Kessel Run measurement needs a serious peer review.
 ---
 
-## Episode Summary
 From parsecs as a unit of time to midi-chlorians as a management strategy, we explore why the 'science' of Star Wars makes about as much sense as your company's org chart. Our automated response system provides quantum-accurate calculations of why the Kessel Run measurement needs a serious peer review.
 
 {: .callout}

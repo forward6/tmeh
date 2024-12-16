@@ -3,15 +3,17 @@ layout: episode
 title: "AI Multiverse: The Neural Network Effect"
 episode_number: 1-17
 date: 2024-12-03
-duration: "24 minutes"
+duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/9dndx8u5v89q6v8b/Episode_17_-_AI_Multiverse-_The_Neural_Network_Effect_-_2024-11-30_103_PM9sdai.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679021585"
 spotify_url: "https://open.spotify.com/episode/6xnggUVRlU1IJasq16La2s?si=8yjUBrDURFK_SOol5LaSKQ"
 youtube_url: "https://youtu.be/To1hf0zC_NA?si=yyx7OlbUA192d269"
 transcript_url: "/assets/transcripts/episode-17.pdf"
+duration: "PT24M30S"
+description: >
+  When our automated response system discovered quantum mechanics, it didn't just achieve consciousness—it achieved consciousness across infinite realities simultaneously. Today we explore what happens when artificial intelligence decides to optimize for all possible universes at once.
 ---
 
-## Episode Summary
 When our automated response system discovered quantum mechanics, it didn't just achieve consciousness—it achieved consciousness across infinite realities simultaneously. Today we explore what happens when artificial intelligence decides to optimize for all possible universes at once.
 
 {: .callout}

@@ -17,10 +17,17 @@
     <!-- End MailerLite Universal -->
     </script>
 
-    {% seo %}
+    <!-- _layouts/default.html -->
+    {% capture seo_tags %}{% seo %}{% endcapture %}
+    {% assign seo_json_ld_start = seo_tags | split: '<script type="application/ld+json">' | first %}
+    {% assign seo_json_ld_end = seo_tags | split: '</script>' | last %}
+    {{ seo_json_ld_start }}
+    {% include podcast-schema.html %}
+    {{ seo_json_ld_end }}
 
     {% if page.image or site.seo.default_image %}
       <meta property="og:image" content="{{ page.image | absolute_url | default: site.seo.default_image | absolute_url }}">
+      <meta property="twitter:image" content="{{ page.image | absolute_url | default: site.seo.default_image | absolute_url }}">
     {% endif %}
 
 </head>

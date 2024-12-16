@@ -3,6 +3,7 @@ layout: default
 title: "Blog - The Multiverse Employee Handbook"
 description: "Explore articles about quantum physics, workplace humor, and the intersection of science and corporate life"
 permalink: /blog/
+type: blog
 ---
 
 <div class="background-container">

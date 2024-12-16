@@ -3,15 +3,17 @@ layout: episode
 title: "The Multiversal Suggestion Box"
 episode_number: 1-13
 date: 2024-11-05
-duration: "20 minutes"
+duration-en: "20 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/d2ik947zrxtbfwxr/E13_-_The_Multiversal_Suggestion_Box_-_2024-11-04_1211_PM8xd2h.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000675739235"
 spotify_url: "https://open.spotify.com/episode/4YB2LcZv1KjLjUIh88bJps?si=-CJeMj2uTN2zB0JPGhH12w"
 youtube_url: "https://youtu.be/qTc6pAYAUpg?si=ZFwO5dOtVp9z-azg"
 transcript_url: "/assets/transcripts/episode-13.pdf"
+duration: "PT20M19S"
+description: >
+  When every employee suggestion manifests across infinite realities simultaneously, office improvement becomes more complicated than a quantum mechanics exam. Today we explore what happens when your humble suggestion box creates new universes faster than management can ignore them.
 ---
 
-## Episode Summary
 When every employee suggestion manifests across infinite realities simultaneously, office improvement becomes more complicated than a quantum mechanics exam. Today we explore what happens when your humble suggestion box creates new universes faster than management can ignore them.
 
 {: .callout}

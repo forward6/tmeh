@@ -3,15 +3,17 @@ layout: episode
 title: "The Multiversal Mail Room"
 episode_number: 1-5
 date: 2024-09-10
-duration: "34 minutes"
+duration-en: "34 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/fyg6kn4dm783nryu/Episode_5_-_The_Multiversal_Mail_Room6r5oe.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668986450"
 spotify_url: "https://open.spotify.com/episode/6QmINe4fjzKbRaENbW6PZ1?si=guuuUIJOQQSilWCmI9vBFQ"
 youtube_url: "https://youtu.be/I0Pbblah-S0?si=DxeX_dxLUWpkcK2r"
 transcript_url: "/assets/transcripts/episode-5.pdf"
+duration: "PT34M45S"
+description: >
+  When your interdimensional package is simultaneously delivered and lost in transit, you know you're dealing with quantum mail. Today we explore why postal services across the multiverse require patience, understanding, and a working knowledge of Schrödinger's tracking number.
 ---
 
-## Episode Summary
 When your interdimensional package is simultaneously delivered and lost in transit, you know you're dealing with quantum mail. Today we explore why postal services across the multiverse require patience, understanding, and a working knowledge of Schrödinger's tracking number.
 
 {: .callout}

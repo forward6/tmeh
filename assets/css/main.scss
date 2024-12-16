@@ -116,7 +116,7 @@ nav {
 }
 
 h1 {
-    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-size: clamp(2.2rem, 5vw, 4rem);
     margin-bottom: 1.5rem
 }
 
@@ -131,7 +131,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 1rem auto;
+    margin: .5rem auto;
     text-align: center
 }
 
@@ -1237,7 +1237,7 @@ h1 {
             opacity: .6
         }
     }
-    .platform-grid {
+    .platform-grid .platforms {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -1310,5 +1310,9 @@ h1 {
         }
     }
 
+    .logo-container {
+        margin: 0rem auto;
+
+    }
 
 }

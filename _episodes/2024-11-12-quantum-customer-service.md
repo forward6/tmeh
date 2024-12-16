@@ -3,15 +3,17 @@ layout: episode
 title: "Quantum Customer Service: Supporting Users Across the Multiverse"
 episode_number: 1-14
 date: 2024-11-12
-duration: "22 minutes"
+duration-en: "22 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/gdztfn4kb3exysuy/Episode_14_-_Quantum_Customer_Service-_Supporting_Users_Across_the_Multiverse_-_2024-11-11_1008_AM7tnxu.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000676610404"
 spotify_url: "https://open.spotify.com/episode/04YTcPZp1vDdkcT78Vk9dG?si=ad_iZMRiT-OlVgmHFUbbtg"
 youtube_url: "https://youtu.be/VuL-CYFaOSU?si=K6A5hK9GB4ug5-cX"
 transcript_url: "/assets/transcripts/episode-14.pdf"
+duration: "PT22M47S"
+description: >
+  When "Have you tried turning it off and on again?" becomes exponentially more complicated across infinite realities, you know you're dealing with quantum customer service. Today we explore why tech support across the multiverse requires patience, understanding, and a working knowledge of parallel universe protocols.
 ---
 
-## Episode Summary
 When "Have you tried turning it off and on again?" becomes exponentially more complicated across infinite realities, you know you're dealing with quantum customer service. Today we explore why tech support across the multiverse requires patience, understanding, and a working knowledge of parallel universe protocols.
 
 {: .callout}

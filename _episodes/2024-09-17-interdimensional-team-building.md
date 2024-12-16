@@ -3,15 +3,17 @@ layout: episode
 title: "Interdimensional Team Building"
 episode_number: 1-6
 date: 2024-09-17
-duration: "29 minutes"
+duration-en: "29 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ziqqkc7pmdnkb84y/Episode_6-_Interdimensional_Team_Building_-_2024-09-10_310_PM7c9pw.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000669791290"
 spotify_url: "https://open.spotify.com/episode/71Tda9MC50K5PlXDSnBEVT?si=e7PZRp4ESL-UvOM991Nohg"
 youtube_url: "https://youtu.be/49JhzuZ9e0s?si=wf28QxPhaaQRXFtY"
 transcript_url: "/assets/transcripts/episode-6.pdf"
+duration: "PT29M9S"
+description: >
+  Trust falls become exponentially more complicated when gravity is optional and your team members exist in quantum superposition. Today we explore why team building exercises across multiple dimensions require more than just a positive attitude.
 ---
 
-## Episode Summary
 Trust falls become exponentially more complicated when gravity is optional and your team members exist in quantum superposition. Today we explore why team building exercises across multiple dimensions require more than just a positive attitude.
 
 {: .callout}

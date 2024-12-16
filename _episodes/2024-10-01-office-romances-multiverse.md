@@ -3,15 +3,17 @@ layout: episode
 title: "Office Romances Across the Multiverse"
 episode_number: 1-8
 date: 2024-10-01
-duration: "30 minutes"
+duration-en: "30 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/4zfztee78x7gjcbp/E8_-_Office_Romances_Across_the_Multiverse6wt60.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000671392254"
 spotify_url: "https://open.spotify.com/episode/0omqX5zTwr14uhow1JNhEs?si=Ge5IdQDWTJuBqLadyYynRw"
 youtube_url: "https://youtu.be/FF92x_3wOsM?si=dWDogYNQpnMSnBev"
 transcript_url: "/assets/transcripts/episode-8.pdf"
+duration: "PT30M46S"
+description: >
+  Dating your coworkers becomes exponentially more complicated when you have to consider quantum entanglement and parallel universe protocols. Today we explore why "it's complicated" doesn't begin to describe office romance in the multiverse.
 ---
 
-## Episode Summary
 Dating your coworkers becomes exponentially more complicated when you have to consider quantum entanglement and parallel universe protocols. Today we explore why "it's complicated" doesn't begin to describe office romance in the multiverse.
 
 {: .callout}

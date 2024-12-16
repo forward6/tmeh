@@ -27,6 +27,7 @@ description: "A mind-bending journey through interdimensional corporate culture 
     <a href="https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp" class="platform-link">YouTube</a>
 </div>
 </section>
+
 <section class="newsletter">
     <h2>Subscribe to Our Interdimensional Newsletter</h2>
     <p>Get exclusive bonus content and updates delivered directly to your inbox (across all possible timelines).</p>
