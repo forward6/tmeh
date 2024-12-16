@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Dress Code: Navigating Non-Euclidean Fashion"
-episode_number: 1-3
+episode_number: 3
+season_number: 1
 date: 2024-08-27
 duration: "25 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cq82v2dqer874waz/The_Multiverse_Employee_Handbook_E3_-_Dress_for_Success-_Multidimensional_Edition.mp3"

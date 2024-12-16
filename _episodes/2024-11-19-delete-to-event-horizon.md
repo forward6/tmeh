@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Delete to: Event.Horizon"
-episode_number: 1-15
+episode_number: 15
+season_number: 1
 date: 2024-11-19
 duration-en: "19 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/7h4c365w5hpyb4fa/Episode_15_-_Delete_to-_EventHorizon_-_2024-11-18_1222_PMawcbe.mp3"

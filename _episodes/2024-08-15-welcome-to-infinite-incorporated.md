@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Welcome to Infinite Incorporated: Your Multiversal Orientation"
-episode_number: 1-1
+episode_number: 1
+season_number: 1
 date: 2024-08-21
 duration: "28 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/dz549nuh6favm4t7/The_Multiverse_Employee_Handbook_E1_-_Orientation_Daybdegj.mp3"

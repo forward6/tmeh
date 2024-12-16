@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "AI Multiverse: The Neural Network Effect"
-episode_number: 1-17
+episode_number: 17
+season_number: 1
 date: 2024-12-03
 duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/9dndx8u5v89q6v8b/Episode_17_-_AI_Multiverse-_The_Neural_Network_Effect_-_2024-11-30_103_PM9sdai.mp3"

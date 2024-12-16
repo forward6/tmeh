@@ -1,14 +1,15 @@
 ---
 layout: episode
 title: "Bonus Episode: Remember, Remember the Quantum 5th of November"
-episode_number: "1-B2"
+episode_number: "Bonus 3"
+season_number: 1
 date: 2024-11-05
 duration-en: "12 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/5725nyjiuhizfp4i/Bonus_episode_-_Guy_Fawkes_and_revolutions_-_2024-11-05_1057_AMbhtel.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000675789191"
 spotify_url: "https://open.spotify.com/episode/1lRCiWeP2D5o8VfTlHNbNV?si=t1D_gO3IRbO88q0m4Mq8-A"
 youtube_url: "https://youtu.be/uU_7LS8dqy0?si=v9YZGOgAiJzFlliP"
-transcript_url: "/assets/transcripts/bonus-2.pdf"
+transcript_url: "/assets/transcripts/bonus-3.pdf"
 duration: "PT12M13S"
 description: >
   On this special November 5th episode, we explore what happens when Guy Fawkes meets quantum mechanics. Does a plot existing in superposition count as treason? Our automated response system calculates the probability of gunpowder igniting across multiple realities.

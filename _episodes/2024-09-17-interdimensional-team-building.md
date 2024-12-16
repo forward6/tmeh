@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Interdimensional Team Building"
-episode_number: 1-6
+episode_number: 6
+season_number: 1
 date: 2024-09-17
 duration-en: "29 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ziqqkc7pmdnkb84y/Episode_6-_Interdimensional_Team_Building_-_2024-09-10_310_PM7c9pw.mp3"

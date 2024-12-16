@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The Infinite Performance Review"
-episode_number: 1-7
+episode_number: 7
+season_number: 1
 date: 2024-09-24
 duration-en: "28 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/qu8puqpsa2afb4vq/Episode_7_-_The_Infinite_Performance_Review7sdbx.mp3"

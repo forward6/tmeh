@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The Multiversal Office Party"
-episode_number: 1-12
+episode_number: 12
+season_number: 1
 date: 2024-10-29
 duration-en: "23 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/f4chuc37e3uhkcs7/E12_-_THE_Multiversal_Office_Party_-_2024-10-23_938_PMbgler.mp3"

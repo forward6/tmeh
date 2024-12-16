@@ -1,14 +1,15 @@
 ---
 layout: episode
 title: "Bonus Episode: Heisenberg Breaking Bad - The Formula"
-episode_number: "1-B3"
+episode_number: "Bonus 4"
+season_number: 1
 date: 2024-12-05
 duration-en: "15 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/77rhash6p6enhjse/Bonus_-_Werner_Heisenberg_Breaks_bad_-_2024-12-02_622_PM64fjy.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679318568"
 spotify_url: "https://open.spotify.com/episode/7DLd9vbjymRy9EiPfiS2K8?si=dbiMR8stT6-EMH_aeLCWEA"
 youtube_url: "https://youtu.be/pvw87k7TosE?si=PejSDiC1ngnRRXr7"
-transcript_url: "/assets/transcripts/bonus-1.pdf"
+transcript_url: "/assets/transcripts/bonus-4.pdf"
 duration: "PT15M2S"
 description: >
   What happens when you mix quantum mechanics with corporate chemistry? In this special bonus episode, we explore how Werner Heisenberg's Uncertainty Principle applies to everything from office politics to that mysterious growth in the break room fridge.

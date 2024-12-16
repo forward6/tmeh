@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The Ninth Doctor"
-episode_number: 1-9
+episode_number: 9
+season_number: 1
 date: 2024-10-08
 duration-en: "32 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/dq4q2b2c8jwtdmis/E9_-_The_Ninth_Doctor7ih4d.mp3"

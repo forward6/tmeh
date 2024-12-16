@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The Multiversal Suggestion Box"
-episode_number: 1-13
+episode_number: 13
+season_number: 1
 date: 2024-11-05
 duration-en: "20 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/d2ik947zrxtbfwxr/E13_-_The_Multiversal_Suggestion_Box_-_2024-11-04_1211_PM8xd2h.mp3"

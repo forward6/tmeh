@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Interdimensional Commuting 101"
-episode_number: 1-2
+episode_number: 2
+season_number: 1
 date: 2024-08-22
 duration: "23 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/se7x7fxrwzcgb8nk/The_Multiverse_Employee_Handbook_E2_-_Interdimensional_Commuting_1017nemo.mp3"

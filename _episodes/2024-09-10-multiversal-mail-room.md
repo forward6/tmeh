@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The Multiversal Mail Room"
-episode_number: 1-5
+episode_number: 5
+season_number: 1
 date: 2024-09-10
 duration-en: "34 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/fyg6kn4dm783nryu/Episode_5_-_The_Multiversal_Mail_Room6r5oe.mp3"

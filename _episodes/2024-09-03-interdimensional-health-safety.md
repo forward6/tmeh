@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Interdimensional Health & Safety"
-episode_number: 1-4
+episode_number: 4
+season_number: 1
 date: 2024-09-03
 duration: "26 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ahj3mgv56rwxsuy5/E4_-_Interdimensional_Health_Safetyarnci.mp3"

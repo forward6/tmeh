@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Quantum Customer Service: Supporting Users Across the Multiverse"
-episode_number: 1-14
+episode_number: 14
+season_number: 1
 date: 2024-11-12
 duration-en: "22 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/gdztfn4kb3exysuy/Episode_14_-_Quantum_Customer_Service-_Supporting_Users_Across_the_Multiverse_-_2024-11-11_1008_AM7tnxu.mp3"

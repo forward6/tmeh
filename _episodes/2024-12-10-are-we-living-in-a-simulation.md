@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Are We Living In A Simulation?"
-episode_number: 1-18
+episode_number: 18
+season_number: 1
 date: 2024-12-10
 duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/z6wg6jbik5icknm8/Episode_18_-_Analytical_Engine_Error-_System_Reality_Not_Found_-_2024-12-06_844_PM9zuks.mp3"

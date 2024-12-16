@@ -1,14 +1,15 @@
 ---
 layout: episode
 title: "Bonus Episode: The Universe as a Hologram - Unpacking the Holographic Principle"
-episode_number: "1-B0"
+episode_number: "Bonus 1"
+season_number: 1
 date: 2024-09-05
 duration: "5 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/pf24wkqir69pe45j/Bonus-The_Holographic_Principle_Unpacked_-_2024-09-01_1042_PM97z55.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668441993"
 spotify_url: "https://open.spotify.com/episode/3Jo8kydNvScd24xs2hKuI8?si=tQ7z4Dd6RkeDbGz7b29S_w"
 youtube_url: "https://youtu.be/S_88H9aEeEQ?si=Xc1jTJKZNWdz4XN7"
-transcript_url: "/assets/transcripts/bonus-4.pdf"
+transcript_url: "/assets/transcripts/bonus-1.pdf"
 ---
 
 ## Episode Summary

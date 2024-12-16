@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "Office Romances Across the Multiverse"
-episode_number: 1-8
+episode_number: 8
+season_number: 1
 date: 2024-10-01
 duration-en: "30 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/4zfztee78x7gjcbp/E8_-_Office_Romances_Across_the_Multiverse6wt60.mp3"

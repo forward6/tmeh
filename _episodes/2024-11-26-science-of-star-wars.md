@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "The 'Science' of Star Wars"
-episode_number-en: 1-16
+episode_number: 16
+season_number: 1
 date: 2024-11-26
 duration-en: "24 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/s7ws5tuijn7ifaz2/Episode_16_-_The_Science_of_Star_Wars_-_2024-11-25_1037_PM8zdl7.mp3"

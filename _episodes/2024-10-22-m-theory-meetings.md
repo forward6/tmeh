@@ -1,7 +1,8 @@
 ---
 layout: episode
 title: "M-Theory and Meetings About Meetings"
-episode_number: 1-11
+episode_number: 11
+season_number: 1
 date: 2024-10-22
 duration-en: "32 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/yq7wmg6uuspgic67/E11_-_M-Theory_And_Meetings_About_Meetings_-_TMEH7wzrw.mp3"
