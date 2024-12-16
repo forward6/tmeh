@@ -4,15 +4,17 @@ title: "Interdimensional Health & Safety"
 episode_number: 4
 season_number: 1
 date: 2024-09-03
-duration: "26 minutes"
+duration-en: "26 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ahj3mgv56rwxsuy5/E4_-_Interdimensional_Health_Safetyarnci.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668124346"
 spotify_url: "https://open.spotify.com/episode/4oyWvm1ECpTGjvjJB3GNPk?si=4lO5pOdLSmWRtndcf-gP2Q"
 youtube_url: "https://youtu.be/Ireq-aGhXxM?si=jAEqqufNtjWbdvBl"
 transcript_url: "/assets/transcripts/episode-4.pdf"
+duration: "PT26M56S"
+description: >
+  Learn the proper handling of antimatter in office microwaves, master emergency procedures for spontaneous dimension shifts, and discover coping strategies for the existential dread of infinite possibilities. The safety manual has never been this quantum.
 ---
 
-## Episode Summary
 Learn the proper handling of antimatter in office microwaves, master emergency procedures for spontaneous dimension shifts, and discover coping strategies for the existential dread of infinite possibilities. The safety manual has never been this quantum.
 
 {: .callout}

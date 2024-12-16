@@ -4,15 +4,17 @@ title: "Interdimensional Commuting 101"
 episode_number: 2
 season_number: 1
 date: 2024-08-22
-duration: "23 minutes"
+duration-en: "23 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/se7x7fxrwzcgb8nk/The_Multiverse_Employee_Handbook_E2_-_Interdimensional_Commuting_1017nemo.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666269355"
 spotify_url: "https://open.spotify.com/episode/2xjr0bUHtZMBZHAu48G7Ep?si=H_KhkH1DSPuRk9Yh2-VqvQ"
 youtube_url: "https://youtu.be/nAoD2ONabjU?si=DWaorOGCc2YXBj6u"
 transcript_url: "/assets/transcripts/episode-2.pdf"
+duration: "PT23M32S"
+description: >
+  Navigate the cosmic commute conundrum with our guide to wormhole etiquette and temporal traffic management. Learn why "I got stuck in a time dilation field" isn't a valid excuse for being late, and discover the art of quantum parking.
 ---
 
-## Episode Summary
 Navigate the cosmic commute conundrum with our guide to wormhole etiquette and temporal traffic management. Learn why "I got stuck in a time dilation field" isn't a valid excuse for being late, and discover the art of quantum parking.
 
 {: .callout}

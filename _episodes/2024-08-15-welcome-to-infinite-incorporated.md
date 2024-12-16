@@ -4,15 +4,17 @@ title: "Welcome to Infinite Incorporated: Your Multiversal Orientation"
 episode_number: 1
 season_number: 1
 date: 2024-08-21
-duration: "28 minutes"
+duration-en: "28 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/dz549nuh6favm4t7/The_Multiverse_Employee_Handbook_E1_-_Orientation_Daybdegj.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666171985"
 spotify_url: "https://open.spotify.com/episode/0MM6qcfcP071YgVmEiNheN?si=ojXKnLBlSCSpoysitQageg"
 youtube_url: "https://youtu.be/GZ50RdDtpJs?si=b3uo5qrwiT-XPulg"
 transcript_url: "/assets/transcripts/episode-1.pdf"
+duration: "PT28M04S"
+description: >
+  Welcome to your first day at Infinite Incorporated! Navigate the complexities of interdimensional corporate culture as we explore the basics of dimensionality, proper quantum workplace etiquette, and why the break room exists in a superposition of states until someone checks the fridge.
 ---
 
-## Episode Summary
 Welcome to your first day at Infinite Incorporated! Navigate the complexities of interdimensional corporate culture as we explore the basics of dimensionality, proper quantum workplace etiquette, and why the break room exists in a superposition of states until someone checks the fridge.
 
 {: .callout}

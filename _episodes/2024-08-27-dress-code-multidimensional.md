@@ -4,15 +4,17 @@ title: "Dress Code: Navigating Non-Euclidean Fashion"
 episode_number: 3
 season_number: 1
 date: 2024-08-27
-duration: "25 minutes"
+duration-en: "25 minutes"
 audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cq82v2dqer874waz/The_Multiverse_Employee_Handbook_E3_-_Dress_for_Success-_Multidimensional_Edition.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666757385"
 spotify_url: "https://open.spotify.com/episode/4w0Yir9hpIwh1jr9c0g56w?si=S4mA5orLTKO2KMs_JLcDEw"
 youtube_url: "https://youtu.be/Odne6eozIMA?si=Tdj133rw_eJzGegn"
 transcript_url: "/assets/transcripts/episode-3.pdf"
+duration: "PT25M59S"
+description: >
+  Klein bottles are the new power suits, and dressing for success takes on new meaning when your clothes exist in quantum superposition. Today we explore why office fashion in the multiverse requires more than just good taste.
 ---
 
-## Episode Summary
 Klein bottles are the new power suits, and dressing for success takes on new meaning when your clothes exist in quantum superposition. Today we explore why office fashion in the multiverse requires more than just good taste.
 
 {: .callout}
