@@ -30,6 +30,9 @@
       <meta property="twitter:image" content="{{ page.image | absolute_url | default: site.seo.default_image | absolute_url }}">
     {% endif %}
 
+    {% if jekyll.environment == 'production' %}
+        {% include google-analytics.html %}
+    {% endif %}
 </head>
 <body>
     {% include nav.html %}
