@@ -48,7 +48,7 @@ plugins:
   - jekyll-sitemap
 
 sass:
-  style: expanded # or expanded / compressed
+  style: compressed # or expanded / compressed
   sass_dir: _sass
   css_dir: assets/css
 
