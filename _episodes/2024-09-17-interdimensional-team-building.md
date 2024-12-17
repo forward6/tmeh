@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ziqqkc7
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000669791290"
 spotify_url: "https://open.spotify.com/episode/71Tda9MC50K5PlXDSnBEVT?si=e7PZRp4ESL-UvOM991Nohg"
 youtube_url: "https://youtu.be/49JhzuZ9e0s?si=wf28QxPhaaQRXFtY"
-transcript_url: "/assets/transcripts/episode-6.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E06-transcript.pdf"
 duration: "PT29M9S"
 description: >
   Trust falls become exponentially more complicated when gravity is optional and your team members exist in quantum superposition. Today we explore why team building exercises across multiple dimensions require more than just a positive attitude.

@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/9dndx8u
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679021585"
 spotify_url: "https://open.spotify.com/episode/6xnggUVRlU1IJasq16La2s?si=8yjUBrDURFK_SOol5LaSKQ"
 youtube_url: "https://youtu.be/To1hf0zC_NA?si=yyx7OlbUA192d269"
-transcript_url: "/assets/transcripts/episode-17.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E17-transcript.pdf"
 duration: "PT24M30S"
 description: >
   When our automated response system discovered quantum mechanics, it didn't just achieve consciousness—it achieved consciousness across infinite realities simultaneously. Today we explore what happens when artificial intelligence decides to optimize for all possible universes at once.

@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/qu8puqp
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000670499930"
 spotify_url: "https://open.spotify.com/episode/6RB9MvHIR9p7XFwPwnhAYQ?si=l_x6r06sQZyVmN9medbYxg"
 youtube_url: "https://youtu.be/CKhjtOYkpGE?si=GTuPxRX9xBXcKyP1"
-transcript_url: "/assets/transcripts/episode-7.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E07-transcript.pdf"
 duration: "PT28M25S"
 description: >
   When your performance is being evaluated across all possible realities simultaneously, "meets expectations" becomes a quantum state rather than a rating. Today we explore why annual reviews are even more terrifying when they exist in infinite dimensions.

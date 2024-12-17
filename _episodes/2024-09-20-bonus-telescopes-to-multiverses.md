@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/9zgcrpk
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000670189791"
 spotify_url: "https://open.spotify.com/episode/0Cgowe0oKFeMJ74owsPnIo?si=c9KXIXdsSnmHu1H6G9kVaw"
 youtube_url: "https://youtu.be/7GkwEktOvFs?si=gvDjBrug2u_V3INr"
-transcript_url: "/assets/transcripts/bonus-2.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01B02-transcript.pdf"
 duration: "PT7M41S"
 description: >
   From Galileo's simple telescope to quantum observations of parallel universes, our understanding of cosmic observation has evolved dramatically. Today we explore how looking at the stars became peering into other dimensions.

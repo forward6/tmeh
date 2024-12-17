@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/pf24wkq
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668441993"
 spotify_url: "https://open.spotify.com/episode/3Jo8kydNvScd24xs2hKuI8?si=tQ7z4Dd6RkeDbGz7b29S_w"
 youtube_url: "https://youtu.be/S_88H9aEeEQ?si=Xc1jTJKZNWdz4XN7"
-transcript_url: "/assets/transcripts/bonus-1.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01B01-transcript.pdf"
 duration: "PT5M34S"
 description: >
   Ever wondered if our universe is just a giant cosmic hard drive? The holographic principle suggests that all the information contained within our 3D universe might be encoded on a 2D surface. It's like discovering your entire reality is just a really sophisticated PowerPoint presentation.

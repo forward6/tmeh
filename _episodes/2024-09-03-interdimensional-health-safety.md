@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/ahj3mgv
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668124346"
 spotify_url: "https://open.spotify.com/episode/4oyWvm1ECpTGjvjJB3GNPk?si=4lO5pOdLSmWRtndcf-gP2Q"
 youtube_url: "https://youtu.be/Ireq-aGhXxM?si=jAEqqufNtjWbdvBl"
-transcript_url: "/assets/transcripts/episode-4.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E04-transcript.pdf"
 duration: "PT26M56S"
 description: >
   Learn the proper handling of antimatter in office microwaves, master emergency procedures for spontaneous dimension shifts, and discover coping strategies for the existential dread of infinite possibilities. The safety manual has never been this quantum.

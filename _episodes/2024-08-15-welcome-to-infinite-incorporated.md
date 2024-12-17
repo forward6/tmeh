@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/dz549nu
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666171985"
 spotify_url: "https://open.spotify.com/episode/0MM6qcfcP071YgVmEiNheN?si=ojXKnLBlSCSpoysitQageg"
 youtube_url: "https://youtu.be/GZ50RdDtpJs?si=b3uo5qrwiT-XPulg"
-transcript_url: "/assets/transcripts/episode-1.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E01-transcript.pdf"
 duration: "PT28M04S"
 description: >
   Welcome to your first day at Infinite Incorporated! Navigate the complexities of interdimensional corporate culture as we explore the basics of dimensionality, proper quantum workplace etiquette, and why the break room exists in a superposition of states until someone checks the fridge.

@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/fyg6kn4
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000668986450"
 spotify_url: "https://open.spotify.com/episode/6QmINe4fjzKbRaENbW6PZ1?si=guuuUIJOQQSilWCmI9vBFQ"
 youtube_url: "https://youtu.be/I0Pbblah-S0?si=DxeX_dxLUWpkcK2r"
-transcript_url: "/assets/transcripts/episode-5.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E05-transcript.pdf"
 duration: "PT34M45S"
 description: >
   When your interdimensional package is simultaneously delivered and lost in transit, you know you're dealing with quantum mail. Today we explore why postal services across the multiverse require patience, understanding, and a working knowledge of Schrödinger's tracking number.

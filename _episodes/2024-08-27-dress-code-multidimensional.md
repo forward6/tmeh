@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/cq82v2d
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666757385"
 spotify_url: "https://open.spotify.com/episode/4w0Yir9hpIwh1jr9c0g56w?si=S4mA5orLTKO2KMs_JLcDEw"
 youtube_url: "https://youtu.be/Odne6eozIMA?si=Tdj133rw_eJzGegn"
-transcript_url: "/assets/transcripts/episode-3.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E03-transcript.pdf"
 duration: "PT25M59S"
 description: >
   Klein bottles are the new power suits, and dressing for success takes on new meaning when your clothes exist in quantum superposition. Today we explore why office fashion in the multiverse requires more than just good taste.

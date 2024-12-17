@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/5725nyj
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000675789191"
 spotify_url: "https://open.spotify.com/episode/1lRCiWeP2D5o8VfTlHNbNV?si=t1D_gO3IRbO88q0m4Mq8-A"
 youtube_url: "https://youtu.be/uU_7LS8dqy0?si=v9YZGOgAiJzFlliP"
-transcript_url: "/assets/transcripts/bonus-3.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01B03-transcript.pdf"
 duration: "PT12M13S"
 description: >
   On this special November 5th episode, we explore what happens when Guy Fawkes meets quantum mechanics. Does a plot existing in superposition count as treason? Our automated response system calculates the probability of gunpowder igniting across multiple realities.

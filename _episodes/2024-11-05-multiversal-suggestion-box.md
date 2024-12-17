@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/d2ik947
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000675739235"
 spotify_url: "https://open.spotify.com/episode/4YB2LcZv1KjLjUIh88bJps?si=-CJeMj2uTN2zB0JPGhH12w"
 youtube_url: "https://youtu.be/qTc6pAYAUpg?si=ZFwO5dOtVp9z-azg"
-transcript_url: "/assets/transcripts/episode-13.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E13-transcript.pdf"
 duration: "PT20M19S"
 description: >
   When every employee suggestion manifests across infinite realities simultaneously, office improvement becomes more complicated than a quantum mechanics exam. Today we explore what happens when your humble suggestion box creates new universes faster than management can ignore them.

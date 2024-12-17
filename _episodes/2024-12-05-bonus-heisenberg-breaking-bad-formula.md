@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/77rhash
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679318568"
 spotify_url: "https://open.spotify.com/episode/7DLd9vbjymRy9EiPfiS2K8?si=dbiMR8stT6-EMH_aeLCWEA"
 youtube_url: "https://youtu.be/pvw87k7TosE?si=PejSDiC1ngnRRXr7"
-transcript_url: "/assets/transcripts/bonus-4.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01B04-transcript.pdf"
 duration: "PT15M2S"
 description: >
   What happens when you mix quantum mechanics with corporate chemistry? In this special bonus episode, we explore how Werner Heisenberg's Uncertainty Principle applies to everything from office politics to that mysterious growth in the break room fridge.

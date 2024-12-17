@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/z6wg6jb
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000679859075"
 spotify_url: "https://open.spotify.com/episode/0mrFjKGhnB3V8GhPefED9c?si=BhAc25j1SUW2IZfVTTQqGQ"
 youtube_url: "https://youtu.be/63p7VvUn1_U?si=mybLQc_aF_tJRYHd"
-transcript_url: "/assets/transcripts/episode-18.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E18-transcript.pdf"
 duration: "PT24M13S"
 description: >
   When Ada Lovelace created the first computer program in 1842, she probably didn't expect

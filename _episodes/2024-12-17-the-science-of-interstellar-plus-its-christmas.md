@@ -9,7 +9,7 @@ audio_url: "https://mcdn.podbean.com/mf/download/nw2nwrxcdntbbtzq/multiverse-emp
 apple_url: "https://podcasts.apple.com/us/podcast/the-science-of-interstellar-plus-its-christmas/id1764134739?i=1000680667278"
 spotify_url: "https://open.spotify.com/episode/6RTBfnoZGwblNRwwXGffOB"
 youtube_url: "https://youtu.be/Rpp9SzfjDO8"
-transcript_url: "/assets/transcripts/episode-19.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E19-transcript.pdf"
 duration: "PT21M30S"
 description: >
   When the office Grinch discovers gravitational time dilation, Christmas gets a lot more relative.

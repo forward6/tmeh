@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/7h4c365
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000677443591"
 spotify_url: "https://open.spotify.com/episode/5ImS99euWIXasHowFcbQUC?si=99xLDeH8RGmkYNzizfEQRg"
 youtube_url: "https://youtu.be/WqtY9iVzyoA?si=bMELhzregoDbho9J"
-transcript_url: "/assets/transcripts/episode-15.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E15-transcript.pdf"
 duration: "PT19M44S"
 description: >
   When the Detroit Data Center accidentally created a black hole while trying to permanently delete some embarrassing emails, we learned an important lesson about information theory and corporate memory. Today we explore why some things can't be deleted, only quantum encrypted by the laws of physics themselves.

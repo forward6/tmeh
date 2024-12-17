@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/se7x7fx
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000666269355"
 spotify_url: "https://open.spotify.com/episode/2xjr0bUHtZMBZHAu48G7Ep?si=H_KhkH1DSPuRk9Yh2-VqvQ"
 youtube_url: "https://youtu.be/nAoD2ONabjU?si=DWaorOGCc2YXBj6u"
-transcript_url: "/assets/transcripts/episode-2.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E02-transcript.pdf"
 duration: "PT23M32S"
 description: >
   Navigate the cosmic commute conundrum with our guide to wormhole etiquette and temporal traffic management. Learn why "I got stuck in a time dilation field" isn't a valid excuse for being late, and discover the art of quantum parking.

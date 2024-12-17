@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/f4chuc3
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000674830926"
 spotify_url: "https://open.spotify.com/episode/0NNwALEkuyLyjkHpkektQu?si=VRcO_x1wSumhhflkH9P8uQ"
 youtube_url: "https://youtu.be/S5tZnr8rHsI?si=dMIQXXQIgXdYWJDK"
-transcript_url: "/assets/transcripts/episode-12.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E12-transcript.pdf"
 duration: "PT23M16S"
 description: >
   Planning an office party is complicated enough without having to consider antimatter punch and quantum superposition on the dance floor. Join us as we explore the challenges of celebrating across the cosmos, where every party game creates its own timeline.

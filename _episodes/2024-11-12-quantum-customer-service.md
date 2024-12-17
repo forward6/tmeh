@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/gdztfn4
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000676610404"
 spotify_url: "https://open.spotify.com/episode/04YTcPZp1vDdkcT78Vk9dG?si=ad_iZMRiT-OlVgmHFUbbtg"
 youtube_url: "https://youtu.be/VuL-CYFaOSU?si=K6A5hK9GB4ug5-cX"
-transcript_url: "/assets/transcripts/episode-14.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E14-transcript.pdf"
 duration: "PT22M47S"
 description: >
   When "Have you tried turning it off and on again?" becomes exponentially more complicated across infinite realities, you know you're dealing with quantum customer service. Today we explore why tech support across the multiverse requires patience, understanding, and a working knowledge of parallel universe protocols.

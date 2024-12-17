@@ -9,7 +9,7 @@ audio_url: "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/s7ws5tu
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000678259155"
 spotify_url: "https://open.spotify.com/episode/5LIxc5oxZqXJT1stK36Wo0?si=Ctn-3TgrRAS8EEsChrLYXA"
 youtube_url: "https://youtu.be/VMAuXTVuyGc?si=IRn7HDj1UrkUPvAG"
-transcript_url: "/assets/transcripts/episode-16.pdf"
+transcript_url: "/assets/transcripts/TMEH-S01E16-transcript.pdf"
 duration: "PT24M34S"
 description: >
   From parsecs as a unit of time to midi-chlorians as a management strategy, we explore why the 'science' of Star Wars makes about as much sense as your company's org chart. Our automated response system provides quantum-accurate calculations of why the Kessel Run measurement needs a serious peer review.
