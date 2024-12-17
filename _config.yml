@@ -75,6 +75,7 @@ collections:
     output: true
     permalink: /episodes/:title/
 
+google_analytics: G-XL9H3WFKSE
 
 # Exclude from processing.
 # The following items will not be processed, by default.
