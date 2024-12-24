@@ -22,7 +22,8 @@ title: "The Multiverse Employee Handbook Podcast | Quantum Physics Meets Comedy"
 email: podcast@multiverseemployeehandbook.com
 description: "Where quantum physics meets office humor: A weekly podcast exploring the bizarre intersection of corporate life and cosmic uncertainty. From parallel universe performance reviews to quantum coffee breaks, we make science entertaining and office life existential."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://multiverseemployeehandbook.com/" # Replace with your live site URL
+url: "https://multiverseemployeehandbook.com" # Replace with your live site URL
+
 image: /assets/The_Multiverse_Employee_Handbook_Logo_1024.jpeg
 author:
   name: Robb Corrigan
