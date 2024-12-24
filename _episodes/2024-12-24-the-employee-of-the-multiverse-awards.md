@@ -4,13 +4,13 @@ title: "The Employee of the Multiverse Awards!"
 episode_number: 20
 season_number: 1
 date: 2024-12-24
-duration-en: "23 minutes"
+duration-en: "21 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/nw2nwrxcdntbbtzq/multiverse-employee-handbook-s01e20-employee-multiverse-awards.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/employee-of-the-multiverse-awards-a-quantum-celebration/id1764134739?i=1000681535831"
 spotify_url: "https://open.spotify.com/episode/0tSsuikpDrIV1PoThDvU2y?si=OPFZPZPTSKG1B4ef69Xw6A"
 youtube_url: "https://youtu.be/lUtB8YlEWoI?si=jFYpAz7Z8o60nIYg"
 transcript_url: "/assets/transcripts/TMEH-S01E20-transcript.pdf"
-duration: "PT23M45S"
+duration: "PT21M30S"
 description: >
   Excellence exists in a superposition of states until the performance review collapses the wave function.
 ---
