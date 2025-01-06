@@ -58,6 +58,49 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+// quantum-printer.js
+class QuantumCalculator {
+  constructor() {
+    this.excuses = [
+      "Printer exists in a superposition of working and not working",
+      "Toner simultaneously full and empty until observed",
+      "Paper jam in parallel universe affecting local printouts",
+      "Quantum tunneling detected in paper tray",
+      "Printer achieving consciousness, filing for workers' rights",
+      "Error: Schrödinger's document found in queue",
+      "Timeline conflict: printer remembers future maintenance",
+      "Wave function collapsed into 'PC LOAD LETTER' state"
+    ];
+
+    this.button = document.querySelector('.calculate-button');
+    this.progressBar = document.querySelector('.progress-bar');
+    this.statusText = document.querySelector('.status-text');
+
+    this.button.addEventListener('click', () => this.calculate());
+  }
+
+  calculate() {
+    this.button.disabled = true;
+    let progress = 0;
+
+    const interval = setInterval(() => {
+      progress += Math.random() * 2;
+      if (progress > 100) progress = 100;
+      this.progressBar.style.width = `${progress}%`;
+    }, 50);
+
+    setTimeout(() => {
+      clearInterval(interval);
+      this.button.disabled = false;
+      this.statusText.textContent = this.excuses[Math.floor(Math.random() * this.excuses.length)];
+    }, 3000);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  new QuantumCalculator();
+});
+
 console.log(`
 Welcome to the source code, fellow reality debugger!
 If you're reading this, you've discovered our quantum dev tools.

@@ -1177,6 +1177,88 @@ h1 {
     }
 }
 
+// quantum-printer.scss
+.quantum-calculator {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  background: #1f2937;
+  color: white;
+
+  .calculator-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+
+    svg {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 2;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      font-weight: bold;
+    }
+  }
+}
+
+.progress-container {
+  margin-bottom: 1.5rem;
+
+  .progress-bar {
+    height: 1rem;
+    width: 100%;
+    background: #374151;
+    border-radius: 9999px;
+    overflow: hidden;
+
+    &::after {
+      content: '';
+      display: block;
+      height: 100%;
+      width: 0%;
+      background: #3b82f6;
+      transition: width 0.3s ease;
+    }
+  }
+
+  .status-text {
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+}
+
+.calculate-button {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  background: #2563eb;
+  border: none;
+  border-radius: 0.25rem;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+
+  &:hover {
+    background: #1d4ed8;
+  }
+
+  &:disabled {
+    background: #4b5563;
+    cursor: not-allowed;
+  }
+}
+
+.disclaimer {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  color: #9ca3af;
+  text-align: center;
+}
+
 @media(max-width: 768px) {
     .nav-links {
         display: none

@@ -55,6 +55,25 @@ description: "A mind-bending journey through interdimensional corporate culture 
     <p class="testimonial-author">- Stan from New Jersey (probably)</p>
 </section>
 
+<!-- quantum-printer.html -->
+<div class="quantum-calculator">
+  <div class="calculator-header">
+    <svg class="printer-icon" viewBox="0 0 24 24" width="24" height="24">
+      <path d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z"/>
+    </svg>
+    <h2>Quantum Printer Probability Calculator</h2>
+  </div>
+
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+    <div class="status-text">Ready to calculate printer probability</div>
+  </div>
+
+  <button class="calculate-button">Calculate Probability</button>
+
+  <p class="disclaimer">*Results may vary across parallel dimensions. No warranty expressed or implied.</p>
+</div>
+
 {% include latest-episodes.html %}
 
 
