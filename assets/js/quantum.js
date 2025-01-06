@@ -101,6 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
   new QuantumCalculator();
 });
 
+
 console.log(`
 Welcome to the source code, fellow reality debugger!
 If you're reading this, you've discovered our quantum dev tools.
