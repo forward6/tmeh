@@ -10,25 +10,6 @@ categories: [Technical Support, Quantum Computing, Office Equipment]
 
 In our ongoing mission to quantify the unquantifiable, we're proud to introduce the Quantum Printer Probability Calculator - a groundbreaking tool that applies quantum mechanics to the age-old question: "Will the printer work today?" (Spoiler alert: The answer exists in a superposition of "no" and "definitely no" until observed by IT.)
 
-<div class="quantum-calculator">
-  <div class="calculator-header">
-    <svg class="printer-icon" viewBox="0 0 24 24" width="24" height="24">
-      <path d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z"/>
-    </svg>
-    <h2>Quantum Printer Probability Calculator</h2>
-  </div>
-
-  <div class="progress-container">
-    <div class="progress-bar"></div>
-    <div class="status-text">Ready to calculate printer probability</div>
-  </div>
-
-  <button class="calculate-button">Calculate Probability</button>
-
-  <p class="disclaimer">*Results may vary across parallel dimensions. No warranty expressed or implied.</p>
-</div>
-
-
 ### How It Works (When It Works)
 
 Through careful application of quantum probability fields and advanced excuse generation algorithms, our calculator provides real-time analysis of printer functionality across infinite dimensions. Simply press the calculate button and watch as it consults parallel universes where printers actually function as intended (theoretical universes only).
@@ -59,7 +40,24 @@ For technical support with the calculator, please submit a ticket that exists in
 
 Try the calculator for yourself below, and remember - in the quantum realm of office equipment, every print job is simultaneously successful and jammed until you open the printer drawer.
 
-[Quantum Printer Probability Calculator Interface Goes Here]
+
+<div class="quantum-calculator">
+  <div class="calculator-header">
+    <svg class="printer-icon" viewBox="0 0 24 24" width="24" height="24">
+      <path d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z"/>
+    </svg>
+    <h2>Quantum Printer Probability Calculator</h2>
+  </div>
+
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+    <div class="status-text">Ready to calculate printer probability</div>
+  </div>
+
+  <button class="calculate-button">Calculate Probability</button>
+
+  <p class="disclaimer">*Results may vary across parallel dimensions. No warranty expressed or implied.</p>
+</div>
 
 > **Note:** The Quantum Printer Probability Calculator has achieved a 100% accuracy rate in predicting printer failures, primarily by predicting failure 100% of the time.
 {: .warning-box}
