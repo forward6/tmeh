@@ -26,7 +26,7 @@ type: podcast
                 <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
             </div>
 
-            <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+            <h2><a href="{% if episode.date > site.time %}#{% else %}{{ episode.url }}{% endif %}">{{ episode.title }}</a></h2>
 
             <span class="episode-duration">
                 <i class="far fa-clock"></i>
@@ -37,9 +37,13 @@ type: podcast
                 {{ episode.excerpt }}
             </div>
 
-            <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
-
+            {% if episode.date > site.time %}
+                <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }}</button>
+            {% else %}
+                <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
+            {% endif %}
         </article>
+
         {% endfor %}
     </section>
 
