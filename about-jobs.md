@@ -140,6 +140,33 @@ permalink: /about/jobs/
 </section>
 
 <div class="jobs-container">
+
+
+    <div class="job-card">
+        <div class="job-title">Quantum Coffee Machine Repair Specialist</div>
+        <div class="job-department">Caffeination Continuity Division</div>
+        <div class="job-badges">
+            <span class="job-badge">Full-Time</span>
+            <span class="job-badge">On-Call Across All Realities</span>
+            <span class="job-badge">Caffeine Resistance Required</span>
+        </div>
+        <div class="job-description">
+            <p>Maintain the delicate quantum balance of our office coffee machines, ensuring proper brewing across all possible taste profiles simultaneously. Must be able to handle both regular and antimatter coffee emergencies without causing universe-ending annihilation events.</p>
+        </div>
+        <div class="job-requirements">
+            <h3>Requirements:</h3>
+            <ul class="quantum-list">
+                <li>Advanced certification in Quantum Brewing Dynamics</li>
+                <li>Minimum 3 years experience with antimatter coffee containment</li>
+                <li>Ability to taste coffee in multiple quantum states simultaneously</li>
+                <li>Strong understanding of caffeine-timeline coherence principles</li>
+                <li>Experience preventing temporal paradoxes caused by pre-coffee decisions</li>
+                <li>Certification in Break Room Singularity Prevention</li>
+            </ul>
+        </div>
+        <a href="mailto:&#112;&#111;&#100;&#99;&#97;&#115;&#116;&#64;&#109;&#117;&#108;&#116;&#105;&#118;&#101;&#114;&#115;&#101;&#101;&#109;&#112;&#108;&#111;&#121;&#101;&#101;&#104;&#97;&#110;&#100;&#98;&#111;&#111;&#107;&#46;&#99;&#111;&#109;" class="apply-button">Brew Your Future</a>
+    </div>
+
     <div class="job-card">
         <div class="job-title">Quantum Uncertainty Principal</div>
         <div class="job-department">Department of Temporal Education</div>
