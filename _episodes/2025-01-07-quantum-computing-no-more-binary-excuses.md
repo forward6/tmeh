@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-01-07
 duration-en: "20 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/d4iiu47wsw7f33kg/multiverse-employee-handbook-s02e01-quantum-computing-no-more-binary-excuses.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000682989467"
+spotify_url: "https://open.spotify.com/episode/5Yf3moG4s1xYFMiPoNUncU?si=uV15Cw_JSI-SiJEWmxza0w"
+youtube_url: "https://youtu.be/odV81wyMh78?si=etM_uU6-ZsnrOQl6"
 transcript_url: "/assets/transcripts/TMEH-S02E01-transcript.pdf"
 duration: "PT20M24S"
 description: >
