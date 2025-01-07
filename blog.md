@@ -36,11 +36,11 @@ type: blog
 
             {% if post.categories %}
             <br/><br/>
-            <span class="post-categories">
+            <div class="post-categories">
                 {% for category in post.categories %}
                 <span class="category-tag">{{ category }}</span>
                 {% endfor %}
-            </span>
+            </div>
             {% endif %}
 
             {% if post.department %}
