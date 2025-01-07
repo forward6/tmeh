@@ -101,6 +101,17 @@ document.addEventListener('DOMContentLoaded', () => {
   new QuantumCalculator();
 });
 
+document.addEventListener('DOMContentLoaded', function() {
+    const dropdownTrigger = document.querySelector('.dropdown-trigger');
+    const dropdown = document.querySelector('.dropdown');
+
+    dropdownTrigger.addEventListener('click', function(e) {
+        if (window.innerWidth <= 768) {
+            e.preventDefault();
+            dropdown.classList.toggle('open');
+        }
+    });
+});
 
 console.log(`
 Welcome to the source code, fellow reality debugger!

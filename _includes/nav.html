@@ -12,7 +12,19 @@
         <a href="/" class="{% if page.url == '/' %}active{% endif %}">Home</a>
         <a href="/episodes/" class="{% if page.url == '/episodes/' %}active{% endif %}">Episodes</a>
         <a href="/blog/" class="{% if page.url == '/blog/' %}active{% endif %}">Blog</a>
-        <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
+        <div class="dropdown">
+            <a href="/about/" class="dropdown-trigger {% if page.url contains '/about/' %}active{% endif %}">
+                About
+                <span class="dropdown-arrow">▾</span>
+            </a>
+            <div class="dropdown-content">
+                <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">About the Show</a>
+                <a href="/about/faq/" class="{% if page.url == '/about/faq/' %}active{% endif %}">Multiversal FAQ</a>
+                <a href="/about/policy-generator/" class="{% if page.url == '/about/policy-generator/' %}active{% endif %}">Corporate Policy Generator</a>
+                <a href="/about/jobs/" class="{% if page.url == '/about/jobs/' %}active{% endif %}">Interdimensional Job Board</a>
+                <a href="/about/reality-check/" class="{% if page.url == '/about/reality-check/' %}active{% endif %}">Reality Check Status</a>
+            </div>
+        </div>
     </div>
   </div>
 </nav>
