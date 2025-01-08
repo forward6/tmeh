@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-01-08
 duration-en: "13 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/d58h7gsetztcwh43/multiverse-employee-handbook-s02b01-bonus-celebrating-stephen-hawking-genius-across-dimensions.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/bonus-episode-celebrating-the-life-and-genius/id1764134739?i=1000683140945"
+spotify_url: "https://open.spotify.com/episode/5bMwxJAfSSxqfyj6YzAA55?si=NoWMii0pSvqxdqAAeS9lJw"
+youtube_url: "https://youtu.be/VnZj_yvWcp4?si=uC4ABWaCjDYqz4Ar"
 transcript_url: "/assets/transcripts/TMEH-S02B01-transcript.pdf"
 duration: "PT13M19S"
 description: >
