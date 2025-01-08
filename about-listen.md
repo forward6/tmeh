@@ -79,6 +79,11 @@ permalink: /about/listen/
   opacity: 0.8;
 }
 
+.about-message {
+  text-align: center;
+  padding: 1rem 0 2rem;
+}
+
 @media (max-width: 768px) {
   .about-header {
     padding: 2rem 0 1rem;
@@ -196,6 +201,7 @@ permalink: /about/listen/
             </a>
         </div>
     </div>
+            <div class="about-message">Or search for "The Multiverse Employee Handbook" on your favorite listening portal.</div>
 </section>
 
 <div id="quantum-field" class="quantum-field"></div>
