@@ -20,12 +20,6 @@ type: podcast
         {% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
         {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
 
-        <!-- Debug info -->
-        <div style="display:none">
-            Current time: {{ now | date: '%Y-%m-%d %H:%M' }}
-            Current timestamp: {{ now }}
-        </div>
-
         {% for episode in sorted_episodes %}
             {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
 
