@@ -1,13 +1,22 @@
 <section class="latest-episodes">
    <h2>Latest Episodes</h2>
    {% assign episodes = site.episodes | sort: 'date' | reverse %}
-   {% for episode in episodes limit:2 %}
-   <div class="latest-episode-card">
-       <h3>{{ episode.title }}</h3>
-       <p>{{ episode.excerpt }}</p>
-       <div class="latest-episode-actions">
-           <a href="{{ episode.url }}" class="latest-listen-button">Listen Now</a>
+   {% assign today = 'now' | date: '%Y-%m-%d' %}
+   {% assign episode_count = 0 %}
+   {% for episode in episodes %}
+     {% assign episode_date = episode.date | date: '%Y-%m-%d' %}
+     {% if episode_date <= today %}
+       <div class="latest-episode-card">
+           <h3>{{ episode.title }}</h3>
+           <p>{{ episode.excerpt }}</p>
+           <div class="latest-episode-actions">
+               <a href="{{ episode.url }}" class="latest-listen-button">Listen Now</a>
+           </div>
        </div>
-   </div>
+       {% assign episode_count = episode_count | plus: 1 %}
+       {% if episode_count == 2 %}
+         {% break %}
+       {% endif %}
+     {% endif %}
    {% endfor %}
 </section>
