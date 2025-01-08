@@ -18,32 +18,39 @@ type: podcast
 
     <section class="episodes-grid">
         {% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
-        {% assign now = 'now' | date: '%Y-%m-%d %H:%M' | timezone: 'America/New_York' %}
+        {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
+
+        <!-- Debug info -->
+        <div style="display:none">
+            Current time: {{ now | date: '%Y-%m-%d %H:%M' }}
+            Current timestamp: {{ now }}
+        </div>
+
         {% for episode in sorted_episodes %}
-        {% assign episode_datetime = episode.date | date: '%Y-%m-%d 03:14' | timezone: 'America/New_York' %}
+            {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
 
-        <article class="episodes-card">
-            <div class="episodes-meta">
-                <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
-            </div>
+            <article class="episodes-card">
+                <div class="episodes-meta">
+                    <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
+                </div>
 
-            <h2><a href="{% if episode_datetime > now %}#{% else %}{{ episode.url }}{% endif %}">{{ episode.title }}</a></h2>
+                <h2><a href="{% if now < release_time %}#{% else %}{{ episode.url }}{% endif %}">{{ episode.title }}</a></h2>
 
-            <span class="episode-duration">
-                <i class="far fa-clock"></i>
-                Temporal Length: {{ episode.duration-en }}
-            </span>
+                <span class="episode-duration">
+                    <i class="far fa-clock"></i>
+                    Temporal Length: {{ episode.duration-en }}
+                </span>
 
-            <div class="episodes-excerpt">
-                {{ episode.excerpt }}
-            </div> 
+                <div class="episodes-excerpt">
+                    {{ episode.excerpt }}
+                </div>
 
-            {% if episode_datetime > now %}
-                <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
-            {% else %}
-                <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
-            {% endif %}
-        </article>
+                {% if now < release_time %}
+                    <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
+                {% else %}
+                    <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
+                {% endif %}
+            </article>
         {% endfor %}
     </section>
 

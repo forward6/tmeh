@@ -1,22 +1,29 @@
 <section class="latest-episodes">
-   <h2>Latest Episodes</h2>
-   {% assign episodes = site.episodes | sort: 'date' | reverse %}
-   {% assign now = 'now' | date: '%Y-%m-%d %H:%M' | timezone: 'America/New_York' %}
-   {% assign episode_count = 0 %}
-   {% for episode in episodes %}
-     {% assign episode_datetime = episode.date | date: '%Y-%m-%d 03:14' | timezone: 'America/New_York' %}
-     {% if episode_datetime <= now %}
-       <div class="latest-episode-card">
-           <h3>{{ episode.title }}</h3>
-           <p>{{ episode.excerpt }}</p>
-           <div class="latest-episode-actions"> 
-               <a href="{{ episode.url }}" class="latest-listen-button">Listen Now</a>
-           </div>
-       </div>
-       {% assign episode_count = episode_count | plus: 1 %}
-       {% if episode_count == 2 %}
-         {% break %}
-       {% endif %}
-     {% endif %}
-   {% endfor %}
+  <h2>Latest Episodes</h2>
+  {% assign episodes = site.episodes | sort: 'date' | reverse %}
+  {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
+  {% assign episode_count = 0 %}
+
+  <!-- Debug info -->
+  <div style="display:none">
+      Current time: {{ now | date: '%Y-%m-%d %H:%M' }}
+      Current timestamp: {{ now }}
+  </div>
+
+  {% for episode in episodes %}
+    {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
+    {% if now >= release_time %}
+      <div class="latest-episode-card">
+          <h3>{{ episode.title }}</h3>
+          <div class="episodes-excerpt">{{ episode.excerpt }}</div>
+          <div class="latest-episode-actions">
+              <a href="{{ episode.url }}" class="latest-listen-button">Listen Now</a>
+          </div>
+      </div>
+      {% assign episode_count = episode_count | plus: 1 %}
+      {% if episode_count == 2 %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
 </section>
