@@ -1,16 +1,24 @@
 name: Schedule Site Rebuild
 on:
   schedule:
-    # 3:14 AM ET during standard time (7:14 UTC)
-    - cron: '14 7 * * 2'
-    # 3:14 AM ET during daylight saving time (6:14 UTC)
-    - cron: '14 6 * * 2'
+    # UTC time that covers the range of potential executions
+    - cron: '14 6-7 * * 2'
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
     steps:
+      - name: Check for correct local time (ET)
+        id: time-check
+        run: |
+          TZ="America/New_York"
+          CURRENT_HOUR=$(date +'%H')
+          if [ "$CURRENT_HOUR" -ne "3" ]; then
+            echo "Not the correct local time. Exiting."
+            exit 0
+          fi
       - name: Trigger GitHub Pages rebuild
+        if: ${{ steps.time-check.outcome == 'success' }}
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
