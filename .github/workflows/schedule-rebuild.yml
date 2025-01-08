@@ -13,12 +13,14 @@ jobs:
         run: |
           TZ="America/New_York"
           CURRENT_HOUR=$(date +'%H')
-          if [ "$CURRENT_HOUR" -ne "3" ]; then
+          CURRENT_MINUTE=$(date +'%M')
+          if [ "$CURRENT_HOUR" -ne "3" ] || [ "$CURRENT_MINUTE" -ne "14" ]; then
             echo "Not the correct local time. Exiting."
             exit 0
           fi
+
       - name: Trigger GitHub Pages rebuild
-        if: ${{ steps.time-check.outcome == 'success' }}
+        if: ${{ success() }}  # Proceed only if the time-check step succeeds
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
