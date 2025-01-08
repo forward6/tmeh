@@ -1,11 +1,11 @@
 <section class="latest-episodes">
    <h2>Latest Episodes</h2>
    {% assign episodes = site.episodes | sort: 'date' | reverse %}
-   {% assign today = 'now' | date: '%Y-%m-%d' %}
+   {% assign now = 'now' | date: '%Y-%m-%d %H:%M' | timezone: 'America/New_York' %}
    {% assign episode_count = 0 %}
    {% for episode in episodes %}
-     {% assign episode_date = episode.date | date: '%Y-%m-%d' %}
-     {% if episode_date <= today %}
+     {% assign episode_datetime = episode.date | date: '%Y-%m-%d 03:14' | timezone: 'America/New_York' %}
+     {% if episode_datetime <= now %}
        <div class="latest-episode-card">
            <h3>{{ episode.title }}</h3>
            <p>{{ episode.excerpt }}</p>
