@@ -35,7 +35,7 @@ type: blog
             <a href="{{ post.url }}" class="read-more-button">Read More →</a>
 
             {% if post.categories %}
-            <br/><br/>
+            <br/><br/> 
             <div class="post-categories">
                 {% for category in post.categories %}
                 <span class="category-tag">{{ category }}</span>

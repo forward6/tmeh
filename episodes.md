@@ -36,7 +36,7 @@ type: podcast
 
             <div class="episodes-excerpt">
                 {{ episode.excerpt }}
-            </div>
+            </div> 
 
             {% if episode_datetime > now %}
                 <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
