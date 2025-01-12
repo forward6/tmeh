@@ -199,6 +199,9 @@ permalink: /about/listen/
                     <div class="platform-description">Weather the quantum storm</div>
                 </div>
             </a>
+
+            <a href="https://feed.podbean.com/multiverseemployeehandbook/feed.xml" class="platform-button"> <img src="https://cdn2.iconfinder.com/data/icons/New-Social-Media-Icon-Set-V11/512/rss-feeds.png" alt="RSS Feed icon" class="platform-icon"> <div class="platform-text"> <div class="platform-name">RSS Feed</div> <div class="platform-description">Direct quantum feed to your reality</div> </div> </a>
+
         </div>
     </div>
             <div class="about-message">Or search for "The Multiverse Employee Handbook" on your favorite listening portal.</div>
