@@ -8,7 +8,7 @@ description: "A mind-bending journey through interdimensional corporate culture 
 </div>
 
 <section class="hero">
-    <h1>Because Someone Has to Make Sense of All This Paperwork!</h1>
+    <h1>Where Quantum Physics Meets Office Humor (No Lab Coat Required)</h1>
     <p class="tagline">Join us for a weekly exploration of quantum physics, workplace humor, and the strange intersection of corporate life and cosmic uncertainty. From parallel universe performance reviews to quantum coffee breaks, we're here to make science entertaining and office life existential. Learn quantum physics and laugh out loud!</p>
 </section>
 
