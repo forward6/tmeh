@@ -2,7 +2,7 @@ name: Schedule Site Rebuild
 on:
   schedule:
     # UTC time that covers the range of potential executions
-    - cron: '14 6-7 * * 2'
+    - cron: '14 6-7 * * *'
 
 jobs:
   rebuild:
