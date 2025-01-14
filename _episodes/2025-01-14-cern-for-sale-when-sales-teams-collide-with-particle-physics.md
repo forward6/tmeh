@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-01-14
 duration-en: "21 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/7jjk7dt59cpgt4sp/multiverse-employee-handbook-s02e02-cern-for-sale-when-sales-teams-collide-with-particle-physics.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/cern-for-sale-when-sales-teams-collide-with-particle/id1764134739?i=1000683902529"
+spotify_url: "https://open.spotify.com/episode/5GIXMsZ3d5CwTGckUESSL7?si=XwXBCS1vRAiKEMJNc41h4g"
+youtube_url: "https://youtu.be/tK9W0uuoZN4?si=1OeWAbnwftFHH3R6"
 transcript_url: "/assets/transcripts/TMEH-S02E02-transcript.pdf"
 duration: "PT21M15S"
 description: >
