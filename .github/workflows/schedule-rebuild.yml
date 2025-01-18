@@ -1,5 +1,6 @@
 name: Daily Rebuild Trigger
 on:
+  workflow_dispatch: # Allows manual triggering
   schedule:
     - cron: '14 6-7 * * *'
 
