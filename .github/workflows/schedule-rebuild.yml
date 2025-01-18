@@ -1,8 +1,8 @@
 name: Daily Rebuild Trigger
 on:
-  workflow_dispatch: # Allows manual triggering
   schedule:
-    - cron: '14 6-7 * * *'
+    - cron: '14 6-7 * * *' # Scheduled trigger
+  workflow_dispatch:        # Allows manual trigger
 
 jobs:
   rebuild:
@@ -28,4 +28,4 @@ jobs:
           git add timestamp.txt
           git commit -m "Automated rebuild trigger [skip ci]"
           git push origin main
-          
+
