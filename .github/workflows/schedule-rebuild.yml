@@ -35,7 +35,7 @@ jobs:
         run: |
           git add timestamp.txt
           if ! git diff --cached --quiet; then
-            git commit -m "Automated rebuild trigger [skip ci]"
+            git commit -m "Automated rebuild trigger"
             git push origin main
           else
             echo "No changes to commit."
