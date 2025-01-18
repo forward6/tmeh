@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main # Ensure the correct branch is checked out
 
       - name: Set up Git credentials
         env:
@@ -26,6 +28,10 @@ jobs:
       - name: Commit and push changes
         run: |
           git add timestamp.txt
-          git commit -m "Automated rebuild trigger [skip ci]"
-          git push origin main
-
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated rebuild trigger [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
