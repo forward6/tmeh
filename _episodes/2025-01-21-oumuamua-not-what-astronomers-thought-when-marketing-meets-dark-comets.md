@@ -5,7 +5,7 @@ episode_number: 3
 season_number: 2
 date: 2025-01-21
 duration-en: "21 minutes"
-audio_url: ""
+audio_url: "https://mcdn.podbean.com/mf/download/e67g57cktbhw8c8q/multiverse-employee-handbook-s02e03-oumuamua-not-what-astronomers-thought.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
