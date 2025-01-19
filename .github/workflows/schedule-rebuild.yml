@@ -1,7 +1,8 @@
 name: Daily Rebuild Trigger
 on:
   schedule:
-    - cron: '14 6-7 * * *'
+    - cron: '14 6-7 * * *' # Scheduled trigger
+  workflow_dispatch:        # Allows manual trigger
 
 jobs:
   rebuild:
@@ -10,6 +11,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          ref: main # Replace 'main' with your default branch
+
+      - name: Print Working Directory
+        run: pwd
+
+      - name: List Current Files
+        run: ls -al
 
       - name: Set up Git credentials
         env:
@@ -25,5 +34,11 @@ jobs:
       - name: Commit and push changes
         run: |
           git add timestamp.txt
-          git commit -m "Automated rebuild trigger [skip ci]"
-          git push origin main
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated rebuild trigger"
+            git push origin main
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
