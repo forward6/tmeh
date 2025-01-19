@@ -74,10 +74,10 @@ layout: default
             {{ page.previous.title }}
         </a>
         {% else %}
-        <span class="prev-episode disabled">
+        <a href="#" class="prev-episode disabled">
             <span>Previous Episode</span>
             Coming Soon: {{ page.previous.title }}
-        </span>
+        </a>
         {% endif %}
     {% endif %}
 
@@ -88,10 +88,10 @@ layout: default
             {{ page.next.title }}
         </a>
         {% else %}
-        <span class="next-episode disabled">
+        <a href="#" class="next-episode disabled">
             <span>Next Episode</span>
             Coming Soon: {{ page.next.title }}
-        </span>
+        </a>
         {% endif %}
     {% endif %}
 	</div>
