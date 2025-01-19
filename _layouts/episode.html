@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div class="background-container">
     <div class="background-overlay"></div>
 </div>
@@ -66,21 +65,38 @@ layout: default
         </a>
     </div>
 
-    <div class="episode-navigation">
-        {% if page.previous.url %}
+	
+	<div class="episode-navigation">
+    {% if page.previous.url %}
+        {% if page.previous.date <= site.time %}
         <a href="{{page.previous.url}}" class="prev-episode">
             <span>Previous Episode</span>
             {{ page.previous.title }}
         </a>
+        {% else %}
+        <span class="prev-episode disabled">
+            <span>Previous Episode</span>
+            Coming Soon: {{ page.previous.title }}
+        </span>
         {% endif %}
+    {% endif %}
 
-        {% if page.next.url %}
+    {% if page.next.url %}
+        {% if page.next.date <= site.time %}
         <a href="{{page.next.url}}" class="next-episode">
             <span>Next Episode</span>
             {{ page.next.title }}
         </a>
+        {% else %}
+        <span class="next-episode disabled">
+            <span>Next Episode</span>
+            Coming Soon: {{ page.next.title }}
+        </span>
         {% endif %}
-    </div>
+    {% endif %}
+	</div>
+	
+	
 </article>
 
 {% include newsletter.html %}

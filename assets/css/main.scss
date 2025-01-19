@@ -1044,6 +1044,16 @@ h1 {
     }
 }
 
+.episode-navigation .disabled {
+    color: #999; /* Gray out the text */
+    cursor: not-allowed; /* Show a "not allowed" cursor */
+    text-decoration: none; /* Remove underline */
+}
+
+.episode-navigation .disabled:hover {
+    color: #999; /* Keep the same color on hover */
+}
+
 .back-button-container {
     margin: 2rem 0;
     text-align: center; // Changed from left to center
