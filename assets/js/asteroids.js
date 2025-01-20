@@ -383,6 +383,7 @@ function updateAsteroids() {
     // Check if level is complete
     if (asteroids.length === 0) {
         gameStarted = false;
+        document.getElementById('level-number').textContent = `${level}`;
         document.getElementById('level-complete-screen').classList.remove('hidden');
     }
 
