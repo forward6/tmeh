@@ -1,7 +1,7 @@
 // Game constants
 const SHIP_SIZE = 20;
 const INITIAL_ASTEROID_COUNT = 1;  // Changed from 3 to 1
-const ASTEROID_INCREMENT = 2;
+const ASTEROID_INCREMENT = 1;
 const BULLET_SPEED = 7;
 const ASTEROID_SPEED = 2;
 const BULLET_SIZE = 4;
@@ -445,6 +445,37 @@ document.getElementById('start-button').addEventListener('click', startGame);
 document.getElementById('restart-button').addEventListener('click', startGame);
 document.getElementById('next-level-button').addEventListener('click', nextLevel);
 
+
+// Keyboard controls
+document.addEventListener('keydown', (e) => {
+    if (gameStarted && !gameOver) {
+        switch(e.key) {
+            case ' ': // Spacebar
+                e.preventDefault(); // Prevent page scrolling
+                fireBullet();
+                break;
+            case 'ArrowLeft':
+                e.preventDefault();
+                isRotatingLeft = true;
+                break;
+            case 'ArrowRight':
+                e.preventDefault();
+                isRotatingRight = true;
+                break;
+        }
+    }
+});
+
+document.addEventListener('keyup', (e) => {
+    switch(e.key) {
+        case 'ArrowLeft':
+            isRotatingLeft = false;
+            break;
+        case 'ArrowRight':
+            isRotatingRight = false;
+            break;
+    }
+});
 
 document.addEventListener("DOMContentLoaded", function () {
     const target = document.getElementById("game-container"); // Use the ID of the target section

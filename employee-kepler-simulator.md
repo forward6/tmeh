@@ -152,7 +152,8 @@ permalink: /employee-kepler-simulator/
 
 .game-window {
     height: 70vh;
-    background: #000;
+    background-color: #000; /* Background color */
+    opacity: 0.7; /* Transparency level (0 is fully transparent, 1 is fully opaque) */
     color: #fff;
     font-family: 'Arial', sans-serif;
     overflow: hidden;
@@ -291,6 +292,30 @@ h1 {
     }
 }
 
+.game-round-button {
+    width: 50px; /* Adjust size to fit the image */
+    height: 50px; /* Keep width and height equal for a round shape */
+    border-radius: 50%; /* Makes the button round */
+    border: none; /* Removes default border */
+    background-color: #4444ff; /* Choose a background color */
+    display: flex; /* Center the image */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center; /* Center the image vertically */
+    cursor: pointer; /* Changes the cursor to indicate a clickable button */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+.game-round-button:hover {
+    background-color: #333333; /* Darken the background on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); /* Enhance the shadow on hover */
+}
+
+.game-round-button img {
+    width: 24px; /* Adjust to match the icon size */
+    height: auto; /* Maintain aspect ratio */
+    filter: invert(1); /* Inverts the colors of the image */
+}
 
 </style>
 
@@ -314,14 +339,14 @@ h1 {
       <!-- Start Screen -->
       <div id="start-screen" class="screen">
           <h1>KEPLER SIM</h1>
-          <button class="game-button" id="start-button">Start Game</button>
+          <button class="game-button" id="start-button">Initiate Orbital Protocols</button>
       </div>
 
       <!-- Game Over Screen -->
       <div id="game-over-screen" class="screen hidden">
           <h1>GAME OVER</h1>
-          <p>Score: <span id="final-score">0</span></p>
-          <button class="game-button" id="restart-button">Play Again</button>
+          <p>Final Efficiency Rating: <span id="final-score">0</span></p>&nbsp;
+          <button class="game-button" id="restart-button">Submit Retry Request</button>
       </div>
 
       <!-- Level Complete Screen -->
@@ -332,16 +357,16 @@ h1 {
 
       <!-- HUD -->
       <div id="hud">
-          <div id="score">Score: 0</div>
-          <div id="level">Level: 1</div>
-          <div id="asteroids-remaining">Asteroids: 0</div>
+          <div id="score">Efficiency: 0</div>
+          <div id="level">Sector: 1</div>
+          <div id="asteroids-remaining">Outstanding Deliverables: 0</div>
       </div>
 
       <!-- Game Controls -->
       <div id="controls">
-          <button id="rotate-left">⬅</button>
+          <button class="game-round-button" id="rotate-left"><img src="https://mcdn.podbean.com/mf/web/qnwh4zn896rwxdgd/button-left.png" alt="Left Arrow"></button>
           <button id="fire-button">FIRE</button>
-          <button id="rotate-right">➡</button>
+          <button class="game-round-button" id="rotate-right"><img src="https://mcdn.podbean.com/mf/web/fpqrwrwdeuaydgtv/button-right.png" alt="Right Arrow"></button>
       </div>
   </div>
 
