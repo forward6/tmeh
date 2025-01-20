@@ -374,4 +374,4 @@ h1 {
 
 <div id="quantum-field" class="quantum-field"></div>
 
-<script src="{{ site.js_path }}/asteroids.js?v=1.0.2"></script>
+<script src="{{ site.js_path }}/asteroids.js?v=1.0.3"></script>
