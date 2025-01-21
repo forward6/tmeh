@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-01-21
 duration-en: "21 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/e67g57cktbhw8c8q/multiverse-employee-handbook-s02e03-oumuamua-not-what-astronomers-thought.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000684817177" 
+spotify_url: "https://open.spotify.com/episode/4HLnBVgdTJGEcigFGTzgjZ?si=YWMdC1yrTV2M5Ry9oSUQFA"
+youtube_url: "https://youtu.be/OXmXXtD8iCU?si=Ao8v2fFvTXQcBmpV"
 transcript_url: "/assets/transcripts/TMEH-S02E03-transcript.pdf"
 duration: "PT20M58S"
 description: >
