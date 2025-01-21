@@ -53,7 +53,7 @@ function calculateMass(size) {
 function updateHUD() {
     document.getElementById("score").textContent = `Efficiency: ${score}`;
     document.getElementById("level").textContent = `Sector: ${level}`;
-    document.getElementById("asteroids-remaining").textContent = `Outstanding Deliverables: ${asteroids.length}`;
+    document.getElementById("asteroids-remaining").textContent = `Anomalies: ${asteroids.length}`;
 }
 
 function resizeCanvas() {
@@ -450,7 +450,21 @@ function handleMediumCollision(ast1, ast2) {
     const dy = ast2.y - ast1.y;
     const distance = Math.sqrt(dx * dx + dy * dy);
 
-    if (distance === 0) return;
+    if (distance < 0.01) {
+        // If asteroids are too close, forcibly separate them in a random direction
+        const randomAngle = Math.random() * Math.PI * 2;
+        ast1.x += Math.cos(randomAngle) * ASTEROID_SIZES.medium;
+        ast1.y += Math.sin(randomAngle) * ASTEROID_SIZES.medium;
+        ast2.x -= Math.cos(randomAngle) * ASTEROID_SIZES.medium;
+        ast2.y -= Math.sin(randomAngle) * ASTEROID_SIZES.medium;
+
+        // Give them opposing velocities
+        ast1.velX = Math.cos(randomAngle) * ASTEROID_SPEED;
+        ast1.velY = Math.sin(randomAngle) * ASTEROID_SPEED;
+        ast2.velX = -Math.cos(randomAngle) * ASTEROID_SPEED;
+        ast2.velY = -Math.sin(randomAngle) * ASTEROID_SPEED;
+        return;
+    }
 
     const nx = dx / distance;
     const ny = dy / distance;
@@ -462,11 +476,22 @@ function handleMediumCollision(ast1, ast2) {
     // Calculate relative velocity along normal
     const velocityAlongNormal = vx * nx + vy * ny;
 
-    // Don't resolve if objects are moving apart
-    if (velocityAlongNormal > 0) return;
+    // Add minimum separation velocity to prevent sticking
+    const minSeparationVelocity = 0.5;
+    if (Math.abs(velocityAlongNormal) < minSeparationVelocity) {
+        // Add a small random impulse to help separate sticking asteroids
+        const randomImpulse = minSeparationVelocity + (Math.random() * 0.5);
+        ast1.velX -= nx * randomImpulse;
+        ast1.velY -= ny * randomImpulse;
+        ast2.velX += nx * randomImpulse;
+        ast2.velY += ny * randomImpulse;
+    }
+
+    // Don't resolve if objects are moving apart faster than minimum velocity
+    if (velocityAlongNormal > minSeparationVelocity) return;
 
     // Calculate impulse scalar with reduced effect
-    const j = -(1 + RESTITUTION) * velocityAlongNormal * 0.5; // Added 0.5 multiplier to reduce bounce force
+    const j = -(1 + RESTITUTION) * velocityAlongNormal * 0.5;
     const impulseX = j * nx;
     const impulseY = j * ny;
 
@@ -482,16 +507,28 @@ function handleMediumCollision(ast1, ast2) {
     ast2.velX *= COLLISION_DAMPENING;
     ast2.velY *= COLLISION_DAMPENING;
 
-    // Separate asteroids to prevent sticking
-    const overlap = ASTEROID_SIZES.medium - distance;
+    // Enhance separation to prevent sticking
+    const idealDistance = ASTEROID_SIZES.medium;
+    const overlap = idealDistance - distance;
     if (overlap > 0) {
-        const separationX = (nx * overlap / 2);
-        const separationY = (ny * overlap / 2);
+        const separationX = (nx * overlap * 0.6); // Increased separation factor
+        const separationY = (ny * overlap * 0.6);
 
-        ast1.x -= separationX;
-        ast1.y -= separationY;
-        ast2.x += separationX;
-        ast2.y += separationY;
+        // Apply separation with a bit of randomness
+        const randomFactor = 1 + (Math.random() * 0.2);
+        ast1.x -= separationX * randomFactor;
+        ast1.y -= separationY * randomFactor;
+        ast2.x += separationX * randomFactor;
+        ast2.y += separationY * randomFactor;
+
+        // Add a tiny random perpendicular velocity to help break symmetrical collisions
+        const perpX = -ny;
+        const perpY = nx;
+        const perpImpulse = (Math.random() - 0.5) * 0.3;
+        ast1.velX += perpX * perpImpulse;
+        ast1.velY += perpY * perpImpulse;
+        ast2.velX -= perpX * perpImpulse;
+        ast2.velY -= perpY * perpImpulse;
     }
 }
 

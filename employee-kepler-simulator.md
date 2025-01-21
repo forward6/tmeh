@@ -359,7 +359,7 @@ h1 {
       <div id="hud">
           <div id="score">Efficiency: 0</div>
           <div id="level">Sector: 1</div>
-          <div id="asteroids-remaining">Outstanding Deliverables: 0</div>
+          <div id="asteroids-remaining">Anomalies: 0</div>
       </div>
 
       <!-- Game Controls -->
