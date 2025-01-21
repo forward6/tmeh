@@ -351,7 +351,7 @@ h1 {
 
       <!-- Level Complete Screen -->
       <div id="level-complete-screen" class="screen hidden">
-          <h1>LEVEL <span id="level-number">1</span> COMPLETE!</h1>
+          <h1>SECTOR <span id="level-number">1</span> COMPLETE!</h1>
           <button class="game-button" id="next-level-button">Next Level</button>
       </div>
 
@@ -374,4 +374,4 @@ h1 {
 
 <div id="quantum-field" class="quantum-field"></div>
 
-<script src="{{ site.js_path }}/asteroids.js?v=1.0.3"></script>
+<script src="{{ site.js_path }}/asteroids.js?v=1.0.4"></script>

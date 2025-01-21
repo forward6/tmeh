@@ -33,11 +33,27 @@ let isRotatingRight = false;
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
+// Gravitational constants
+const G = 0.5; // Gravitational constant (reduced for gameplay)
+const MASS_MULTIPLIER = 0.1; // Scale factor for masses
+const MIN_DISTANCE = 50; // Minimum distance to prevent extreme gravitational forces
+
+// Collision constants
+const RESTITUTION = 0.3; // Reduced from 0.8 - makes collisions less bouncy
+const COLLISION_DAMPENING = 0.85; // Reduced from 0.95 - removes more energy
+const VELOCITY_CAP = 4; // New constant to limit maximum velocity
+
+function calculateMass(size) {
+    // Mass based on asteroid size (area as proxy for mass)
+    const radius = ASTEROID_SIZES[size] / 2;
+    return Math.PI * radius * radius * MASS_MULTIPLIER;
+}
+
 // Core game function definitions first
 function updateHUD() {
-    document.getElementById("score").textContent = `Score: ${score}`;
-    document.getElementById("level").textContent = `Level: ${level}`;
-    document.getElementById("asteroids-remaining").textContent = `Asteroids: ${asteroids.length}`;
+    document.getElementById("score").textContent = `Efficiency: ${score}`;
+    document.getElementById("level").textContent = `Sector: ${level}`;
+    document.getElementById("asteroids-remaining").textContent = `Outstanding Deliverables: ${asteroids.length}`;
 }
 
 function resizeCanvas() {
@@ -111,7 +127,8 @@ function spawnLargeAsteroid() {
         y: y,
         velX: velX,
         velY: velY,
-        size: 'large'
+        size: 'large',
+        mass: calculateMass('large')  // Add this line
     });
 }
 
@@ -127,11 +144,43 @@ function createAsteroidFragments(asteroid) {
             y: asteroid.y,
             velX: Math.cos(angle) * speed + asteroid.velX * 0.5,
             velY: Math.sin(angle) * speed + asteroid.velY * 0.5,
-            size: 'medium'
+            size: 'medium',
+            mass: calculateMass('medium')  // Add this line
         });
     }
 
     return fragments;
+}
+
+function applyGravity(asteroids) {
+    for (let i = 0; i < asteroids.length; i++) {
+        for (let j = i + 1; j < asteroids.length; j++) {
+            const ast1 = asteroids[i];
+            const ast2 = asteroids[j];
+
+            // Calculate distance
+            const dx = ast2.x - ast1.x;
+            const dy = ast2.y - ast1.y;
+            let distance = Math.sqrt(dx * dx + dy * dy);
+
+            // Prevent extreme forces at very small distances
+            distance = Math.max(distance, MIN_DISTANCE);
+
+            // Calculate gravitational force
+            const force = G * (ast1.mass * ast2.mass) / (distance * distance);
+
+            // Calculate force components
+            const angle = Math.atan2(dy, dx);
+            const forceX = Math.cos(angle) * force;
+            const forceY = Math.sin(angle) * force;
+
+            // Apply forces (F = ma, so a = F/m)
+            ast1.velX += (forceX / ast1.mass) * 0.1; // Scale factor for gameplay
+            ast1.velY += (forceY / ast1.mass) * 0.1;
+            ast2.velX -= (forceX / ast2.mass) * 0.1;
+            ast2.velY -= (forceY / ast2.mass) * 0.1;
+        }
+    }
 }
 
 // Game control functions
@@ -314,6 +363,9 @@ function handleCollisions() {
 }
 
 function updateAsteroids() {
+
+    applyGravity(asteroids);  // Add this line at the start
+
     let asteroidsToAdd = [];
     let indexesToRemove = new Set();
 
@@ -353,6 +405,9 @@ function updateAsteroids() {
                     indexesToRemove.add(i);
                     indexesToRemove.add(j);
                     score += 20;
+                } else if (asteroid.size === 'medium' && otherAsteroid.size === 'medium') {
+                    // Medium asteroids bounce off each other
+                    handleMediumCollision(asteroid, otherAsteroid);
                 } else if (asteroid.size === 'large' && otherAsteroid.size === 'medium') {
                     // Break up the large asteroid
                     const fragments = createAsteroidFragments(asteroid);
@@ -366,7 +421,6 @@ function updateAsteroids() {
                     indexesToRemove.add(j);
                     score += 30;
                 }
-                // Medium-medium collisions just bounce off each other
                 updateHUD();
                 break;
             }
@@ -388,6 +442,62 @@ function updateAsteroids() {
     }
 
     updateHUD();
+}
+
+function handleMediumCollision(ast1, ast2) {
+    // Calculate collision normal
+    const dx = ast2.x - ast1.x;
+    const dy = ast2.y - ast1.y;
+    const distance = Math.sqrt(dx * dx + dy * dy);
+
+    if (distance === 0) return;
+
+    const nx = dx / distance;
+    const ny = dy / distance;
+
+    // Calculate relative velocity
+    const vx = ast2.velX - ast1.velX;
+    const vy = ast2.velY - ast1.velY;
+
+    // Calculate relative velocity along normal
+    const velocityAlongNormal = vx * nx + vy * ny;
+
+    // Don't resolve if objects are moving apart
+    if (velocityAlongNormal > 0) return;
+
+    // Calculate impulse scalar with reduced effect
+    const j = -(1 + RESTITUTION) * velocityAlongNormal * 0.5; // Added 0.5 multiplier to reduce bounce force
+    const impulseX = j * nx;
+    const impulseY = j * ny;
+
+    // Apply impulse with velocity capping
+    ast1.velX = capVelocity(ast1.velX - impulseX);
+    ast1.velY = capVelocity(ast1.velY - impulseY);
+    ast2.velX = capVelocity(ast2.velX + impulseX);
+    ast2.velY = capVelocity(ast2.velY + impulseY);
+
+    // Apply dampening
+    ast1.velX *= COLLISION_DAMPENING;
+    ast1.velY *= COLLISION_DAMPENING;
+    ast2.velX *= COLLISION_DAMPENING;
+    ast2.velY *= COLLISION_DAMPENING;
+
+    // Separate asteroids to prevent sticking
+    const overlap = ASTEROID_SIZES.medium - distance;
+    if (overlap > 0) {
+        const separationX = (nx * overlap / 2);
+        const separationY = (ny * overlap / 2);
+
+        ast1.x -= separationX;
+        ast1.y -= separationY;
+        ast2.x += separationX;
+        ast2.y += separationY;
+    }
+}
+
+// Add this helper function for velocity capping
+function capVelocity(vel) {
+    return Math.max(Math.min(vel, VELOCITY_CAP), -VELOCITY_CAP);
 }
 
 // Game Loop
