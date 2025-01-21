@@ -342,8 +342,27 @@ permalink: /employee-reality-status/
     </div>
 </div>
 
-<section class="about-card" style="margin-top: 2rem;">
-    <h2>System Notices</h2>
+
+<div class="quantum-calculator">
+  <div class="calculator-header">
+    <svg class="printer-icon" viewBox="0 0 24 24" width="24" height="24">
+      <path d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z"/>
+    </svg>
+    <h2>Quantum Printer Probability Calculator</h2>
+  </div>
+
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+    <div class="status-text">Ready to calculate printer probability</div>
+  </div>
+
+  <button class="calculate-button">Calculate Probability</button>
+
+  <p class="disclaimer">*Results may vary across parallel dimensions. No warranty expressed or implied.</p>
+</div>
+
+<section class="about-card" style="margin-top: 2rem; text-align: center">
+    <h2>System Notices</h2><br/>
     <ul style="list-style: none; padding: 0;">
         <li style="margin-bottom: 1rem;">🚧 Scheduled maintenance: Realigning probability matrices next Tuesday (all of them)</li>
         <li style="margin-bottom: 1rem;">⚠️ Known issue: Déjà vu reports increasing near the water cooler</li>
@@ -351,5 +370,6 @@ permalink: /employee-reality-status/
         <li>✨ Recent improvement: Upgraded quantum entanglement servers for better cross-reality Teams calls</li>
     </ul>
 </section>
+
 
 <div id="quantum-field" class="quantum-field"></div>
