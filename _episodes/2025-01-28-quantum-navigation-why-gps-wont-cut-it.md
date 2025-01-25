@@ -15,7 +15,7 @@ description: >
  When the Square-Haired Boss decides to revolutionize office parking through quantum navigation, only a quick-thinking IT intern stands between reality and a multidimensional traffic jam.
 ---
 
-Step into a world where finding your way involves quantum superposition, cold atoms, and a surprisingly conscious coffee machine. Watch as an overzealous boss attempts to disrupt the fundamental forces of navigation, while an IT intern races to prevent spacetime itself from getting lost in the office parking garage.
+Step into a world where finding your way involves quantum superposition, cold atoms, and a surprisingly conscious coffee machine. Listen as an overzealous boss attempts to disrupt the fundamental forces of navigation, while an IT intern races to prevent spacetime itself from getting lost in the office parking garage.
 
 {: .callout}
 > **Warning**: Quantum navigation may result in arriving at your destination before you leave, parking in multiple spots simultaneously, or accidentally solving the universe's greatest mysteries during your morning commute.
