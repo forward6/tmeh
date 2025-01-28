@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "A Brief History of Animals in Space"
+title: "Bonus Episode: A Brief History of Animals in Space"
 episode_number: "Bonus 2"
 season_number: 2
 date: 2025-01-31
