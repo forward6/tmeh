@@ -48,7 +48,7 @@ The contributions of these cosmic creatures went far beyond simple survival test
 > **Safety Notice**: No animals are currently being recruited for space missions, though our automated response system insists they should at least be considered for IT support roles.
 
 ## Further Reading
-* Visit our blog: ["The Complete Guide to Animal Astronauts: Earth's First Remote Workers"](/blog/animal-astronauts-complete-guide)
+* Visit our blog: ["The Complete Guide to Animal Astronauts: Earth's First Remote Workers"](/blog/complete-guide-animal-astronauts-earths-first-remote-workers)
 * ["Ham (chimpanzee)"](https://en.wikipedia.org/wiki/Ham_(chimpanzee))
 * ["A Brief History of Animals in Space"](https://www.nasa.gov/history/a-brief-history-of-animals-in-space/#:~:text=On%20January%2031%2C%201961%2C%20Ham,very%20similar%20to%20Alan%20Shepard's.)
 
