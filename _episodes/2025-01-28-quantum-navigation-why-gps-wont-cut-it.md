@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-01-28
 duration-en: "22 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/f3v3uyaqftcby3sg/multiverse-employee-handbook-s02e04-quantum-navigation-why-gps-wont-cut-it.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000686130334"
+youtube_url: "https://youtu.be/L-uStDK1h_o?si=OW7_wXUPm__S52Fp"
+spotify_url: "https://open.spotify.com/episode/0ULnYmPglLN3GZZaeaSQa4?si=g9yqrtjRRnGKFJv7Z5-0MQ"
 transcript_url: "/assets/transcripts/TMEH-S02E04-transcript.pdf"
 duration: "PT22M22S"
 description: >
