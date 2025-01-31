@@ -5,7 +5,7 @@ episode_number: "Bonus 2"
 season_number: 2
 date: 2025-01-31
 duration-en: "13 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/f3v3uyaqftcby3sg/multiverse-employee-handbook-s02e04-bonus-brief-history-animals-in-space.mp3"
+audio_url: "https://mcdn.podbean.com/mf/download/ntgmreztewbmfcpd/multiverse-employee-handbook-s02b02-a-brief-history-of-animals-in-space.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000687422728"
 spotify_url: "https://open.spotify.com/episode/0H0qE4IOHAKCIdUUTOfnVk?si=z-y5iR3NQXiIzK1FouELUw"
 youtube_url: "https://youtu.be/NdY9x92642s?si=b9j73WnEsmGj7D88"
