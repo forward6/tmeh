@@ -21,7 +21,7 @@ Step into a world where NASA's most diverse hiring initiative sent everything fr
 > **Warning**: May cause sudden realization that even monkeys made it to space before you did.
 
 ## The Space-Faring Menagerie
-On January 31, 1961, Ham the Astrochimp made history as the first primate to survive spaceflight in America's Mercury program. Selected from 40 candidates, Ham completed his mission with flying colors, performing tasks under 6.6 times the force of gravity during his 16-minute suborbital journey.
+On January 31, 1961, Ham the Astrochimp made history as the first primate to survive spaceflight in America's Mercury program. Selected from dozens of candidates, Ham completed his mission with flying colors, performing tasks under 6.6 times the force of gravity during his 16-minute suborbital journey.
 
 But Ham wasn't alone in pioneering space exploration. The first animals in space were fruit flies, launched in 1947. The Soviet Union sent numerous dogs into orbit, starting with Laika in 1957. In 1963, France contributed Félicette, the first and only cat to survive spaceflight (because apparently even cats draw the line at a second volunteer for space travel).
 
