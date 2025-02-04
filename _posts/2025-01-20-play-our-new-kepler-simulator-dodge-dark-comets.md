@@ -22,6 +22,7 @@ Our simulator adds several authentically inaccurate features:
 - Quantum tunneling power-ups (when they feel like existing)
 - Gravity effects that Einstein would politely disagree with
 - A scoring system based on Schrödinger's mathematics
+- Finding an exoplanet (just get rid of all this space junk first)
 
 ### The Science Behind the Simulation
 
