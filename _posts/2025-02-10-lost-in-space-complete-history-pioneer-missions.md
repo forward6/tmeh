@@ -24,7 +24,7 @@ Enter Slava Turyshev and his team at NASA's Jet Propulsion Laboratory, who in th
 
 ### From Magnetic Tape to Modern Marvel
 
-The team managed to recover over 30 years of navigational history, which proved crucial in solving the famous Pioneer Anomaly (a story we covered in our recent podcast episode about unexplained spacecraft deceleration). The data existed on countless reels of magnetic tape, scattered across NASA facilities in boxes labeled with all the precision of your company's "miscellaneous" drawer.
+The team managed to recover over 30 years of navigational history, which proved crucial in solving the famous Pioneer Anomaly (a story we covered in our podcast episode about unexplained spacecraft deceleration). The data existed on countless reels of magnetic tape, scattered across NASA facilities in boxes labeled with all the precision of your company's "miscellaneous" drawer.
 
 ### A Time Capsule of Technology
 
