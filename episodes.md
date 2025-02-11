@@ -1,4 +1,3 @@
-{% comment %} Build timestamp: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} {% endcomment %}
 ---
 layout: default
 title: "Episodes - The Multiverse Employee Handbook"
@@ -6,6 +5,8 @@ description: "Explore the latest episodes of The Multiverse Employee Handbook, a
 permalink: /episodes/
 type: podcast
 ---
+
+{% comment %} Build timestamp: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} {% endcomment %}
 
 <div class="background-container">
     <div class="background-overlay"></div>
