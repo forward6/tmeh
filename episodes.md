@@ -39,11 +39,17 @@ type: podcast
                     {{ episode.excerpt }}
                 </div>
 
+                {% raw %}
                 {% if now < release_time %}
-                    <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
+                  <button class="latest-listen-button" disabled data-release-time="{{ release_time | date: '%s' }}">
+                    Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET
+                  </button>
                 {% else %}
-                    <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
+                  <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
                 {% endif %}
+                {% endraw %}
+
+
             </article>
         {% endfor %}
     </section>
@@ -52,3 +58,18 @@ type: podcast
 </div>
 
 <div id="quantum-field" class="quantum-field"></div>
+
+<script>
+    document.querySelectorAll('[data-release-time]').forEach(button => {
+      const releaseTime = parseInt(button.dataset.releaseTime) * 1000; // Convert to milliseconds
+      const currentTime = Date.now();
+
+      if (currentTime >= releaseTime) {
+        const link = document.createElement('a');
+        link.href = "{{ episode.url }}"; // Replace with dynamic URL if needed
+        link.className = "latest-listen-button";
+        link.textContent = "Listen now";
+        button.replaceWith(link);
+      }
+    });
+</script>
