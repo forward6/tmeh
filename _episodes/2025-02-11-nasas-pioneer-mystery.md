@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-02-11
 duration-en: "23 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/detgfmb573q5k4vq/multiverse-employee-handbook-s02e06-nasa-pioneer-mystery.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/us/podcast/nasas-pioneer-mystery/id1764134739?i=1000691041790"
+youtube_url: "https://youtu.be/tQ83Kktfi3o?si=qmicOgevFnG3i-74"
+spotify_url: "https://open.spotify.com/episode/3odr0nuiXZLTpOTtdlilbX?si=GGJU7ASHTM-Y_myi3N902g"
 transcript_url: "/assets/transcripts/TMEH-S02E06-transcript.pdf"
 duration: "PT23M02S"
 description: >
