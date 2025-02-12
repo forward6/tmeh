@@ -8,8 +8,8 @@ description: "A mind-bending journey through interdimensional corporate culture 
 </div>
 
 <section class="hero">
-    <h1>Where Quantum Physics Meets Office Humor (No Lab Coat Required)</h1>
-    <p class="tagline">Join us for a weekly exploration of quantum physics, workplace humor, and the strange intersection of corporate life and cosmic uncertainty. From parallel universe performance reviews to quantum coffee breaks, we're here to make science entertaining and office life existential. Learn quantum physics and laugh out loud!</p>
+    <h1>The Funniest Science Podcast in Every Universe</h1>
+    <p class="tagline">Join the #1 science comedy podcast exploring quantum physics through workplace humor. Each week, we transform complex scientific concepts into laugh-out-loud corporate satire. From quantum mechanics explained through office politics to multiverse theory through performance reviews, we make learning physics genuinely entertaining. Perfect for science enthusiasts, office workers, and anyone who loves smart comedy. No physics degree required - just a sense of humor and curiosity about how the universe really works.</p>
 </section>
 
 <div class="logo-container">
