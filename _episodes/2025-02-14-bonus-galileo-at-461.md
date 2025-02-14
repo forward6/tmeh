@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-02-14
 duration-en: "10 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/d8vtr4m3g3fsy7sk/multiverse-employee-handbook-s02b03-bonus-galileo-at-461.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000692176532"
+spotify_url: "https://open.spotify.com/episode/3FPqjgyOSPkylav6eZ6JCJ?si=vUL7LHSOTwCxDXSgr1RHow"
+youtube_url: "https://youtu.be/W1F5mEQjszE?si=p2VRufTP2sBSe9jc"
 transcript_url: "/assets/transcripts/TMEH-S02B03-transcript.pdf"
 duration: "PT10M27S"
 description: >
