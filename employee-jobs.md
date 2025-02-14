@@ -277,7 +277,7 @@ permalink: /employee-jobs/
 
 <div class="tab-list">
     <button class="tab-button" onclick="window.location.href='/employee-portal'">Employee Portal</button>
-    <button class="tab-button" onclick="window.location.href='/employee-kepler-simulator'">Kepler Simulator</button>
+    <button class="tab-button" onclick="window.location.href='/employee-kuiper-simulator'">Kuiper Simulator</button>
     <button class="tab-button" onclick="window.location.href='/employee-corporate-policy-generator'">Policy Generator</button>
     <button class="tab-button" onclick="window.location.href='/employee-reality-status'">Reality Check Status</button>
     <button class="tab-button active" onclick="window.location.href='/employee-jobs'">Interdimensional Job Board</button>
