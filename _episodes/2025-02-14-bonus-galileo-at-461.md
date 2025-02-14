@@ -4,13 +4,13 @@ title: "Bonus Episode: Galileo at 461"
 episode_number: "Bonus 3"
 season_number: 2
 date: 2025-02-14
-duration-en: "11 minutes"
-audio_url: ""
+duration-en: "10 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/d8vtr4m3g3fsy7sk/multiverse-employee-handbook-s02b03-bonus-galileo-at-461.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02B03-transcript.pdf"
-duration: "PT11M12S"
+duration: "PT10M27S"
 description: >
   Join us for a special tribute to the original corporate disruptor who dared to suggest the universe didn't follow the official org chart. From dropping objects off towers to facing the ultimate performance review, discover how Galileo revolutionized science while maintaining a quantum state of defiant wit.
 ---
