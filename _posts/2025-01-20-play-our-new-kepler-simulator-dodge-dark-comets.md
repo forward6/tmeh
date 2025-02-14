@@ -42,7 +42,7 @@ Due to the quantum nature of our scoring system, your high score exists in multi
 
 ### Play Now!
 
-Ready to question your understanding of orbital mechanics while enjoying some retro-style gaming? Head over to our [Kuiper Simulator](https://multiverseemployeehandbook.com/employee-Kuiper-simulator/) and show those dark comets what you're made of. Just remember: in space, no one can hear you complain about quantum physics.
+Ready to question your understanding of orbital mechanics while enjoying some retro-style gaming? Head over to our [Kuiper Simulator](https://multiverseemployeehandbook.com/employee-kuiper-simulator/) and show those dark comets what you're made of. Just remember: in space, no one can hear you complain about quantum physics.
 
 > **Note**: Any resemblance to actual space objects, alien probes, or properly functioning physics engines is purely coincidental. Side effects may include questioning the nature of reality and a sudden urge to read Kuiper's laws of planetary motion.
 {: .warning-box}
