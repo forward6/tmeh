@@ -4,13 +4,13 @@ title: "The Best Groundhog Day?"
 episode_number: 7
 season_number: 2
 date: 2025-02-18
-duration-en: "21 minutes"
+duration-en: "22 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/wsmdgrg55ksjhr87/multiverse-employee-handbook-s02e07-the-best-groundhog-day.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 transcript_url: "/assets/transcripts/TMEH-S02E07-transcript.pdf"
-duration: "PT21M31S"
+duration: "PT22M00S"
 description: >
  Journey through the science of time loops as we explore what duration makes the perfect Groundhog Day scenario, featuring a hapless delivery driver's increasingly frustrated attempts to complete a simple delivery to Woodstock, Illinois.
 ---
