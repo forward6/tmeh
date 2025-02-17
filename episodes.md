@@ -22,8 +22,6 @@ type: podcast
         {% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
         {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
 
-        <p>Total Episodes: {{ site.episodes | size }}</p>
-
         {% for episode in sorted_episodes %}
             {% assign release_time = episode.date | date: '%s' %}
             <article class="episodes-card">
