@@ -25,8 +25,7 @@ type: podcast
         <p>Total Episodes: {{ site.episodes | size }}</p>
 
         {% for episode in sorted_episodes %}
-            {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
-
+            {% assign release_time = episode.date | date: '%s' %}
             <article class="episodes-card">
                 <div class="episodes-meta">
                     <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
