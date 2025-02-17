@@ -55,6 +55,8 @@ sass:
   sass_dir: _sass
   css_dir: assets/css
 
+future: true
+
 feed:
   path: feed.xml
   title: "The Multiverse Employee Handbook Blog | Science Comedy & Physics Insights"
