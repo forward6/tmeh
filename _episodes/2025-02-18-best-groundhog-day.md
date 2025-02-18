@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-02-18
 duration-en: "22 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/wsmdgrg55ksjhr87/multiverse-employee-handbook-s02e07-the-best-groundhog-day.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000693360279"
+youtube_url: "https://youtu.be/cqRZGHiTkPg?si=1cdU1WTqBYHpr7w8"
+spotify_url: "https://open.spotify.com/episode/3RIFRUOP0pMgD2Al20T9G2?si=Cb3H1nZ8SkS1no0_tLMFYQ"
 transcript_url: "/assets/transcripts/TMEH-S02E07-transcript.pdf"
 duration: "PT22M00S"
 description: >
