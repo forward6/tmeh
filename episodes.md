@@ -23,26 +23,29 @@ type: podcast
         {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
 
         {% for episode in sorted_episodes %}
-            {% assign release_time = episode.date | date: '%s' %}
+            {% assign release_time = episode.date | date: '%s' | timezone: 'America/New_York' %}
             <article class="episodes-card">
-                <div class="episodes-meta">
-                    <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
-                </div>
-
-                <h2><a href="{% if now < release_time %}#{% else %}{{ episode.url }}{% endif %}">{{ episode.title }}</a></h2>
-
-                <span class="episode-duration">
-                    <i class="far fa-clock"></i>
-                    Temporal Length: {{ episode.duration-en }}
-                </span>
-
-                <div class="episodes-excerpt">
-                    {{ episode.excerpt }}
-                </div>
-
                 {% if now < release_time %}
+                    <div class="episodes-meta">
+                        <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
+                    </div>
+                    <h2>Future Episode</h2>
+                    <div class="episodes-excerpt">
+                        <p>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</p>
+                    </div>
                     <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
                 {% else %}
+                    <div class="episodes-meta">
+                        <span class="episode-date">{{ episode.date | date: "%B %d, %Y" }}</span>
+                    </div>
+                    <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
+                    <span class="episode-duration">
+                        <i class="far fa-clock"></i>
+                        Temporal Length: {{ episode.duration-en }}
+                    </span>
+                    <div class="episodes-excerpt">
+                        {{ episode.excerpt }}
+                    </div>
                     <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
                 {% endif %}
             </article>
