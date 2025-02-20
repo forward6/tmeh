@@ -55,7 +55,7 @@ sass:
   sass_dir: _sass
   css_dir: assets/css
 
-future: true
+# future: true
 
 feed:
   path: feed.xml
