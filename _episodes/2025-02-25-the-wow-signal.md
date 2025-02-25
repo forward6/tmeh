@@ -34,4 +34,5 @@ The signal's characteristics continue to challenge natural explanations. The 201
 * "Narrowband Signals in Radioastronomy: Natural vs Artificial Sources"
 
 Remember: In the multiverse of cosmic communications, every signal exists in a superposition of significance and static until someone checks the voicemail.
+
 ---
