@@ -30,7 +30,7 @@ The signal's characteristics continue to challenge natural explanations. The 201
 
 ## Further Reading
 * ["A Receptionist's Guide to Interstellar Communications"](/blog/receptionist-guide-interstellar-communications/)
-* "The Big Ear Radio Telescope: Design and Legacy"
+* ["Listen to Entropy Rising"](https://www.entropy-rising.com/links)
 * "Narrowband Signals in Radioastronomy: Natural vs Artificial Sources"
 
 Remember: In the multiverse of cosmic communications, every signal exists in a superposition of significance and static until someone checks the voicemail.
