@@ -12,7 +12,7 @@ spotify_url: "https://open.spotify.com/episode/2vbaowsx3qUUkgM0i9Rd3W?si=xMerPZy
 transcript_url: "/assets/transcripts/TMEH-S02E08-transcript.pdf"
 duration: "PT23M01S"
 description: >
-Explore the mysterious Wow! Signal through the lens of corporate communications, featuring a front desk's encounter with an unexpected cosmic caller and management's enthusiastic attempts to monetize first contact.
+ Explore the mysterious Wow! Signal through the lens of corporate communications, featuring a front desk's encounter with an unexpected cosmic caller and management's enthusiastic attempts to monetize first contact.
 ---
 
 Journey through radioastronomy's most tantalizing mystery as we examine the 72-second signal that made even hardened scientists write "Wow!" in the margins. Learn why 1420.4056 MHz represents more than just another wrong number, while discovering how the intersection of hydrogen line frequencies and narrowband transmissions points toward either the universe's most impressive cold call or humanity's most notable missed connection.
