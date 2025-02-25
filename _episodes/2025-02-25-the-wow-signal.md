@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-02-25
 duration-en: "23 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/hdbzraqqxz84epfm/multiverse-employee-handbook-s02e08-wow-signal.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000695785654"
+youtube_url: "https://youtu.be/UFX8VvtM1Zg?si=1qhC6MDgWHuZ0vAR"
+spotify_url: "https://open.spotify.com/episode/2vbaowsx3qUUkgM0i9Rd3W?si=xMerPZyHQ6SbuJp-GXkbNg"
 transcript_url: "/assets/transcripts/TMEH-S02E08-transcript.pdf"
 duration: "PT23M01S"
 description: >
