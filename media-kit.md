@@ -152,6 +152,9 @@ permalink: /media-kit/
     <div class="media-kit-section">
         <h2>Social Media</h2>
         <div class="platform-grid">
+            <a href="https://www.threads.net/@themultiverseemployeehandbook" class="platform-link">
+                Threads
+            </a>
             <a href="https://x.com/TMEHpodcast" class="platform-link">
                 Twitter/X
             </a>
