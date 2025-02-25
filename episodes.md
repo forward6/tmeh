@@ -20,7 +20,7 @@ type: podcast
 
     <section class="episodes-grid">
         {% assign sorted_episodes = site.episodes | sort: "date" | reverse %}
-        {% assign now = 'now' | date: '%s' %}
+        {% assign now = 'now' | date: '%s' | plus: 0 %}
 
         {% for episode in sorted_episodes %}
             {% assign release_time = episode.date | date: '%s' | plus: 0 %}
