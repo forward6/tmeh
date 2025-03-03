@@ -32,7 +32,7 @@ type: podcast
                 {% if release_time > now %}
                     <h2>{{ episode.title }}</h2>
                     <div class="episodes-excerpt">
-                        <p>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</p>
+                        {{ episode.excerpt }}
                     </div>
                     <button class="latest-listen-button" disabled>Materializing on {{ episode.date | date: "%B %d" }} at 3:14 AM ET</button>
                 {% else %}
