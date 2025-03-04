@@ -33,7 +33,7 @@ The Higgs boson functions as the universal HR department, assigning different le
 ## Further Reading
 * ["Why Your Office Structure Resembles Quantum Field Theory"](/blog/office-structure-quantum-field-theory/)
 * ["The Yogurt Uprising: When Break Room Physics Goes Wrong"](/blog/yogurt-uprising/)
-* ["A good podcast to check out: Entropy Rising"(https://www.entropy-rising.com/links)
+* ["A good podcast to check out: Entropy Rising"](https://www.entropy-rising.com/links)
 
 Remember: In the multiverse of particle physics, every organizational structure simultaneously explains everything and nothing until someone from management collapses the wave function with a new mission statement.
 
