@@ -4,13 +4,13 @@ title: "Don't Panic: 42 and the Cosmic Coincidences"
 episode_number: 10
 season_number: 2
 date: 2025-03-11
-duration-en: "34 minutes"
+duration-en: "32 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/hk3acihgv5vn9nex/multiverse-employee-handbook-s02e10.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 transcript_url: "/assets/transcripts/TMEH-S02E10-transcript.pdf"
-duration: "PT34M18S"
+duration: "PT32M43S"
 description: >
  Celebrating Douglas Adams' birthday with an exploration of cosmic coincidences surrounding the number 42, Earth's remarkable survival record, and why the answer to Life, the Universe, and Everything may just be asking better questions.
 ---
