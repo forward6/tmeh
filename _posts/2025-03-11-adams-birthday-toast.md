@@ -28,3 +28,6 @@ Happy Birthday, Douglas. We're still mostly harmless, but considerably more enli
 
 > **Note**: This toast exists in a superposition of touching and ridiculous until fully read. The Department of Interdimensional Communications is not responsible for any existential crises, spontaneous laughter, or sudden desires to hitchhike that may result from its contents.
 {: .warning-box}
+
+## Listen to the episode
+* ["Don't Panic: 42 and the Cosmic Coincidences"](https://multiverseemployeehandbook.com/episodes/dont-panic-42-and-cosmic-coincidences/)
