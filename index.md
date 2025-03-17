@@ -8,7 +8,7 @@ description: "A mind-bending journey through interdimensional corporate culture 
 </div>
 
 <section class="hero">
-    <h1>Where Office Humor Meets Quantum Uncertainty | Science Comedy Podcast</h1>
+    <h1>Navigating the cosmos one inappropriate reply-all email at a time | Science Comedy Podcast</h1>
     <p class="tagline">Join the #1 science comedy podcast exploring quantum physics through workplace humor. From quantum mechanics explained through office politics to multiverse theory through performance reviews, we make learning physics genuinely entertaining. Perfect for science enthusiasts and office workers - no physics degree required, just curiosity about how the universe really works!</p>
 </section>
 
