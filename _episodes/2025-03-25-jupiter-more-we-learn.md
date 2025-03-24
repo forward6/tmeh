@@ -4,13 +4,13 @@ title: "The More We Learn, The Jupiter We Feel"
 episode_number: 12
 season_number: 2
 date: 2025-03-25
-duration-en: "24 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/9mmcyktst9ik7xnf/multiverse-employee-handbook-s02e12.mp3"
+duration-en: "35 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/6pzhniyabqac4g8m/multiverse-employee-handbook-s02e12-jupiter.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 transcript_url: "/assets/transcripts/TMEH-S02E12-transcript.pdf"
-duration: "PT24M15S"
+duration: "PT35M38S"
 description: >
   Dive into the solar system's ultimate middle manager! Jupiter: massive, chaotic, yet surprisingly protective - explore how this gas giant secretly shields Earth while appearing to just spin in its cosmic corner office.
 ---
@@ -33,5 +33,8 @@ Future missions like Europa Clipper and JUICE will continue to explore this mini
 > **Science Note**: Jupiter's radiation belts are so intense they damaged the Galileo spacecraft's instruments despite heavy shielding. Any human astronaut venturing into this region would receive a lethal dose of radiation faster than you can say "I should have read the safety manual."
 
 Remember: In the multiverse of office politics, we're all just trying to find our place in orbit – and occasionally using each other's gravitational fields for a much-needed velocity boost.
+
+## Further Exploration
+* ["JUICE: A Cosmic Hitchhiker's Guide to Jupiter's Icy Moons"](/blog/juice-cosmic-hitchhikers-guide/)
 
 ---
