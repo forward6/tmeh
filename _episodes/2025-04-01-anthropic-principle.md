@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "The Anthropic Principle: When the Universe Reads the Manual"
+title: "The Anthropic Principle: When the Universe Reads the Handbook"
 episode_number: 13
 season_number: 2
 date: 2025-04-01
@@ -15,7 +15,7 @@ description: >
   Explore the cosmic coincidence of our existence! The Anthropic Principle: why our universe seems suspiciously well-designed for life, as if reality checked the employee handbook before we showed up for orientation.
 ---
 
-Journey through the improbably fine-tuned parameters of our universe as we explore the Anthropic Principle - cosmic coincidence or the ultimate case of reading the manual first? This episode features "The Universal Parameters Committee" - a tale of cosmic bureaucracy where setting the fundamental constants of reality becomes an exercise in existential project management gone hilariously awry.
+Journey through the improbably fine-tuned parameters of our universe as we explore the Anthropic Principle - cosmic coincidence or the ultimate case of reading the handbook first? This episode features "The Universal Parameters Committee" - a tale of cosmic bureaucracy where setting the fundamental constants of reality becomes an exercise in existential project management gone hilariously awry.
 
 Discover how the universe's fundamental constants appear calibrated with impossible precision to allow for our existence, from gravity's suspicious weakness to the cosmological constant's baffling precision (one part in 10^120!). We'll unravel competing explanations for this cosmic coincidence, from the multiverse theory to simulation hypothesis, and explore why being able to question our existence might be the strangest parameter of all.
 
