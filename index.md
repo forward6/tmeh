@@ -51,9 +51,25 @@ description: "A mind-bending journey through interdimensional corporate culture 
 <!-- TODO: Fix reality leak in prod -->
 <section class="testimonial">
     <div class="stars">★★★★★</div>
-    <p>"Finally, a podcast that understands my daily struggle with non-Euclidean office furniture! Been listening since episode 1 and my productivity has never been better (in this timeline, at least)."</p>
-    <p class="testimonial-author">- Stan from New Jersey (probably)</p>
+    <div id="review" class="review-box">
+      <!-- Review will be injected here -->
+    </div>
 </section>
+
+<script>
+  const reviews = [
+    `"Finally, a podcast that understands my daily struggle with non-Euclidean office furniture! Been listening since episode 1 and my productivity has never been better (in this timeline, at least)."<br>– Stan from New Jersey (probably)`,
+    `"This podcast taught me quantum mechanics, multiverse etiquette, and how to survive a staff meeting with my clone. Five stars."<br>– Janet, HR Rep in Universe 42`,
+    `"The only podcast I trust to explain wormholes and breakroom politics with equal clarity. My toaster also listens."<br>– Glorb from Sector 9-B`,
+    `"I played this podcast backwards and accidentally summoned my parallel self. We now co-host a morning briefing on Tuesdays."<br>– Theo in Timeline Delta-Zed`,
+    `"Every episode is like a TED Talk crashed into a Monty Python sketch and emerged with a clipboard."<br>– Professor Blim, Chair of Unnecessary Physics`,
+    `"After listening to this podcast, I fired my therapist and hired a theoretical physicist. My existential dread now glows in the dark."<br>– Lex from the Andromeda Branch`
+  ];
+
+  const randomReview = reviews[Math.floor(Math.random() * reviews.length)];
+  document.getElementById('review').innerHTML = randomReview;
+</script>
+
 
 {% include latest-episodes.html %}
 
