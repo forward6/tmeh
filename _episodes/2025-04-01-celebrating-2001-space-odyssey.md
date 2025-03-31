@@ -5,7 +5,7 @@ episode_number: "Bonus 5"
 season_number: 2
 date: 2025-04-02
 duration-en: "21 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/kp7xr2t635m7hgfv/multiverse-employee-handbook-s02b05.mp3"
+audio_url: "https://mcdn.podbean.com/mf/download/csdqkrtvdfzd2nfy/multiverse-employee-handbook-s02b05.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000700583921"
 youtube_url: "https://youtu.be/hje53cpaR7B?si=pM4nUvT6HgL9yRzx"
 spotify_url: "https://open.spotify.com/episode/5cwTVBao7DpqF8hiLX3PNZ?si=eF2gHK6pQp6i9HjLVmNTlQ"

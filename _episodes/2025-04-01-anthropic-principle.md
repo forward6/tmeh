@@ -5,7 +5,7 @@ episode_number: 13
 season_number: 2
 date: 2025-04-01
 duration-en: "25 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/9hskm2yxbqzu7k5p/multiverse-employee-handbook-s02e13-anthropic-principle.mp3"
+audio_url: "https://mcdn.podbean.com/mf/download/pbkzb453sv2ttn7d/multiverse-employee-handbook-s02e13-anthropic-principle.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
