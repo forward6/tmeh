@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Calculate Your Cosmic Significance: A Completely Scientific Assessment"
-date: 2025-04-01
+date: 2025-03-31
 department: Department of Existential Measurements & Arbitrary Metrics
 categories: [April Fools, Cosmic Assessment, Self Improvement, Universal Irrelevance]
 ---
