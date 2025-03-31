@@ -8,7 +8,7 @@ description: "A mind-bending journey through interdimensional corporate culture 
 </div>
 
 <section class="hero">
-    <h1>Where Einstein Meets The Office | Science Comedy Podcast</h1>
+    <h1>The Only Science Podcast Approved by Schrödinger’s Cat (Probably)</h1>
     <p class="tagline">Join the #1 science comedy podcast exploring quantum physics through workplace humor. From quantum mechanics explained through office politics to multiverse theory through performance reviews, we make learning physics genuinely entertaining. Perfect for science enthusiasts and office workers - no physics degree required, just curiosity about how the universe really works!</p>
 </section>
 
