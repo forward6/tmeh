@@ -63,6 +63,8 @@ description: "A mind-bending journey through interdimensional corporate culture 
     `"The only podcast I trust to explain wormholes and breakroom politics with equal clarity. My toaster also listens."<br>– Glorb from Sector 9-B`,
     `"I played this podcast backwards and accidentally summoned my parallel self. We now co-host a morning briefing on Tuesdays."<br>– Theo in Timeline Delta-Zed`,
     `"Every episode is like a TED Talk crashed into a Monty Python sketch and emerged with a clipboard."<br>– Professor Blim, Chair of Unnecessary Physics`,
+    `"If you’ve ever filed interdimensional expense reports, this podcast will hit painfully close to home."<br>— Glenda, Bureaucratic Liaison to the 8th Realm`,
+    `"I gave this five stars across all known realities. Except one, but that version of me is kind of a jerk."<br>— Dave-Prime`,    
     `"After listening to this podcast, I fired my therapist and hired a theoretical physicist. My existential dread now glows in the dark."<br>– Lex from the Andromeda Branch`
   ];
 
