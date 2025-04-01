@@ -34,7 +34,5 @@ From string theory to cosmological natural selection, modern physics continues e
 
 Remember: In the multiverse of existential explanations, we're all just complex arrangements of atoms trying to understand why atoms arranged themselves to create beings capable of understanding atoms in the first place.
 
-## Further Exploration
-* ["The Cosmic Coincidence Corporation: Why Reality's Parameters Feel Suspiciously Employee-Friendly"](/blog/cosmic-coincidence-corporation/)
 
 ---
