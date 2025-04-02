@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-04-02
 duration-en: "21 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/csdqkrtvdfzd2nfy/multiverse-employee-handbook-s02b05.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000700583921"
-youtube_url: "https://youtu.be/hje53cpaR7B?si=pM4nUvT6HgL9yRzx"
-spotify_url: "https://open.spotify.com/episode/5cwTVBao7DpqF8hiLX3PNZ?si=eF2gHK6pQp6i9HjLVmNTlQ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000701865926"
+youtube_url: "https://youtu.be/x2e6D9NGQDk?si=Z-VH99-WUlqPl_4y"
+spotify_url: "https://open.spotify.com/episode/2EGdJ1epSU7mOd16Ph3cYt?si=P9d_yPcXTu2QTSX9HRBN0A"
 transcript_url: "/assets/transcripts/TMEH-S02B05-transcript.pdf"
 duration: "PT21M34S"
 description: >
