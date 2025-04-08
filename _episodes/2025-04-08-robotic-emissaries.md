@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-04-08
 duration-en: "34 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/pgftaeyziihu68fc/multiverse-employee-handbook-s02e14-robotic-emissaries.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000701845764"
-youtube_url: "https://youtu.be/aL3jpIi6Y1Q?si=7wTUOZwvvr4k_dr4"
-spotify_url: "https://open.spotify.com/episode/3RDlBGtRTOSG0HLDnPgWQp?si=6yRUb9J8RsypRkC8mYJ9vw"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000702661287"
+youtube_url: "https://youtu.be/4FF-qkDIBQY?si=lYglaVho8qlrUCta"
+spotify_url: "https://open.spotify.com/episode/5VL0GgHnlcgEp3e2iQdysR?si=xSaDlrZjTwKFPpTGbLQd2w"
 transcript_url: "/assets/transcripts/TMEH-S02E14-transcript.pdf"
 duration: "PT33M41S"
 description: >
