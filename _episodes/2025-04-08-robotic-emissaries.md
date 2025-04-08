@@ -10,7 +10,7 @@ apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbo
 youtube_url: "https://youtu.be/aL3jpIi6Y1Q?si=7wTUOZwvvr4k_dr4"
 spotify_url: "https://open.spotify.com/episode/3RDlBGtRTOSG0HLDnPgWQp?si=6yRUb9J8RsypRkC8mYJ9vw"
 transcript_url: "/assets/transcripts/TMEH-S02E14-transcript.pdf"
-duration: "PT34M29S"
+duration: "PT33M41S"
 description: >
   From Luna to Voyager to Hayabusa, explore humanity's mechanical ambassadors to the cosmos and their peculiar predicaments, including one probe's anxiety about its performance review following a corporate takeover.
 ---
