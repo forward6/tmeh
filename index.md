@@ -36,8 +36,8 @@ description: "The only science comedy podcast approved by the Interdimensional S
 
 <section class="features-grid">
     <div class="feature-card">
-        <h3>Quantum Physics Made Hilarious</h3>
-        <p>Complex scientific concepts explained through relatable office scenarios. Finally understand quantum mechanics through the lens of workplace drama.</p>
+        <h3>Science Made Hilariously Relatable</h3>
+        <p>From quantum mechanics to space exploration to sci-fi scenarios—explained through relatable office drama. Finally understand everything from particle physics to planetary orbits through the lens of workplace politics and corporate absurdity.</p>
     </div>
     <div class="feature-card">
         <h3>Weekly Reality-Bending Episodes</h3>
