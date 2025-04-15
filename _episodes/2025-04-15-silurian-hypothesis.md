@@ -4,13 +4,13 @@ title: "The Silurian Hypothesis: Earth's Forgotten Civilization?"
 episode_number: 15
 season_number: 2
 date: 2025-04-15
-duration-en: "36 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/pgftaeyziihu68fc/multiverse-employee-handbook-s02e15-silurian-hypothesis.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000703661287"
-youtube_url: "https://youtu.be/4FF-qkDIBQY?si=lYglaVho8xvRUGta"
-spotify_url: "https://open.spotify.com/episode/5VL0GgHnlcgEp3e2iQeyrR?si=xSaDlrZjTwKFPpTGbLQc2w"
+duration-en: "38 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/gi4cv3tx4zz7zivj/multiverse-employee-handbook-s02e15-silurian-hypothesis.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 transcript_url: "/assets/transcripts/TMEH-S02E15-transcript.pdf"
-duration: "PT36M20S"
+duration: "PT38M23S"
 description: >
   Explore the Silurian Hypothesis, a serious scientific thought experiment questioning whether an industrial civilization might have existed millions of years before humans—and if so, how would we know? Also featuring corporate reptilians, yogurt-based management, and a familiar doctor with a blue box.
 ---
