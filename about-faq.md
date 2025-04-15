@@ -78,35 +78,35 @@ permalink: /about/faq/
 <section class="about-content">
     <div class="about-card">
         <div class="faq-question">Q: What is The Multiverse Employee Handbook?</div>
-        <div class="faq-answer">A: It's a comedy podcast that exists in a quantum superposition of educational and entertaining until observed by your manager. Think of it as your guide to navigating corporate culture across infinite realities, where every meeting creates a new timeline and the office printer exists in a perpetual state of "needs toner."</div>
+        <div class="faq-answer">A: It's a science comedy podcast that explores everything from quantum physics to astrophysics to sci-fi scenarios through workplace metaphors. Think of it as your guide to navigating corporate culture across the cosmos, where every meeting creates a distortion in spacetime and the Mars rover moves at the same speed as your expense report approval.</div>
+    <div class="faq-question">Q: When do new episodes release?</div>
+    <div class="faq-answer">A: Every Tuesday at exactly 3:14 AM EST, though due to relativistic effects, some listeners report receiving episodes last Thursday or next Wednesday. When you're dealing with astronomical time scales, a few hours here or there hardly matter.</div>
 
-        <div class="faq-question">Q: When do new episodes release?</div>
-        <div class="faq-answer">A: Every Tuesday at exactly 3:14 AM EST, though due to relativistic effects, some listeners report receiving episodes last Thursday or next Wednesday. Time is more of a suggestion when you're dealing with quantum mechanics.</div>
+    <div class="faq-question">Q: Why can't I find the episode I just listened to?</div>
+    <div class="faq-answer">A: Congratulations! You've experienced a temporal anomaly. That episode might be caught in a gravitational time dilation field or stuck in our content black hole. Either that, or our upload schedule is being affected by the same mysterious forces that make Voyager's transmissions arrive late. Have you tried looking in orbital path #7B-42?</div>
 
-        <div class="faq-question">Q: Why can't I find the episode I just listened to?</div>
-        <div class="faq-answer">A: Congratulations! You've experienced a temporal paradox. That episode technically hasn't been recorded yet in this timeline. Either that, or the quantum uncertainty principle is affecting our upload schedule. Have you tried looking in parallel universe #7B-42?</div>
+    <div class="faq-question">Q: Is this show appropriate for my interdimensional counterpart?</div>
+    <div class="faq-answer">A: Yes, but please ensure they listen to the version of our science comedy podcast that aligns with their universe's physical constants. We've had enough trouble with the office telescope creating wormholes as it is.</div>
 
-        <div class="faq-question">Q: Is this show appropriate for my antimatter doppelganger?</div>
-        <div class="faq-answer">A: Yes, but please ensure they listen to the antimatter version of the podcast to avoid any universe-ending annihilation events. We've had enough trouble with the break room microwave as it is.</div>
+    <div class="faq-question">Q: Do I need to understand advanced scientific concepts to enjoy the show?</div>
+    <div class="faq-answer">A: Not at all! Like Jupiter's Great Red Spot, you can appreciate the show's magnitude without understanding all its atmospheric complexities. Our science comedy podcast is designed to be simultaneously educational and entertaining regardless of whether you know your quarks from your quasars.</div>
 
-        <div class="faq-question">Q: Do I need to understand quantum physics to enjoy the show?</div>
-        <div class="faq-answer">A: Not at all! Like Schrödinger's cat, you can simultaneously understand and not understand quantum physics while enjoying our show. In fact, this state of quantum confusion is optimal for maximum entertainment.</div>
+    <div class="faq-question">Q: Can listening to your podcast cause space-time distortions?</div>
+    <div class="faq-answer">A: Only when Mercury is in retrograde. And technically, you've already warped several light cones just by reading this FAQ. Don't worry though - our legal team has offices in enough star systems to handle any causality violations.</div>
 
-        <div class="faq-question">Q: Can listening to your podcast cause temporal paradoxes?</div>
-        <div class="faq-answer">A: Only on Thursdays. And technically, you've already caused several just by reading this FAQ. Don't worry though - our legal team exists across enough parallel universes to handle any causality violations.</div>
+    <div class="faq-question">Q: Why does my supervisor orbit between impressed and disappointed with my work?</div>
+    <div class="faq-answer">A: That's actually explained by Kepler's Third Law of Management: the orbital period of a supervisor's opinion is proportional to the cube of the semi-major axis of your last project deadline. We suggest scheduling your performance review when your workplace planets are properly aligned.</div>
 
-        <div class="faq-question">Q: Why does my supervisor exist in a superposition of impressed and disappointed with my work?</div>
-        <div class="faq-answer">A: That's actually not our fault! According to Heisenberg's Uncertainty Principle of Management, it's impossible to simultaneously know both your job performance and your supervisor's opinion of it. We suggest scheduling your performance review in a universe where you've already gotten that promotion.</div>
+    <div class="faq-question">Q: Is it true that listening to your science comedy podcast increases productivity across multiple departments?</div>
+    <div class="faq-answer">A: Studies conducted on both Earth and our Mars colony suggest a 42% increase in cross-departmental efficiency, though we should note that on Mars, productivity is measured in successful communications despite an 8-minute time delay.</div>
 
-        <div class="faq-question">Q: Is it true that listening to your podcast increases productivity across multiple dimensions?</div>
-        <div class="faq-answer">A: Studies conducted in at least three parallel universes suggest a 42% increase in multidimensional efficiency, though we should note that in one of those universes, productivity is measured in packets of quantum entangled coffee breaks.</div>
+    <div class="faq-question">Q: Can I submit my own cosmic workplace stories?</div>
+    <div class="faq-answer">A: Absolutely! Just make sure to specify which solar system they're from and whether they comply with the Interplanetary Labor Standards. We're still dealing with the paperwork from that one listener who accidentally prevented the discovery of Pluto's planetary demotion.</div>
 
-        <div class="faq-question">Q: Can I submit my own interdimensional workplace stories?</div>
-        <div class="faq-answer">A: Absolutely! Just make sure to specify which universe they're from and whether they comply with the Temporal Prime Directive. We're still dealing with the paperwork from that one listener who accidentally prevented the invention of casual Friday.</div>
-
-        <div class="faq-question">Q: Where can I file a complaint if I'm unsatisfied with my interdimensional podcast experience?</div>
-        <div class="faq-answer">A: All complaints should be submitted to our Quantum Customer Service Department, which exists in a state of maximum helpfulness and minimum accessibility. Alternatively, try filing your complaint yesterday - our temporal feedback loop usually catches those before they become issues.</div>
+    <div class="faq-question">Q: Where can I file a complaint if I'm unsatisfied with my cosmic podcast experience?</div>
+    <div class="faq-answer">A: All complaints should be submitted to our Interstellar Customer Service Department, which exists in a state of maximum helpfulness and minimum radio frequency availability. Alternatively, try sending your complaint via Voyager 1 - it should reach our offices by the year 40,000.</div>
     </div>
+    
 </section>
 
 
