@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "The Multiverse Employee Handbook - Quantum Physics Meets Comedy"
-description: "A mind-bending journey through interdimensional corporate culture with cosmic satire and real scientific insights."
+title: "The Multiverse Employee Handbook - Where Science Meets Office Absurdity"
+description: "The only science comedy podcast approved by the Interdimensional Safety Committee. Join us as we explore space, physics, and sci-fi scenarios through the lens of corporate culture, where the only thing more mysterious than dark matter is what's growing in the office refrigerator."
 ---
 <div class="background-container">
     <div class="background-overlay"></div>
@@ -9,7 +9,7 @@ description: "A mind-bending journey through interdimensional corporate culture 
 
 <section class="hero">
     <h1>The Only Science Podcast Approved by Schrödinger’s Cat (Probably)</h1>
-    <p class="tagline">Join the #1 science comedy podcast exploring quantum physics through workplace humor. From quantum mechanics explained through office politics to multiverse theory through performance reviews, we make learning physics genuinely entertaining. Perfect for science enthusiasts and office workers - no physics degree required, just curiosity about how the universe really works!</p>
+    <p class="tagline">Join the #1 science comedy podcast where workplace humor meets cosmic exploration! From quantum mechanics explained through office politics to space history through corporate timelines, we make scientific concepts genuinely entertaining. Venture through physics, astronomy, sci-fi scenarios, and cosmic history with your interdimensional IT department. Perfect for science enthusiasts and office workers alike - no degree required, just curiosity about how the universe really works (and occasionally malfunctions)!</p>
 </section>
 
 <div class="logo-container">

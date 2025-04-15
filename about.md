@@ -160,44 +160,39 @@ permalink: /about/
 
 <section class="about-header">
     <h1>About The Show</h1>
-    <p class="about-intro">Where quantum physics meets office humor, and corporate culture collides with cosmic uncertainty. Think "Office Space" meets "The Hitchhiker's Guide to the Galaxy," but with more paperwork and fewer towels.</p>
+    <p class="about-intro">Where scientific discovery meets workplace absurdity in this science comedy podcast that explores the cosmos through corporate culture. Think "Office Space" meets "The Hitchhiker's Guide to the Galaxy," but with more interdimensional paperwork and questionable cafeteria options.</p>
 </section>
-
 <section class="about-content">
     <div class="about-card">
         <h2>The Mission</h2>
-        <p>The Multiverse Employee Handbook is a science comedy podcast that transforms complex quantum physics into hilarious workplace scenarios. Each week, we explore the bizarre intersection of scientific theory and office life, making both physics education and corporate existence significantly more entertaining. Of course.</p><br/>
-
+        <p>The Multiverse Employee Handbook is a science comedy podcast that transforms everything from quantum physics to space exploration into hilarious workplace scenarios. Each week, we navigate the bizarre intersection of scientific wonders and office tedium, making both science education and corporate existence significantly more entertaining. Obviously.</p><br/>
         <h2>Origin Story</h2>
-        <p>It started with a quantum fluctuation of an idea: "What if understanding physics was as straightforward as navigating office politics?" Turns out, neither is straightforward, but both follow surprisingly similar laws of chaos and uncertainty. Like Schrödinger's cat, we decided to be simultaneously educational and absurd until someone observed us.</p>        
+        <p>It started with a cosmic microwave background of an idea: "What if understanding the universe was as straightforward as navigating office politics?" Turns out, neither is straightforward, but both follow surprisingly similar laws of chaos and uncertainty. Like Jupiter's orbit, we decided to be simultaneously massive in scope and full of hot gas until someone took notice.</p>        
     </div>
-
     <div class="about-card">
         <h2>What We Deliver</h2>
         <ul class="quantum-list">
-            <li>Accurate quantum physics concepts explained through corporate satire</li>
-            <li>Original sci-fi comedy narratives that bend both space and office culture</li>
-            <li>Workplace humor that transcends dimensions and job descriptions</li>
-            <li>Existential investigations into why the office printer exists in a quantum superposition of 'working' and 'needs toner'</li>
+            <li>Accurate scientific concepts—from quantum mechanics to astrophysics—explained through corporate satire</li>
+            <li>Original sci-fi comedy narratives that bend both spacetime and office culture</li>
+            <li>Workplace humor that transcends astronomical distances and job descriptions</li>
+            <li>Existential investigations into why the Mars rover and your expense report both move at glacial speeds</li>
         </ul>
     </div>
-
     <div class="about-card">
         <h2>Perfect For</h2>
         <ul class="quantum-list">
             <li>Science enthusiasts who appreciate Douglas Adams-style humor</li>
-            <li>Office workers questioning their place in multiple realities</li>
+            <li>Office workers questioning their cosmic significance in the organization chart</li>
             <li>Anyone who suspects their meetings might be creating alternate timelines</li>
-            <li>Corporate employees seeking interdimensional career advancement</li>
-            <li>Physics fans who enjoy their quantum mechanics with a side of comedy</li>
+            <li>Corporate employees seeking interplanetary career advancement</li>
+            <li>Astronomy fans who understand that black holes and management decisions follow similar rules</li>
         </ul>
     </div>
-
     <div class="about-card">
         <h2>Why Listen to The Multiverse Employee Handbook?</h2>
-        <p>Because in an infinite multiverse of podcasts, you've quantum tunneled your way to the one that treats your existential work crisis as the cosmic joke it truly is. We're like "The Office" meets "A Brief History of Time," but with more jokes about quantum mechanics and fewer paper sales.</p><br/>
-        <p>New episodes materialize every Tuesday at 3:14 AM EST across all major podcast platforms and parallel universes.</p><br/>
-        <p><i>Disclaimer: Management accepts no responsibility for temporal paradoxes, quantum entanglements, or existential crises that may result from listening to this podcast. Please file all timeline-related complaints before the universe began.</i></p>
+        <p>Because in an infinite multiverse of science comedy podcasts, you've quantum tunneled your way to the one that treats your existential work crisis as the cosmic joke it truly is. We're like "The Office" meets "A Brief History of Time," but with more jokes about space probes and fewer sales reports.</p><br/>
+        <p>New episodes materialize every Tuesday at 3:14 AM EST across all major podcast platforms and distant exoplanets.</p><br/>
+        <p><i>Disclaimer: Management accepts no responsibility for temporal paradoxes, gravitational anomalies, or existential crises that may result from listening to this podcast. Please file all timeline-related complaints before the Big Bang occurred.</i></p>
     </div>
 </section>
 
