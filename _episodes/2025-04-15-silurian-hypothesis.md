@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-04-15
 duration-en: "38 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/gi4cv3tx4zz7zivj/multiverse-employee-handbook-s02e15-silurian-hypothesis.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000703565146"
+youtube_url: "https://youtu.be/dsxgJCG7KWE?si=u_R5Zy5lwMpIRaBX"
+spotify_url: "https://open.spotify.com/episode/1V6yFQcPW0revUVICQgTpO?si=Y9oe_we2Q4SVlpV-PW70tg"
 transcript_url: "/assets/transcripts/TMEH-S02E15-transcript.pdf"
 duration: "PT38M23S"
 description: >
