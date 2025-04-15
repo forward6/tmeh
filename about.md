@@ -160,7 +160,7 @@ permalink: /about/
 
 <section class="about-header">
     <h1>About The Show</h1>
-    <p class="about-intro">Where scientific discovery meets workplace absurdity in this science comedy podcast that explores the cosmos through corporate culture. Think "Office Space" meets "The Hitchhiker's Guide to the Galaxy," but with more interdimensional paperwork and questionable cafeteria options.</p>
+    <p class="about-intro">Where scientific laws overwhelm workplace bylaws in this science comedy podcast that examines the cosmos through the lens of corporate policy. Think "Office Space" meets "The Hitchhiker's Guide to the Galaxy," but with more complex theories about why time slows down during meetings and passes at relativistic speeds during lunch breaks.</p>
 </section>
 <section class="about-content">
     <div class="about-card">
