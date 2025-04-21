@@ -4,6 +4,7 @@ title: "Bonus Episode: Entropy Rising - Interstellar Colonization"
 hidden: true
 permalink: /episodes/entropy-rising/
 robots: noindex
+published: true
 episode_number: "Bonus 6"
 season_number: 2
 date: 2025-04-25
