@@ -23,6 +23,7 @@ type: podcast
         {% assign now = 'now' | date: '%s' | plus: 0 %}
 
         {% for episode in sorted_episodes %}
+            {% unless episode.hidden %}  
             {% assign release_time = episode.date | date: '%s' | plus: 0 %}
             <article class="episodes-card">
                 <div class="episodes-meta">
@@ -47,6 +48,7 @@ type: podcast
                     <a href="{{ episode.url }}" class="latest-listen-button">Listen now</a>
                 {% endif %}
             </article>
+            {% endunless %}
         {% endfor %}
     </section>
 

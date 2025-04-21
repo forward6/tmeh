@@ -1,8 +1,7 @@
 ---
 layout: episode
 title: "Bonus Episode: Entropy Rising - Interstellar Colonization"
-published: false
-robots: noindex
+hidden: true
 episode_number: "Bonus 6"
 season_number: 2
 date: 2025-04-25
