@@ -21,6 +21,8 @@ description: >
 
 In this special crossover episode, we're swapping content with our friends at Entropy Rising! Join hosts Jacob and Lucas as they explore the fascinating possibilities and challenges of interstellar colonization through generation ships.
 
+<img src="https://storage.buzzsprout.com/23taqmzhl1xh92ha3m19375lekml?.jpg" alt="Entropy Rising Podcast" style="max-width: 200px; max-height: 200px; display: inline-block;" />
+
 What would motivate humanity to leave our solar system? How would we design vessels capable of sustaining life for centuries? And what social structures might emerge when multiple generations live their entire lives aboard these cosmic arks? This thought-provoking discussion examines everything from the practicalities of recycling systems and farming in space to the philosophical questions about governance, reproduction, and what makes a meaningful existence between the stars.
 
 {: .callout}
