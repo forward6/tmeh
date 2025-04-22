@@ -32,17 +32,17 @@ What would motivate humanity to leave our solar system? How would we design vess
 
 ## Generation Ships: More Luxury Cruise Than Dystopian Nightmare
 
-One of the most fascinating aspects of Jacob and Lucas's discussion is their compelling argument that generation ships might actually be quite luxurious—more like floating Mediterranean resorts than the cramped, dystopian tubes often portrayed in science fiction.
+One of the most fascinating aspects of Jacob and Lucas's discussion is their compelling argument that generation ships might actually be quite luxurious, more like floating Mediterranean resorts than the cramped, dystopian tubes often portrayed in science fiction.
 
 As Jacob astutely observes: "If I tell you, either we can go 20% the speed of light, this trip is gonna take five generations, and you're gonna be living in these not-so-great conditions, or, we're only able to go 10% the speed of light, but you're gonna be in luxury the entire time. Do you care if that means there's gonna be a few extra generations after you're dead? Not at all."
 
-The hosts explore how these vessels would likely be designed as O'Neill cylinders—spinning habitats providing Earth-like gravity, with various climate zones and living arrangements. They suggest that colony ships would be more like sending an entire orbital habitat on an interstellar journey than building some spartan transport vessel. After all, who's going to sign up for centuries of discomfort when the journey itself is the entirety of most passengers' lives?
+The hosts explore how these vessels would likely be designed as O'Neill cylinders, spinning habitats providing Earth-like gravity, with various climate zones and living arrangements. They suggest that colony ships would be more like sending an entire orbital habitat on an interstellar journey than building some spartan transport vessel. After all, who's going to sign up for centuries of discomfort when the journey itself is the entirety of most passengers' lives?
 
 ## Ethical Quandaries and Quantum Corporate Policies
 
 The episode delves into fascinating ethical territory when discussing reproduction controls, governance systems, and the potential for social upheaval when generations are born into a system they never chose. While our corporate overlords at Quantum Probability Solutions would undoubtedly suggest implementing a "Mandatory Enthusiasm for Interstellar Corporate Objectives" policy, Jacob and Lucas offer more thoughtful considerations.
 
-They explore whether it's ethical to commit not just yourself but future generations to life aboard a vessel, ultimately concluding that humans are remarkably adaptable. As Lucas points out, the illusion of choice matters more than actual options—most people born on Earth never leave their home regions either, yet don't consider themselves prisoners of their birthplace.
+They explore whether it's ethical to commit not just yourself but future generations to life aboard a vessel, ultimately concluding that humans are remarkably adaptable. As Lucas points out, the illusion of choice matters more than actual options, most people born on Earth never leave their home regions either, yet don't consider themselves prisoners of their birthplace.
 
 {: .callout}
 > **Warning**: Side effects of listening to this episode may include calculating how many resources your current lifestyle would consume on a generation ship, drafting mental ship charters, and wondering if your office break room could benefit from the 100% recycling efficiency required for interstellar travel.
@@ -51,7 +51,7 @@ They explore whether it's ethical to commit not just yourself but future generat
 
 Perhaps the most philosophical aspect of the discussion examines why humans would undertake interstellar journeys in the first place. Jacob and Lucas convincingly argue that resource acquisition makes little sense across such vast distances. Instead, the motivations would likely be exploration, religious freedom, scientific discovery, or simply the biological imperative that drives all life to expand into new niches.
 
-As they note, any biological system that goes through natural selection is driven to expand—from bacteria filling a petri dish to humans colonizing every corner of Earth. This compelling perspective frames interstellar colonization not as some far-fetched sci-fi concept but as the natural continuation of life's fundamental programming.
+As they note, any biological system that goes through natural selection is driven to expand, from bacteria filling a petri dish to humans colonizing every corner of Earth. This compelling perspective frames interstellar colonization not as some far-fetched sci-fi concept but as the natural continuation of life's fundamental programming.
 
 Entropy Rising is a fantastic podcast where hosts Jacob and Lucas explore cutting-edge technologies and futuristic concepts, discussing how these advancements will impact society. Their optimistic approach to humanity's future provides a refreshing counterbalance to our own corporate-dystopian perspective on the cosmos.
 
