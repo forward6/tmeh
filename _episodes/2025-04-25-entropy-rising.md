@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-04-25
 duration-en: "44 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/6srddqsz3bwfnf3c/multiverse-employee-handbook-s02b06-entropy-rising.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000704867001"
+youtube_url: "https://youtu.be/SWDqg9JuPCk?si=S885dAMt3dXEglKv"
+spotify_url: "https://open.spotify.com/episode/7g220OgaxCMfs5KOAeKspC?si=nlMSAnLzRQOAvPuU2Q8hew"
 transcript_url: "/assets/transcripts/TMEH-S02B06-transcript.pdf"
 duration: "PT44M05S"
 description: >
