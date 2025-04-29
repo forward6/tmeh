@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-04-29
 duration-en: "29 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/e3tvtrvia78cgbip/multiverse-employee-handbook-s02e17-entropy.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000705373746"
+spotify_url: "https://open.spotify.com/episode/3vp51R0Qg1qTTp6fejnNyB?si=y7dkCRmlRV6YliR8Xpq4QQ"
+youtube_url: "https://youtu.be/Bspfs6nChiY?si=srInDfPHZKoo3TVV"
 transcript_url: "/assets/transcripts/TMEH-S02E17-transcript.pdf"
 duration: "PT29M41S"
 description: >
