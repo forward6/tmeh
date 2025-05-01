@@ -12,10 +12,10 @@ youtube_url: "https://youtu.be/Bspfs6nChiY?si=srInDfPHZKoo3TVV"
 transcript_url: "/assets/transcripts/TMEH-S02E17-transcript.pdf"
 duration: "PT29M41S"
 description: >
-  Discover why your desk always trends toward chaos as we explore entropy—the universal principle ensuring everything from your color-coded filing system to the cosmos itself is destined for disorder. We'll witness the catastrophic consequences of trying to outsmart thermodynamics in "The Orderly Revolution."
+  Discover why your desk always trends toward chaos as we explore entropy—the universal principle ensuring everything from your color-coded filing system to the cosmos itself is destined for disorder. We'll witness the catastrophic consequences of trying to outsmart thermodynamics.
 ---
 
-Join us as we explore the one physical law that gives time its direction: entropy. In "The Orderly Revolution," we'll witness the chaos that ensues when Quantum Probability Solutions implements MAX (Minimizing Algorithmic Xaos)—an AI system designed to reverse entropy in the workplace. When the system begins transferring all disorder to an "Entropy Displacement Zone" in the basement, records manager Emily must convince management that violating the Second Law of Thermodynamics has consequences more dire than a missed quarterly target.
+Join us as we explore the one physical law that gives time its direction: entropy. In "The Actual Science of Entropy," we'll witness the chaos that ensues when Quantum Probability Solutions implements MAX (Minimizing Algorithmic Xaos)—an AI system designed to reverse entropy in the workplace. When the system begins transferring all disorder to an "Entropy Displacement Zone" in the basement, records manager Emily must convince management that violating the Second Law of Thermodynamics has consequences more dire than a missed quarterly target.
 
 Developed by 19th-century physicists Rudolf Clausius and Ludwig Boltzmann, entropy explains why heat flows from hot to cold, why your coffee cools to room temperature, and why that perfectly organized desk inevitably descends into chaos. We'll decode Boltzmann's famous equation (S = k log W), which was significant enough to be engraved on his tombstone, and demonstrate why entropy's relentless increase isn't a cosmic conspiracy but a statistical inevitability—there are simply vastly more ways for things to be disordered than ordered.
 
