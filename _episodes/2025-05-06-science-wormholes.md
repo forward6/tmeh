@@ -4,13 +4,13 @@ title: "Wormholes: The Universe's Administrative Shortcut"
 episode_number: 18
 season_number: 2
 date: 2025-05-06
-duration-en: "29 minutes"
+duration-en: "30 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/[TBD]/multiverse-employee-handbook-s02e18-wormholes.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E18-transcript.pdf"
-duration: "PT29M12S"
+duration: "PT30M04S"
 description: >
   Explore the theoretical tunnels through spacetime that promise to bypass the cosmic speed limit as we investigate wormholes—physics' answer to bureaucratic backdoors. We'll discover why creating shortcuts through the universe requires conditions so extreme they make HR's travel reimbursement policies look reasonable.
 ---
