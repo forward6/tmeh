@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-05-06
 duration-en: "30 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/2fxyyciz3b5ez9v8/multiverse-employee-handbook-s02e18-wormholes.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000706489336"
+spotify_url: "https://open.spotify.com/episode/6NjobmXqegEmddmg6DTsvc?si=NKff-rkES0awKhS7vE4YEw"
+youtube_url: "https://youtu.be/3urqfSklgMY?si=vznhKywULv48FTwb"
 transcript_url: "/assets/transcripts/TMEH-S02E18-transcript.pdf"
 duration: "PT30M04S"
 description: >
