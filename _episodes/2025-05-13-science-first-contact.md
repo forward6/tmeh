@@ -4,13 +4,13 @@ title: "First Contact: The Science of Alien Dialogue"
 episode_number: 19
 season_number: 2
 date: 2025-05-13
-duration-en: "32 minutes"
-audio_url: ""
+duration-en: "34 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/gqxhwa9ya86vinx3/multiverse-employee-handbook-s02e19-science-first-contact.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E19-transcript.pdf"
-duration: "PT32M20S"
+duration: "PT33M48S"
 description: >
   Venture beyond human perception into the vast sensory divides separating us from potential alien civilizations. We explore why our search for extraterrestrial intelligence might be fundamentally limited by our own biological architecture—like searching for cosmic conversations while wearing sensory blindfolds.
 ---
