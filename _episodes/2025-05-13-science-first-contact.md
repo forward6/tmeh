@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-05-13
 duration-en: "34 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/gqxhwa9ya86vinx3/multiverse-employee-handbook-s02e19-science-first-contact.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/first-contact-the-science-of-alien-dialogue/id1764134739?i=1000708290799"
+spotify_url: "https://open.spotify.com/episode/0L1ff4vkSZibNyLR5X144J?si=nEwleBCdSP-hMu5_VAIc5w"
+youtube_url: "https://youtu.be/Iv-qCnPbR6E?si=6ZqBGveUrbqeA_G2"
 transcript_url: "/assets/transcripts/TMEH-S02E19-transcript.pdf"
 duration: "PT33M48S"
 description: >
