@@ -1,5 +1,3 @@
-# Recommended filename: 2025-05-27-part2-employee-guide-planetary-termination.md
-
 ---
 layout: episode
 title: "Part 2, The Employee Guide to Planetary Termination"
