@@ -4,7 +4,7 @@ title: "The Employee Guide to Planetary Termination, A Towel Day Special"
 episode_number: 20
 season_number: 2
 date: 2025-05-20
-duration-en: "30 minutes, 15 seconds"
+duration-en: "30 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/uyddv6r2ryg8ps9i/multiverse-employee-handbook-s02e20-employee-guide-planetary-termination.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000709104829"
 spotify_url: "https://open.spotify.com/episode/2W1VfSjwftS1Ty4Hk31619?si=JhLwNQ5QT82vszoikTdL1Q"
