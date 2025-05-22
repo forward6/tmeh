@@ -5,10 +5,10 @@ episode_number: 21
 season_number: 2
 date: 2025-05-27
 duration-en: "35 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/n7vc2q5h6zpwf8/multiverse-employee-handbook-s02e21-part2-employee-guide-planetary-termination.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000709583651"
-spotify_url: "https://open.spotify.com/episode/9LXFjsT7Hk3MpQq6Rz92v0?si=HjYm84TsQRyvJdP2L-DzFg"
-youtube_url: "https://youtu.be/e2K4DpVcM9k?si=43VqTh7PbRxGzMq8"
+audio_url: "https://mcdn.podbean.com/mf/download/apbq5asdij2wnm92/multiverse-employee-handbook-s02e21-part2-employee-guide-planetary-termination.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E21-transcript.pdf"
 duration: "PT35M30S"
 description: >
