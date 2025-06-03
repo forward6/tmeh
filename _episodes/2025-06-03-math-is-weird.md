@@ -4,13 +4,13 @@ title: "Math is Weird"
 episode_number: 22
 season_number: 2
 date: 2025-06-03
-duration-en: "33 minutes 20 seconds"
-audio_url: "https://mcdn.podbean.com/mf/download/apbq5asdij2wnm92/multiverse-employee-handbook-s02e22-math-is-weird.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000710058122"
-spotify_url: "https://open.spotify.com/episode/0PGqCPtMszf4lVUMtRMkUh?si=3ZPfTAJYRriGFBbf50erpx"
-youtube_url: "https://youtu.be/Hu6rBn8xapQ?si=lzDGwNBi0NG4hYdI"
+duration-en: "34 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/uddardtfur6sp2wc/multiverse-employee-handbook-s02e22-math-is-weird.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E22-transcript.pdf"
-duration: "PT33M20S"
+duration: "PT34M15S"
 description: >
   Join us for a journey through humanity's most ambitious attempt to make the universe make sense through strategic symbol arrangement. From civilizations that built pyramids without zero to unsolved problems that mock our mathematical pretensions, discover why numbers are simultaneously our greatest achievement and most persistent source of existential confusion.
 ---
