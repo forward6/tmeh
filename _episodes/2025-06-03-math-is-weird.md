@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-06-03
 duration-en: "34 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/uddardtfur6sp2wc/multiverse-employee-handbook-s02e22-math-is-weird.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000710978733"
+spotify_url: "https://open.spotify.com/episode/40wRdxLBeGd8pKV2T6hy2z?si=PeSmvJBeS8OB7401RuHBkw"
+youtube_url: "https://youtu.be/rr7Q24YVCV8?si=AFKxyAIBpwHbYYmX"
 transcript_url: "/assets/transcripts/TMEH-S02E22-transcript.pdf"
 duration: "PT34M15S"
 description: >
