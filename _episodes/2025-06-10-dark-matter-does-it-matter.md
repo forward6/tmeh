@@ -4,13 +4,13 @@ title: "Dark Matter: Does It Matter?"
 episode_number: 23
 season_number: 2
 date: 2025-06-10
-duration-en: "38 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/[PLACEHOLDER]/multiverse-employee-handbook-s02e23-dark-matter-does-it-matter.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=[PLACEHOLDER]"
-spotify_url: "https://open.spotify.com/episode/[PLACEHOLDER]"
-youtube_url: "https://youtu.be/[PLACEHOLDER]"
+duration-en: "39 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/a7hag9jubbz29x63/multiverse-employee-handbook-s02e23-dark-matter-does-it-matter.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E23-transcript.pdf"
-duration: "PT38M20S"
+duration: "PT39M23S"
 description: >
   From Chile's Atacama Desert at the foot of the Vera C. Rubin Observatory, we explore humanity's greatest cosmic mystery: the 85% of all matter that refuses to show up for work. From Fritz Zwicky's ignored calculations to Vera Rubin's revolutionary discoveries, discover why the universe's invisible scaffolding might be more important than everything we can actually see.
 ---
