@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-06-10
 duration-en: "39 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/a7hag9jubbz29x63/multiverse-employee-handbook-s02e23-dark-matter-does-it-matter.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000712214570"
+spotify_url: "https://open.spotify.com/episode/5F4bOTnni8fUC9KVTLhsgZ?si=WhZ6BXADQRW-sZ6JfwX_zg"
+youtube_url: "https://youtu.be/58IRMHlwXVw?si=HimdYveKMsm7QVrh"
 transcript_url: "/assets/transcripts/TMEH-S02E23-transcript.pdf"
 duration: "PT39M23S"
 description: >
