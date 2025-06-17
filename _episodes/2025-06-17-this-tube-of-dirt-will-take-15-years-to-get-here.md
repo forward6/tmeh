@@ -4,13 +4,13 @@ title: "This Tube of Dirt Will Take 15 Years to Get Here"
 episode_number: 24
 season_number: 2
 date: 2025-06-17
-duration-en: "29 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/a7hag9jubbz29x63/multiverse-employee-handbook-s02e24-this-tube-of-dirt-took-15-years-to-get-here.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000712214571"
-spotify_url: "https://open.spotify.com/episode/6G5cPUooj9gVD9LWUMitah?si=XhA7CYBETRX-tA7JgxY_zh"
-youtube_url: "https://youtu.be/59JSNImxWYx?si=IjneFwhKNtn8QWsi"
+duration-en: "32 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/64dtdxzuc2b5gstp/multiverse-employee-handbook-s02e24-this-tube-of-dirt-will-take-15-years-to-get-here.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E24-transcript.pdf"
-duration: "PT29M20S"
+duration: "PT32M06S"
 description: >
   Explore the magnificent absurdity of Mars Sample Return—the most expensive dirt delivery service in the solar system. From launch windows that only open every 26 months to international cooperation spanning decades, discover why bringing home 200 grams of Martian soil requires more coordination than most peace treaties and the patience of geological timescales.
 ---
