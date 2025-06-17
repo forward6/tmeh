@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-06-17
 duration-en: "32 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/64dtdxzuc2b5gstp/multiverse-employee-handbook-s02e24-this-tube-of-dirt-will-take-15-years-to-get-here.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000713212519"
+spotify_url: "https://open.spotify.com/episode/1EghAUGN12MSnuhzOvLnyv?si=fXtFtQXpTbOgciTZv_Dksw"
+youtube_url: "https://youtu.be/CaaSxQ2p2hg?si=9dutnMMpM5NOA_ya"
 transcript_url: "/assets/transcripts/TMEH-S02E24-transcript.pdf"
 duration: "PT32M06S"
 description: >
