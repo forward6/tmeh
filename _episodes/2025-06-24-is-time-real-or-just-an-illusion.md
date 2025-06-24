@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-06-24
 duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/63hmmda4vwvfbkxf/multiverse-employee-handbook-s02e25-is-time-real-or-just-an-illusion.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000714316722"
+spotify_url: "https://open.spotify.com/episode/5te1fNAgyNQv3k5oP3qcdE?si=2GI3YHmrRLCgIJb682npBw"
+youtube_url: "https://youtu.be/XeTX-M1ZLaE?si=qby-gLC1OhZoY4zn"
 transcript_url: "/assets/transcripts/TMEH-S02E25-transcript.pdf"
 duration: "PT31M10S"
 description: >
