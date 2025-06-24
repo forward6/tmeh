@@ -1,16 +1,16 @@
 ---
 layout: episode
-title: "Is Time Real? Scientists Say It's Just an Illusion"
+title: "Is Time Real - Or Just An Illusion?"
 episode_number: 25
 season_number: 2
 date: 2025-06-24
-duration-en: "32 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/[audio_id]/multiverse-employee-handbook-s02e25-is-time-real-scientists-say-its-just-an-illusion.mp3"
+duration-en: "31 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/63hmmda4vwvfbkxf/multiverse-employee-handbook-s02e25-is-time-real-or-just-an-illusion.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E25-transcript.pdf"
-duration: "PT32M15S"
+duration: "PT31M10S"
 description: >
   Dive into the ultimate existential crisis facing modern physics: what if time doesn't actually exist? Explore how recent breakthroughs in quantum gravity suggest time emerges from quantum entanglement rather than flowing independently, making your chronic lateness a profound statement about the nature of reality itself.
 ---
