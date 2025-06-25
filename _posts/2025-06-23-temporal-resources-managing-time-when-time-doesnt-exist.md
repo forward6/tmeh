@@ -50,7 +50,7 @@ Recent experimental breakthroughs have validated something called the Page-Woott
 
 Think of it like the ultimate group project: time only exists when quantum particles collaborate effectively. From inside the project team, you experience sequence, progress, and deadlines. But someone observing your entire team from outside just sees a static, timeless configuration of completed work. Time emerges from correlations between team members, not from any external project timeline.
 
-In 2023, Italian physicist Ekaterina Moreva's experiments provided direct confirmation of this mechanism using entangled photons. They demonstrated that time literally emerges for internal observers while remaining absent for external ones. We're not just experiencing time—we're creating temporal experience through the very act of being conscious, quantum beings embedded in reality's information processing systems.
+In 2023, Italian physicist Ekaterina Moreva's experiments provided direct confirmation of this mechanism using entangled photons. They demonstrated that time literally emerges for internal observers while remaining absent for external ones. We're not just experiencing time—we experience temporal flow because we're conscious observers embedded in the same quantum information systems that create time through all physical interactions - from particle decay to continental drift.
 
 ### Ultra-Precise Clocks and the Quantum Nature of Scheduling
 
