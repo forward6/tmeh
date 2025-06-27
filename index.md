@@ -65,7 +65,8 @@ description: "The only science comedy podcast approved by the Interdimensional S
     `"Every episode is like a TED Talk crashed into a Monty Python sketch and emerged with a clipboard."<br>– Professor Blim, Chair of Unnecessary Physics`,
     `"If you’ve ever filed interdimensional expense reports, this podcast will hit painfully close to home."<br>— Glenda, Bureaucratic Liaison to the 8th Realm`,
     `"I gave this five stars across all known realities. Except one, but that version of me is kind of a jerk."<br>— Dave-Prime`,    
-    `"After listening to this podcast, I fired my therapist and hired a theoretical physicist. My existential dread now glows in the dark."<br>– Lex from the Andromeda Branch`
+    `"After listening to this podcast, I fired my therapist and hired a theoretical physicist. My existential dread now glows in the dark."<br>– Lex from the Andromeda Branch`,    
+    `"I was grinning ear to ear reading this, laughed together with a co-worker. What a brilliant, beautiful, thought provoking, ridiculous genius of a comedy. Thank you, I felt both my intelligent and comic parts of the brain were hanging out in a bar."<br>— Onewildgamer, Hacker News`
   ];
 
   const randomReview = reviews[Math.floor(Math.random() * reviews.length)];
