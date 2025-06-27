@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-06-27
 duration-en: "13 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/p8i2jz4xtxxwaykq/multiverse-employee-handbook-s02b07-strange-science-time-crystals-frank-wilczek.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000714772928"
+youtube_url: "https://youtu.be/ci1ZMn9UxQQ?si=S4eWqfInuG44Fdp9"
+spotify_url: "https://open.spotify.com/episode/5GW53aPUQ37GNqu7ZSfUei?si=1-DH9T5hQgG8CUbUIQ7WPQ"
 transcript_url: "/assets/transcripts/TMEH-S02B07-transcript.pdf"
 duration: "PT13M42S"
 description: >
