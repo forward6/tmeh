@@ -8,7 +8,7 @@ description: "The only science comedy podcast approved by the Interdimensional S
 </div>
 
 <section class="hero">
-    <h1>The Science Comedy Podcast That Assumes You're Intelligent Enough to Feel Stupid</h1>
+    <h1>A Science Comedy Podcast Exploring Space, Time, and Corporate Mismanagement</h1>
     <p class="tagline">Join the #1 science comedy podcast where workplace humor meets cosmic exploration! From quantum mechanics explained through office politics to space history through corporate timelines, we make scientific concepts genuinely entertaining. Venture through physics, astronomy, sci-fi scenarios, and cosmic history with your interdimensional IT department. Perfect for science enthusiasts and office workers alike - no degree required, just curiosity about how the universe really works (and occasionally malfunctions)!</p>
 </section>
 
