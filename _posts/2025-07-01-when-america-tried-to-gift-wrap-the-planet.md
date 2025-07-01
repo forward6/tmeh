@@ -100,7 +100,7 @@ After all, in the grand scheme of cosmic communications, we're all just trying t
 
 ### Further Reading and Official Records
 
-For complete technical details and mission documentation, visit NASA's official Project West Ford archive at the [National Space Science Data Center](https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1961-028A-03), where you can explore original mission reports, orbital data, and engineering specifications for this remarkable experiment in cosmic accessorizing.
+Curious to dig deeper into the wild science, Cold War drama, and orbital chaos behind Project West Ford? We've gathered all the source links we used in researching this episode—official archives, scientific breakdowns, historical commentary, and more—over on our subreddit. 📎 Explore the full list here: [r/TMEHpodcast/](https://www.reddit.com/r/TMEHpodcast/). Join the discussion, dive into the data, and see just how close we came to turning Earth into a disco ball for national security.
 
 ## Listen to the Episode
 

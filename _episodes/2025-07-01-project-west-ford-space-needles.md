@@ -5,12 +5,12 @@ episode_number: 26
 season_number: 2
 date: 2025-07-01
 duration-en: "32 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/63hmmda4vwvfbkxf/multiverse-employee-handbook-s02e26-project-west-ford-space-needles.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000714316723"
-spotify_url: "https://open.spotify.com/episode/5te1fNAgyNQv3k5oP3qcdF?si=2GI3YHmrRLCgIJb682npBw"
-youtube_url: "https://youtu.be/XeTX-M1ZLaF?si=qby-gLC1OhZoY4zn"
+audio_url: "https://mcdn.podbean.com/mf/download/fa37x6az93cg9hdu/multiverse-employee-handbook-s02e26.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E26-transcript.pdf"
-duration: "PT32M11S"
+duration: "PT31M53S"
 description: >
   Discover the most audacious Cold War experiment ever launched: America's plan to solve communication vulnerabilities by gift-wrapping Earth in 480 million copper needles. Explore how Project West Ford's spectacular failure accidentally created modern space law, international cooperation protocols, and the template for every space debris controversy since 1963.
 ---
