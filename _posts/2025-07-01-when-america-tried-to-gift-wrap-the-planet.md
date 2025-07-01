@@ -8,8 +8,6 @@ categories: [Physics, Space History, Cold War, Communications Technology, Space 
 
 ### The Most Expensive Jewelry in Solar System History
 
-Imagine trying to explain to your insurance company that you accidentally created the most expensive space junk in history while attempting to turn Earth into a giant radio antenna using mothball technology. This isn't science fiction—this is Project West Ford, the Cold War experiment that briefly made our planet the most fashionably accessorized celestial body in the solar system.
-
 In 1963, for several glorious weeks, Earth wore a necklace of 480 million copper needles arranged in perfect orbital formation. Not for aesthetic purposes, mind you, but because the U.S. military was absolutely terrified they wouldn't be able to call Europe if the Soviets cut a few underwater cables. The solution, naturally, was to redecorate the entire planet with precisely-cut copper wire needles deployed using technology originally designed to protect winter sweaters from moths.
 
 This is the story of how America's response to a communication crisis involved gift-wrapping Earth in cosmic haberdashery—and accidentally created the foundation of modern space law in the process.
