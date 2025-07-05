@@ -1,7 +1,10 @@
 ---
+layout: post
 title: "July 5, 1687: When Newton Explained Why You Don’t Float Away"
 description: "On this day in 1687, Isaac Newton published the Principia—a book that explained why apples fall, why planets don’t wander off, and why NASA is still lighting enormous tubes on fire to fling humans into orbit 337 years later."
 date: 2025-07-05
+department: Department of Planetary Motion and Apple Trajectory Oversight
+categories: [Mathematics, Space History, Universal Laws, Apple-Based Discoveries]
 ---
 
 ## The Day the Universe Got Organised (Mostly)
