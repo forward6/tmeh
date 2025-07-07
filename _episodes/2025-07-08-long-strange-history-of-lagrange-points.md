@@ -4,20 +4,20 @@ title: "The Long, Strange History of Lagrange Points"
 episode_number: 27
 season_number: 2
 date: 2025-07-08
-duration-en: "37 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/fa37x6az93cg9hdu/multiverse-employee-handbook-s02e27.mp3"
+duration-en: "36 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/deak3wkcn5vmfbzh/multiverse-employee-handbook-s02e27-long-strange-history-of-lagrange-points.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E27-transcript.pdf"
-duration: "PT37M20S"
+duration: "PT36M18S"
 description: >
   Discover how an 18th-century French mathematician accidentally invented cosmic parking spaces 200 years before rockets existed, launching humanity's most prescient urban planning success story. Explore the gravitational sweet spots where spacecraft achieve perfect work-life balance, from JWST's L2 refrigeration unit to the amateur radio resurrection of a 40-year-old space wanderer.
 ---
 
 Welcome to the cosmic real estate market where parking is free, the views are spectacular, and your commute involves orbital mechanics rather than traffic jams. In this episode, we explore humanity's most successful example of building infrastructure before knowing what it's for—Joseph-Louis Lagrange's 1772 mathematical prediction of gravitational parking spaces that wouldn't be used until 1978.
 
-Our gravitationally balanced correspondent guides us through the elegant mathematics of three-body problems and corporate facilities management, from Lagrange's coffee-fueled calculations in pre-rocket France to modern spacecraft maintaining perfect cosmic equilibrium at five mathematically precise locations throughout the solar system. Along the way, we witness Brad from Sales' spectacular misappropriation of corporate Lagrange points for storing client gifts including vintage Lamborghinis, holographic tennis courts, and an orbital prize horse named Sir Probability.
+Our gravitationally balanced correspondent guides us through the elegant mathematics of three-body problems and corporate facilities management, from Lagrange's (almost probably) coffee-fueled calculations in pre-rocket France to modern spacecraft maintaining perfect cosmic equilibrium at five mathematically precise locations throughout the solar system. Along the way, we witness Brad from Sales' spectacular misappropriation of corporate Lagrange points for storing client gifts including vintage Lamborghinis, holographic tennis courts, and an orbital prize horse named Sir Probability.
 
 {: .callout}
 > **Orbital Warning**: This episode contains advanced concepts such as "restricted three-body problems," "gravitational equilibrium mechanics," and "Lagrangian asset management protocols." Listeners may experience side effects including questioning their own work-life balance optimization strategies, philosophical vertigo about mathematical prescience, and the sudden urge to calculate optimal parking locations using 18th-century French mathematics.
