@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-07-08
 duration-en: "36 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/deak3wkcn5vmfbzh/multiverse-employee-handbook-s02e27-long-strange-history-of-lagrange-points.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000716290805"
+spotify_url: "https://open.spotify.com/episode/5tr0ydsYqcDZIWJ6reTn6B?si=6qFQE7ecTXu-U2KP_DmFOA"
+youtube_url: "https://youtu.be/EJ4kpaz6tss?si=d1i1ayPhx3N9KohJ"
 transcript_url: "/assets/transcripts/TMEH-S02E27-transcript.pdf"
 duration: "PT36M18S"
 description: >

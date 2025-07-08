@@ -9,7 +9,7 @@ categories: [Mathematics, Project Management, Space Infrastructure, Gravitationa
 
 ### When French Mathematics Meets Cosmic Real Estate
 
-Project managers spend their lives searching for that mythical sweet spot where competing deadlines, budgets, and stakeholders achieve perfect balance. In 1772, a French-Italian mathematician named Joseph-Louis Lagrange found exactly that—five of them, actually—except his were in space and wouldn't be useful for another two centuries.
+Project managers spend their lives searching for that mythical sweet spot where competing deadlines, budgets, and stakeholders achieve perfect balance. In 1772, a French-Italian mathematician named Joseph-Louis Lagrange found exactly that—five of them, actually—except his were in space and wouldn't be useful for another two centuries. 
 
 Lagrange was working on what mathematicians call the "three-body problem": how do you predict the motion of three objects that are all gravitationally attracted to each other? It's like trying to organize a meeting between three executives who all want to be the most important person in the room, except the meeting room is infinite and governed by Newton's laws instead of corporate politics.
 
@@ -39,7 +39,7 @@ This is where the James Webb Space Telescope has set up its $10 billion cosmic r
 
 The European Space Agency's Euclid and Gaia missions also call L2 home, making it the Beverly Hills of space telescope real estate.
 
-### L3: Where Projects Go to Die
+### L3: The Unstable Counter-Earth 
 
 L3 sits on the opposite side of the Sun from Earth—the cosmic equivalent of the executive parking space that looks great on paper but turns out to be completely impractical. Science fiction writers love L3 as the location for "counter-Earth," but there's a reason no one actually parks anything there: it's gravitationally unstable.
 
