@@ -1,14 +1,14 @@
 ---
 layout: episode
-title: "Apollo 18, 19, and 20: The Moon Missions That Never Happened"
+title: "NASA and the Cosmic Tragedy of Apollo 18–20"
 episode_number: 28
 season_number: 2
 date: 2025-07-15
 duration-en: "32 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/example/multiverse-employee-handbook-s02e28-apollo-18-19-20-moon-missions-never-happened.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000000000000"
-spotify_url: "https://open.spotify.com/episode/example?si=example"
-youtube_url: "https://youtu.be/example?si=example"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E28-transcript.pdf"
 duration: "PT32M16S"
 description: >
