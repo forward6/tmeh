@@ -5,7 +5,7 @@ episode_number: 28
 season_number: 2
 date: 2025-07-15
 duration-en: "32 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/example/multiverse-employee-handbook-s02e28-apollo-18-19-20-moon-missions-never-happened.mp3"
+audio_url: "https://mcdn.podbean.com/mf/download/7f2t4pdnn62ep9c3/multiverse-employee-handbook-s02e28-nasa-cosmic-tragedy-apollo-18-20.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
