@@ -4,13 +4,13 @@ title: "NASA and the Cosmic Tragedy of Apollo 18–20"
 episode_number: 28
 season_number: 2
 date: 2025-07-15
-duration-en: "32 minutes"
+duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/7f2t4pdnn62ep9c3/multiverse-employee-handbook-s02e28-nasa-cosmic-tragedy-apollo-18-20.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E28-transcript.pdf"
-duration: "PT32M16S"
+duration: "PT30M58S"
 description: >
   Discover how trained astronauts, assembled rockets, and planned lunar bases fell victim to the most destructive force in the universe: bureaucratic entropy. Explore the cancelled Apollo missions that could have established permanent lunar colonies by 1980, featuring Richard Gordon's phantom footsteps and Saturn V rockets turned museum pieces.
 ---
