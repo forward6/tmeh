@@ -105,6 +105,6 @@ The graveyard of cancelled missions isn't really a graveyard—it's more like a 
 
 Tune into *The Multiverse Employee Handbook*—the only podcast that treats cancelled space missions like a particularly complex org chart with really expensive consequences.
 
-[🎧 Listen to our Apollo 18-20 episode](https://multiverseemployeehandbook.com/episodes/nasa-cosmic-tragedy-apollo-18–20/).
+[🎧 Listen to our Apollo 18-20 episode](https://multiverseemployeehandbook.com/episodes/nasa-cosmic-tragedy-apollo-18-20/).
 
 ---
