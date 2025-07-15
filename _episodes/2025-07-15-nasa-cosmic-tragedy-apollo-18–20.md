@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-07-15
 duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/7f2t4pdnn62ep9c3/multiverse-employee-handbook-s02e28-nasa-cosmic-tragedy-apollo-18-20.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000717299351"
+spotify_url: "https://open.spotify.com/episode/4a1QHI2ywAP7x84RIifGbC?si=gSKnf6XMTfePKXBb5mDwqg"
+youtube_url: "https://youtu.be/76j88yMzPjw?si=_8zWzHtPjR0olgPs"
 transcript_url: "/assets/transcripts/TMEH-S02E28-transcript.pdf"
 duration: "PT30M58S"
 description: >
