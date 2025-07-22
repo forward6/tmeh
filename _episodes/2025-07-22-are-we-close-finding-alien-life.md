@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-07-22
 duration-en: "42 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/nkrxrre7i7tj4tmh/multiverse-employee-handbook-s02e29-are-we-close-finding-alien-life.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000718427071"
+spotify_url: "https://open.spotify.com/episode/3AW5QMQiWR03iHnDrUCgtz?si=WrtH01J_Q3GtDEm3HbAvhg"
+youtube_url: "https://youtu.be/RF3x-Orasho?si=i1OL0kVYpABNlzwZ"
 transcript_url: "/assets/transcripts/TMEH-S02E29-transcript.pdf"
 duration: "PT41M26S"
 description: >
