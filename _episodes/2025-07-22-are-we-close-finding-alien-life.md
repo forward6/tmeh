@@ -4,15 +4,15 @@ title: "Are We Close To Finding Alien Life?"
 episode_number: 29
 season_number: 2
 date: 2025-07-22
-duration-en: "34 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/8x3v5qerro73fn4k/multiverse-employee-handbook-s02e29-are-we-close-finding-alien-life.mp3"
+duration-en: "42 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/nkrxrre7i7tj4tmh/multiverse-employee-handbook-s02e29-are-we-close-finding-alien-life.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E29-transcript.pdf"
-duration: "PT34M16S"
+duration: "PT41M26S"
 description: >
-  Discover why finding our cosmic neighbors feels like being map-makers charting continents we'll never visit, while the universe operates its own customer service department with 50,000-year hold times. Explore the difference between biosignatures and cosmic false positives, featuring Hart's Inconvenient Truth and the spectacular administrative collapse of the K2-18b "discovery."
+  Discover why finding our cosmic neighbours feels like being map-makers charting continents we'll never visit, while the universe operates its own customer service department with 50,000-year hold times. Explore the difference between biosignatures and cosmic false positives, featuring Hart's Inconvenient Truth and the spectacular administrative collapse of the K2-18b "discovery."
 ---
 
 Welcome to the cosmic cartography department, where every potential alien signal exists in a superposition of "revolutionary breakthrough" and "embarrassing retraction" until peer review collapses the wave function. In this episode, we explore humanity's search for extraterrestrial intelligence through the lens of Carl Sagan's pale blue dot perspective and the sobering reality that the universe apparently operates on customer service principles that make our cable company look efficient.
