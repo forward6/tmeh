@@ -19,6 +19,34 @@ description: "The official website for The Multiverse Employee Handbook – a sc
     class="logo-image">
 </div>
 
+{% assign episodes = site.episodes | sort: 'date' | reverse %}
+{% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
+
+{% assign latest_valid_episode = nil %}
+
+{% for episode in episodes %}
+  {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
+  {% if now >= release_time %}
+    {% assign latest_valid_episode = episode %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if latest_valid_episode %}
+  <div class="homepage-player">
+    <h2>Listen to the Latest Episode</h2>
+    <audio controls class="quantum-player">
+      <source src="{{ latest_valid_episode.audio_url }}" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <p><strong>{{ latest_valid_episode.title }}</strong><br>
+    <small>Published {{ latest_valid_episode.date | date: "%B %d, %Y" }} | About {{ latest_valid_episode.duration-en }}</small></p>
+    <p><a href="{{ latest_valid_episode.url }}">Full Episode Page →</a></p>
+  </div>
+{% else %}
+  <p>No episodes available yet.</p>
+{% endif %}
+
 <section class="platforms">
 <h2>Tune in on your preferred listening portal:</h2>
 <div class="platform-grid">

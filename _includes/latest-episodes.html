@@ -1,18 +1,18 @@
 <section class="latest-episodes">
-  <h2>Latest Episodes</h2>
+  <h2>Recent Episodes</h2>
   {% assign episodes = site.episodes | sort: 'date' | reverse %}
   {% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
   {% assign episode_count = 0 %}
-
-  <!-- Debug info -->
-  <div style="display:none">
-      Current time: {{ now | date: '%Y-%m-%d %H:%M' }}
-      Current timestamp: {{ now }}
-  </div>
+  {% assign skipped = false %}
 
   {% for episode in episodes %}
     {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
     {% if now >= release_time %}
+      {% if skipped == false %}
+        {% assign skipped = true %}
+        {% continue %}
+      {% endif %}
+
       <div class="latest-episode-card">
           <h3>{{ episode.title }}</h3>
           <div class="episodes-excerpt">{{ episode.excerpt }}</div>
