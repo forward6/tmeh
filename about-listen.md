@@ -207,4 +207,10 @@ permalink: /about/listen/
             <div class="about-message">Or search for "The Multiverse Employee Handbook" on your favorite listening portal.</div>
 </section>
 
+<section class="newsletter">
+    <h2>Subscribe to Our Interdimensional Newsletter</h2>
+    <p>Get exclusive bonus content and updates delivered directly to your inbox (across all possible timelines).</p>
+    <div class="ml-embedded" data-form="vWaNNz"></div>
+</section>
+
 <div id="quantum-field" class="quantum-field"></div>
