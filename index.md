@@ -48,6 +48,42 @@ description: "The official website for The Multiverse Employee Handbook – a sc
   <p>No episodes available yet.</p>
 {% endif %}
 
+{% assign episodes = site.episodes | sort: 'date' | reverse %}
+{% assign now = 'now' | date: '%s' | timezone: 'America/New_York' %}
+{% assign featured_episode = nil %}
+
+{% for episode in episodes %}
+  {% assign release_time = episode.date | date: '%Y-%m-%d ' | append: '03:14:00' | date: '%s' | timezone: 'America/New_York' %}
+  {% if now >= release_time %}
+    {% assign featured_episode = episode %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if featured_episode %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "url": "{{ site.url }}{{ featured_episode.url }}",
+  "name": "{{ featured_episode.title | escape }}",
+  "datePublished": "{{ featured_episode.date | date_to_xmlschema }}",
+  "description": "{{ featured_episode.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}",
+  "episodeNumber": "{{ featured_episode.episode_number }}",
+  "timeRequired": "{{ featured_episode.duration }}",
+  "associatedMedia": {
+    "@type": "MediaObject",
+    "contentUrl": "{{ site.url }}{{ featured_episode.audio_url }}"
+  },
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "name": "The Multiverse Employee Handbook",
+    "url": "{{ site.url }}/"
+  }
+}
+</script>
+{% endif %}
+
 <section class="platforms">
 <h2>Tune in on your preferred listening portal:</h2>
 <div class="platform-grid">
