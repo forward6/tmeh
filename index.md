@@ -41,7 +41,8 @@ description: "The official website for The Multiverse Employee Handbook – a sc
     </audio>
     <p><strong>{{ latest_valid_episode.title }}</strong><br>
     <small>Published {{ latest_valid_episode.date | date: "%B %d, %Y" }} | About {{ latest_valid_episode.duration-en }}</small></p>
-    <p><a href="{{ latest_valid_episode.url }}">Full Episode Page →</a></p>
+    <p><a href="{{ latest_valid_episode.url }}" class="latest-listen-button">Full Episode Page →</a></p>
+
   </div>
 {% else %}
   <p>No episodes available yet.</p>
