@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Multiverse Employee Handbook | Science Comedy Podcast"
+title: "The Multiverse Employee Handbook | Science Comedy Podcast (Official Site)"
 description: "The official website for The Multiverse Employee Handbook – a science comedy podcast about physics, quantum absurdities, and bureaucratic space exploration. Listen now."
 ---
 <div class="background-container">
