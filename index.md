@@ -8,8 +8,8 @@ description: "The official website for The Multiverse Employee Handbook – a sc
 </div>
 
 <section class="hero">
-    <h1>A Science Comedy Podcast Exploring Space, Time, and Corporate Mismanagement</h1>
-    <p class="tagline">Join the #1 science comedy podcast where workplace humor meets cosmic exploration! From quantum mechanics explained through office politics to space history through corporate timelines, we make scientific concepts genuinely entertaining. Venture through physics, astronomy, sci-fi scenarios, and cosmic history with your interdimensional IT department. Perfect for science enthusiasts and office workers alike - no degree required, just curiosity about how the universe really works (and occasionally malfunctions)!</p>
+    <h1>The Multiverse Employee Handbook – A Science Comedy Podcast Exploring Space, Time, and the Absurdity of Cats</h1>
+    <p class="tagline">Join the #1 science comedy podcast where workplace humour meets cosmic exploration! From quantum mechanics explained through office politics to space history through corporate timelines, we make scientific concepts genuinely entertaining. Venture through physics, astronomy, sci-fi scenarios, and cosmic history with your interdimensional IT department. Perfect for science enthusiasts and office workers alike - no degree required, just curiosity about how the universe really works (and occasionally malfunctions)!</p>
 </section>
 
 <div class="logo-container">
