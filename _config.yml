@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "The Multiverse Employee Handbook Podcast | Quantum Physics Meets Comedy"
+title: "The Multiverse Employee Handbook | Science Comedy Podcast (Official Site)"
 email: podcast@multiverseemployeehandbook.com
-description: "Where quantum physics meets office humor: A weekly podcast exploring the bizarre intersection of corporate life and cosmic uncertainty. From parallel universe performance reviews to quantum coffee breaks, we make science entertaining and office life existential."
+description: "The official website for The Multiverse Employee Handbook – a science comedy podcast about physics, quantum absurdities, and bureaucratic space exploration. Listen now."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://multiverseemployeehandbook.com" # Replace with your live site URL
 timezone: America/New_York
