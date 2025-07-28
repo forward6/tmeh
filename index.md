@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "The Multiverse Employee Handbook - Where Science Meets Office Absurdity"
-description: "The only science comedy podcast approved by the Interdimensional Safety Committee. Join us as we explore space, physics, and sci-fi scenarios through the lens of corporate culture, where the only thing more mysterious than dark matter is what's growing in the office refrigerator."
+title: "The Multiverse Employee Handbook | Science Comedy Podcast"
+description: "The official website for The Multiverse Employee Handbook – a science comedy podcast about physics, quantum absurdities, and bureaucratic space exploration. Listen now."
 ---
 <div class="background-container">
     <div class="background-overlay"></div>
