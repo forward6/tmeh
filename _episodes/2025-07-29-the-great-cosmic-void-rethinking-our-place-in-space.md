@@ -6,9 +6,9 @@ season_number: 2
 date: 2025-07-29
 duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/jkcbhq874c65hhzh/multiverse-employee-handbook-s02e30-the-great-cosmic-void-rethinking-our-place-in-space.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000719605115"
+spotify_url: "https://open.spotify.com/episode/70mOZkO0Zi6NjWgAqt1gFA?si=AYNtp4XKTIiO-vnhD0UCEg"
+youtube_url: "https://youtu.be/PMjZVX55VEg?si=F5MiqEwilXTUezk0"
 transcript_url: "/assets/transcripts/TMEH-S02E30-transcript.pdf"
 duration: "PT30M53S"
 description: >
