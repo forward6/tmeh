@@ -4,13 +4,13 @@ title: "The Great Cosmic Void: Rethinking Our Place in Space"
 episode_number: 30
 season_number: 2
 date: 2025-07-29
-duration-en: "30 minutes and 29 seconds"
-audio_url: "https://mcdn.podbean.com/mf/download/nkrxrre7i7tj4tmh/multiverse-employee-handbook-s02e30-the-great-cosmic-void.mp3"
+duration-en: "31 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/jkcbhq874c65hhzh/multiverse-employee-handbook-s02e30-the-great-cosmic-void-rethinking-our-place-in-space.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E30-transcript.pdf"
-duration: "PT30M29S"
+duration: "PT30M53S"
 description: >
   Discover why Earth might be floating in a 2-billion-light-year bubble of cosmic nothingness—the universe's equivalent of premium rural real estate nobody wanted. This cosmic isolation could solve physics' biggest headache while making us statistically improbable cosmic lottery winners. Meanwhile, Quantum Improbability Solutions markets this as "exclusive void living" and raises everyone's rent anyway.
 ---
@@ -40,13 +40,6 @@ But here's where it gets mathematically uncomfortable: the statistical probabili
 The void hypothesis offers an elegant solution to one of modern physics' most persistent headaches: the Hubble tension—a problem so frustrating that it's driven respectable cosmologists to consider increasingly exotic explanations, including the possibility that fundamental laws of physics require warranty repairs. When astronomers measure cosmic expansion using nearby objects, they consistently get ~73 km/s/Mpc, but early universe measurements yield ~67 km/s/Mpc—an 8-10% discrepancy that's reached 5-sigma significance.
 
 The void solution works through gravitational outflow effects: picture the void as an enormous cosmic hill that matter has been rolling down for billions of years. As galaxies flee our underdense region toward denser cosmic neighbourhoods, they create additional redshift that inflates our measurements of cosmic expansion. We're essentially measuring cosmic expansion while sitting in the universe's equivalent of a drainage basin, where everything appears to be moving away faster than it actually is.
-
-This brings us to one of YouTube's most prolific science communicators: Anton Petrov, a genius educator with the kind of dry sense of humor that makes astrophysics feel like casual conversation with your most knowledgeable friend. Anton runs the YouTube channel "What Da Math" and has somehow produced over 4,000 videos explaining space, science, and mathematics to over 1.4 million subscribers—roughly one video per day for more than a decade, clearly existing in some kind of temporal anomaly where YouTube productivity defies cosmic speed limits.
-
-Anton's recent video "Milky Way is inside a huge 2.2 billion light year long void" breaks down the exact academic papers supporting the void hypothesis, using space simulation software to visualize these cosmic structures in ways that make abstract mathematics tangible. His approach combines rigorous scientific accuracy with accessible presentation—the rare combination of someone who genuinely understands the physics and can explain why you should care about living in cosmic nowhere.
-
-{: .callout}
-> **Temporal Compression Technology**: Anton's work exemplifies how modern science communication bridges the gap between peer-reviewed research and public understanding, though his video upload schedule suggests he's discovered a previously unknown form of temporal compression technology. The mathematical elegance of the void solution is almost suspicious: it predicts local measurements should show faster expansion rates while distant observations match early universe values—precisely what astronomers observe, as if the universe designed a perfect cosmic practical joke.
 
 ## From Premium Void Living to Philosophical Earthquakes
 
