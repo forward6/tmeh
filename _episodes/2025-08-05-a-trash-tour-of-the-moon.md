@@ -4,13 +4,13 @@ title: "A Trash Tour of the Moon"
 episode_number: 31
 season_number: 2
 date: 2025-08-05
-duration-en: "32 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/jkcbhq874c65hhzh/multiverse-employee-handbook-s02e31-a-trash-tour-of-the-moon.mp3"
+duration-en: "34 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/mghgni6qq9y4km2n/multiverse-employee-handbook-s02e31.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S02E31-transcript.pdf"
-duration: "PT32M15S"
+duration: "PT34M47S"
 description: >
   Discover how 65 years of space exploration accidentally turned the Moon into humanity's most expensive storage unit, complete with over 200 tons of abandoned equipment and 96 bags of astronaut waste. This cosmic real estate disaster reveals why everything that goes to the Moon stays on the Moon, creating the universe's first extraterrestrial archaeological site that nobody meant to build.
 ---
