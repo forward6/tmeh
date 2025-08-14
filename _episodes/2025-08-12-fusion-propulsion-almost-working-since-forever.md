@@ -8,7 +8,7 @@ duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/cevw25y5wp3xtgsc/multiverse-employee-handbook-s02e32-fusion-propulsion-almost-working-since-forever.mp3"
 apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000721620469"
 spotify_url: "https://open.spotify.com/episode/7pZaAZmbRKYJFLmVTUh1lZ?si=zoMA3YYaSriQUz49gVAyGA"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+youtube_url: "https://youtu.be/_iHm1FsuYBU?si=FKTSVIcdy5O3-vSt"
 transcript_url: "/assets/transcripts/TMEH-S02E32-transcript.pdf"
 duration: "PT31M52S"
 description: >
