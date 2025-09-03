@@ -4,11 +4,11 @@ title: "The Light That Left Before You Were Born"
 episode_number: 1
 season_number: 3
 date: 2025-09-02
-duration-en: "38 minutes 29 seconds"
+duration-en: "38 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/smbsh7k2h3md6wz7/multiverse-employee-handbook-s03e01-light-that-left-before-you-were-born.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/the-light-that-left-before-you-were-born/id1764134739?i=1000724514949"
+spotify_url: "https://open.spotify.com/episode/5Cn54FL8vAQ8YaAEmBy0R9?si=z-CiklukTW-5cMhrP_XQXg"
+youtube_url: "https://youtu.be/NMwUTVuWP7g?si=4qZlIwqYLbuzlHS6"
 transcript_url: "/assets/transcripts/TMEH-S03E01-transcript.pdf"
 duration: "PT38M29S"
 description: >
