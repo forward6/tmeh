@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-09-09
 duration-en: "37 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/d9gk9cvydjfiqkqj/multiverse-employee-handbook-s03e02-what-is-china-doing-in-space.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000725668839"
+spotify_url: "https://open.spotify.com/episode/1i21SwWNC0pa2rWw4CZWYV?si=qb17EGRhRx-P8GByEBHgsw"
+youtube_url: "https://youtu.be/2eynjtTQ3wY?si=8wnc5dH0kLxnqzSM"
 transcript_url: "/assets/transcripts/TMEH-S03E02-transcript.pdf"
 duration: "PT37M03S"
 description: >
