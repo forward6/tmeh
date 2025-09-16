@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-09-16
 duration-en: "37 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/8tvq82hb7azmq2n2/multiverse-employee-handbook-s03e03-the-kardashev-scale-and-other-measurements-that-make-us-feel-small.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000727013819"
+spotify_url: "https://open.spotify.com/episode/4mLtvEKk8vqCYgyeZs43hC?si=DNRfTab3Q160dvnPJ5IffQ"
+youtube_url: "https://youtu.be/zdley2Pisls?si=td7qdLcpg6y2ziY4"
 transcript_url: "/assets/transcripts/TMEH-S03E03-transcript.pdf"
 duration: "PT37M03S"
 description: >
