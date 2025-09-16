@@ -4,13 +4,13 @@ title: "The Kardashev Scale And Other Measurements That Make Us Feel Small"
 episode_number: 3
 season_number: 3
 date: 2025-09-16
-duration-en: "35 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/placeholder/multiverse-employee-handbook-s03e03-kardashev-scale-measurements.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000000000000"
-spotify_url: "https://open.spotify.com/episode/placeholder"
-youtube_url: "https://youtu.be/placeholder"
+duration-en: "37 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/8tvq82hb7azmq2n2/multiverse-employee-handbook-s03e03-the-kardashev-scale-and-other-measurements-that-make-us-feel-small.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E03-transcript.pdf"
-duration: "PT35M20S"
+duration: "PT37M03S"
 description: >
   Join us as we explore cosmic measurement scales that make ant farms look like thriving metropolises, using science, satire, and the kind of logic that only makes sense if you're a Type 0.7 civilization pretending to understand Type III energy consumption. From Nigel Peabody's stellar performance review crisis at Quantum Improbability Solutions to discovering that humanity ranks somewhere between "ambitious bacteria" and "moderately successful mold colony" on the universal significance index, we dive into Nikolai Kardashev's framework for measuring civilizational advancement through energy consumption.
 ---
