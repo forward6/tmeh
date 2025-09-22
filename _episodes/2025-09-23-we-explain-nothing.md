@@ -4,13 +4,13 @@ title: "We Explain Nothing!"
 episode_number: 4
 season_number: 3
 date: 2025-09-23
-duration-en: "35 minutes 20 seconds"
-audio_url: "https://mcdn.podbean.com/mf/download/8tvq82hb7azmq2n2/multiverse-employee-handbook-s03e04-we-explain-nothing.mp3"
-apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000727013820"
-spotify_url: "https://open.spotify.com/episode/5nMtvEKk8vqCYgyeZs43hD?si=ENRfTab3Q160dvnPJ5IffR"
-youtube_url: "https://youtu.be/aemey2Pismt?si=ud7qdLcpg6y2ziY5"
+duration-en: "39 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/tus7i9v5ise5s3aj/multiverse-employee-handbook-s03e04-we-explain-nothing.mp3"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E04-transcript.pdf"
-duration: "PT35M20S"
+duration: "PT39M28S"
 description: >
   Join us as we explore the science of nothing through quantum physics, philosophy, and the kind of logic that only makes sense if you're a theoretical physicist trying to explain why your research budget disappeared into a literal void. From Martha Nullworth's impossible assignment at the Department of Absence Management to discovering that achieving true nothingness requires more paperwork than a corporate reorganization, we dive into why nothing refuses to stay nothing and how virtual particles have better job security than most middle managers.
 ---
