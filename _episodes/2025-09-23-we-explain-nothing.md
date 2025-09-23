@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-09-23
 duration-en: "39 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/tus7i9v5ise5s3aj/multiverse-employee-handbook-s03e04-we-explain-nothing.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/we-explain-nothing/id1764134739?i=1000728007088"
+spotify_url: "https://open.spotify.com/episode/3rT65UOTuH6WAJVh8RXiop?si=p-YrvWLVS4qx6UWKSEyFRw"
+youtube_url: "https://youtu.be/7nL4rJBXR_0?si=PG_MuagMgsyKqgw7"
 transcript_url: "/assets/transcripts/TMEH-S03E04-transcript.pdf"
 duration: "PT39M28S"
 description: >
