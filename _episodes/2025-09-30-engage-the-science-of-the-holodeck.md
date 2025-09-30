@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-09-30
 duration-en: "39 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/q9du75pcg9vem4eg/multiverse-employee-handbook-s03e05-engage-the-science-of-the-holodeck.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/engage-the-science-of-the-holodeck/id1764134739?i=1000729241326"
+spotify_url: "https://open.spotify.com/episode/5qfJUkwdsycAhmLjcJlf1D?si=_4chrZIGTWS59ayyEjuFcA"
+youtube_url: "https://youtu.be/-0zdbI_PTvQ?si=ou_i4aUZjouroVCV"
 transcript_url: "/assets/transcripts/TMEH-S03E05-transcript.pdf"
 duration: "PT39M02S"
 description: >
