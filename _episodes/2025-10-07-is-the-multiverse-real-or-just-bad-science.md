@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-10-07
 duration-en: "55 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/gu5hajztwrgjbv2d/multiverse-employee-handbook-s03e06-is-the-multiverse-real-or-just-bad-science.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/ca/podcast/the-multiverse-employee-handbook/id1764134739?i=1000730539505"
+spotify_url: "https://open.spotify.com/episode/15s8xI7o23ocPkPLSE5Vfy?si=2BN6iDydRW6A2AY2YkNjfg"
+youtube_url: "https://youtu.be/yci15XVVQ_Q?si=9jcYwdhMg1dkQdu6"
 transcript_url: "/assets/transcripts/TMEH-S03E06-transcript.pdf"
 duration: "PT55M17S"
 description: >
