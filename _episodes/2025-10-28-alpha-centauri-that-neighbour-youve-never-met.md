@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-10-28
 duration-en: "43 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/u5v93usvxcfvbug4/multiverse-employee-handbook-s03e07-alpha-centauri-that-neighbour-youve-never-met.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/alpha-centauri-that-neighbour-youve-never-met/id1764134739?i=1000733833802"
+spotify_url: "https://open.spotify.com/episode/2cLhpfOH4zvXF9Mfm6A7Pq?si=Jimv9csMRqeecDdZqXdkOw"
+youtube_url: "https://youtu.be/YIS0IEApYX4?si=Z0WzjdGO9uextgU5"
 transcript_url: "/assets/transcripts/TMEH-S03E07-transcript.pdf"
 duration: "PT43M09S"
 description: >
