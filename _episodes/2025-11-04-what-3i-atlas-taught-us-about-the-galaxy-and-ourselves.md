@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-11-04
 duration-en: "29 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/dfm3zuqhwxv3gqkh/multiverse-employee-handbook-s03e08-what-3i-atlas-taught-us-about-the-galaxy-and-ourselves.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/what-3i-atlas-taught-us-about-the-galaxy-and-ourselves/id1764134739?i=1000735178894"
+spotify_url: "https://open.spotify.com/episode/4yd4HQxEiLuX5ZtLlhThq5?si=4pgzAKD0QImuP5FkMUHEbg"
+youtube_url: "https://youtu.be/sL1zEmgLgeg?si=prkYPwNW0LhUO0yx"
 transcript_url: "/assets/transcripts/TMEH-S03E08-transcript.pdf"
 duration: "PT28M42S"
 description: >
