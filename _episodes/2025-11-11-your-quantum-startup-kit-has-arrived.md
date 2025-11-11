@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-11-11
 duration-en: "36 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/zxaugnmg8g2hqki4/multiverse-employee-handbook-s03e09-your-quantum-startup-kit-has-arrived.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/your-quantum-startup-kit-has-arrived/id1764134739?i=1000736234432"
+spotify_url: "https://podcasts.apple.com/us/podcast/your-quantum-startup-kit-has-arrived/id1764134739?i=1000736234432"
+youtube_url: "https://youtu.be/L4hc6WDuKOc?si=T_EJ-0g63Izxh59Y"
 transcript_url: "/assets/transcripts/TMEH-S03E09-transcript.pdf"
 duration: "PT36M20S"
 description: >
