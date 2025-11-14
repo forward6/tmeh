@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-11-14
 duration-en: "19 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/426k4hjdxqu4v9i5/multiverse-employee-handbook-s03b03.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/bonus-close-encounters-of-the-third-kind/id1764134739?i=1000736716507"
+spotify_url: "https://open.spotify.com/episode/3BTHj9aJKvFp3A1IXUHhvP?si=xSGCg2hUS5S-QB8SUF6DRg"
+youtube_url: "https://youtu.be/ZA2hGiiVoms?si=Xh5Am9omMgfecjWR"
 transcript_url: "/assets/transcripts/TMEH-S03B03-transcript.pdf"
 duration: "PT19M35S"
 description: >
