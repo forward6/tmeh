@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-11-18
 duration-en: "28 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/vn4qiu7iv6hsy6ed/multiverse-employee-handbook-s03e10-a-brief-history-of-humans-yelling-into-space-arecibo.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/a-brief-history-of-humans-yelling-into-space/id1764134739?i=1000737213228"
+spotify_url: "https://open.spotify.com/episode/69s6XU80OR1FXE4mfW2TmJ?si=5gp00A4aTg6HXTAD5-O73Q"
+youtube_url: "https://youtu.be/IdI_pb8QPps?si=vZVf7dE-ZLz18BC7"
 transcript_url: "/assets/transcripts/TMEH-S03E10-transcript.pdf"
 duration: "PT28M29S"
 description: >
