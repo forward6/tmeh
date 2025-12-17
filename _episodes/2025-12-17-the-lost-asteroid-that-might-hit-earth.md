@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-12-17
 duration-en: "37 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/z2c36nanpzgqcias/multiverse-employee-handbook-s03e11-the-lost-asteroid-that-might-hit-earth.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/that-lost-asteroid-that-might-hit-earth/id1764134739?i=1000741651449"
+spotify_url: "https://open.spotify.com/episode/5627E88vgSmUEaEXyGidcK?si=TIA1E6uDRKW3rlV6GCI4yw"
+youtube_url: "https://youtu.be/spjjToMFJcA?si=rS1tbiDrM0V3JREy"
 transcript_url: "/assets/transcripts/TMEH-S03E11-transcript.pdf"
 duration: "PT36M55S"
 description: >
