@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-12-23
 duration-en: "48 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/2b9tys2wwi38fhcz/multiverse-employee-handbook-s03e12-the-end-of-the-iss-and-what-comes-after.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/the-end-of-the-iss-and-what-comes-after/id1764134739?i=1000742434763"
+spotify_url: "https://open.spotify.com/episode/2QT9pbsI59lTPOZ9rGO0hZ?si=g82g5PTCSpadLzPKVdDs0Q"
+youtube_url: "https://youtu.be/RV_LJhOmCVU?si=fN9z7JhFC2lDs-oc"
 transcript_url: "/assets/transcripts/TMEH-S03E12-transcript.pdf"
 duration: "PT48M21S"
 description: >
