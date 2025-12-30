@@ -6,9 +6,9 @@ season_number: 3
 date: 2025-12-30
 duration-en: "30 minutes"
 audio_url: "https://mcdn.podbean.com/mf/web/tz6wj8cizzxgtjv2/multiverse-employee-handbook-s03e13-as-a-mathematical-concept.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/2025-as-a-mathematical-concept/id1764134739?i=1000743159405"
+spotify_url: "https://open.spotify.com/episode/5F525E6WnCCmw4ivD9o75K?si=ORDeZOtcQgG8nxVO-dE61Q"
+youtube_url: "https://youtu.be/wl-wBrsgPz8?si=pS4zUITQnZwF33C1"
 transcript_url: "/assets/transcripts/TMEH-S03E13-transcript.pdf"
 duration: "PT30M39S"
 description: >
