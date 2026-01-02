@@ -59,12 +59,9 @@ description: "A mildly suspicious QR landing page that leads to The Multiverse E
     </p>
 
     <p style="margin-top: 1rem;">
-      <a href="{{ latest_valid_episode.url }}" class="cta-button">I regret nothing</a>
+      <a href="/" class="cta-button">I regret nothing</a>
     </p>
 
-    <p style="margin-top: 0.75rem;">
-      <a href="/" class="latest-listen-button">Return to the main site</a>
-    </p>
   </div>
 {% else %}
   <div class="homepage-player">
