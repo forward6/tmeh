@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-01-06
 duration-en: "32 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/sjygsr9d52dtyaak/multiverse-employee-handbook-s03e14.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/aliens-are-probably-boring-and-thats-the-real-problem/id1764134739?i=1000743942358"
+spotify_url: "https://open.spotify.com/episode/3TJuET8eXzbMa2d7uvzsXg?si=Le58fnAnS36TUHplZnqWmQ"
+youtube_url: "https://youtu.be/hSd78YsoHVg?si=c6ORCHXffhXqJWBT"
 transcript_url: "/assets/transcripts/TMEH-S03E14-transcript.pdf"
 duration: "PT32M40S"
 description: >
