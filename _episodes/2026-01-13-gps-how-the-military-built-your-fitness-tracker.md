@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-01-13
 duration-en: "31 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/9u7g3gan6wbu62fm/multiverse-employee-handbook-s03e15-gps-how-the-military-built-your-fitness-tracker.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/gps-how-the-military-built-your-fitness-tracker/id1764134739?i=1000744957535"
-spotify_url: "https://open.spotify.com/episode/2labptbr1CXVesezJFEZ4Z?si=OslnRpkyT7utF8hKRiq3qA"
-youtube_url: "https://youtu.be/Sq2kMtUvOOE?si=9LIk_xGS8iKCXC7d"
+apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
+spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
+youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E15-transcript.pdf"
 duration: "PT31M25S"
 description: >
