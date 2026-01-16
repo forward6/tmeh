@@ -128,12 +128,7 @@ And now it's history—preserved in boxes of memorabilia and the collective memo
 
 ### Further Reading From the Department of Consumer Navigation
 
-For those wishing to explore humanity's ongoing struggle with navigation and technological transition, the following resources remain available:
-
-- The actual [history of MapQuest](https://www.mapquest.com/) (which still exists, somehow)
-- Stories of people who still print directions out of habit or principle
-- Archives of 1990s web design that make modern eyes water
-- That box in your attic containing six pages of stapled directions from 1996
+For those wishing to explore humanity's ongoing struggle with navigation and technological transition, visit the actual [MapQuest](https://www.mapquest.com/) (which still exists, somehow).
 
 And if you find yourself nostalgic for the MapQuest era, remember: you can still print directions. MapQuest still offers this service. You probably won't. But knowing you could is oddly comforting.
 
