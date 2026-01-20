@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-01-20
 duration-en: "38 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/rhm2vkcjr8kjq2sk/multiverse-employee-handbook-s03e16-artemis-ii-going-to-the-moon-not-on-it.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/artemis-ii/id1764134739?i=1000745864691"
+spotify_url: "https://open.spotify.com/episode/0NxF2Sr6ECmszClEXXMF01?si=aTU6ICzyS2yG3UGPWC6TCA"
+youtube_url: "https://youtu.be/CHzWEb7zb8Q?si=pJFDLAULfDdn4E8a"
 transcript_url: "/assets/transcripts/TMEH-S03E16-transcript.pdf"
 duration: "PT37M55S"
 description: >
