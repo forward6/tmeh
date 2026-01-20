@@ -4,13 +4,13 @@ title: "Artemis II"
 episode_number: 16
 season_number: 3
 date: 2026-01-20
-duration-en: "30 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/[PODBEAN_ID]/multiverse-employee-handbook-s03e16-artemis-ii.mp3"
+duration-en: "38 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/rhm2vkcjr8kjq2sk/multiverse-employee-handbook-s03e16-artemis-ii-going-to-the-moon-not-on-it.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E16-transcript.pdf"
-duration: "PT30M40S"
+duration: "PT37M55S"
 description: >
   An exploration of Artemis II—humanity's first crewed return to lunar space in over fifty years, launching February 2026. Four astronauts. Ten days. A trajectory that goes around the Moon and comes straight back, which is precisely what the mission was designed to do, regardless of what marketing promised stakeholders. When the Square-Haired Boss at Quantum Improbability Solutions announces "WE'RE LANDING ON THE MOON!" after reading only the first two words of the NASA contract, Engineering attempts to explain the critical distinction between "lunar flyby" and "lunar landing"—a distinction that becomes significantly more expensive when confused at the executive level. We examine why returning to the Moon after fifty years required rebuilding everything from scratch, meet the crew making history (including the first woman, first person of colour, and first Canadian to travel to the Moon), and discover why "just" flying around it requires billions in engineering and one extremely large SpaceX Starship that may or may not be ready when needed.
 ---
