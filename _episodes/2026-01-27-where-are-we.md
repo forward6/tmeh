@@ -4,13 +4,13 @@ title: "Where Are We?"
 episode_number: 17
 season_number: 3
 date: 2026-01-27
-duration-en: "30 minutes"
-audio_url: ""
+duration-en: "34 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/htf8y6qgiiay4ikc/multiverse-employee-handbook-s03e17-where-are-we.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E17-transcript.pdf"
-duration: "PT30M40S"
+duration: "PT34M20S"
 description: >
   An exploration of humanity's most straightforward question that turns out not to be straightforward at all: where are we? Using cosmology, geometry, and a set of assumptions that work perfectly well right up until the universe refuses to cooperate, we examine why there is no middle, why the idea of an edge doesn't survive basic inspection, and why every observer appears to be at the centre of things—which is not a compliment, just a consequence. When the Cartography Department at Quantum Improbability Solutions receives a form requesting the company's "Universal Location," they discover that the universe operates on principles that would make any competent filing system administrator weep: no edges, no centre, no absolute coordinates. We explore the Big Bang as expansion of space itself rather than explosion in space, meet observers who all legitimately claim to be at the centre of their observable universe, and discover why "here" remains the only honest answer to a question that assumed the universe would be more cooperative about providing reference points.
 ---
