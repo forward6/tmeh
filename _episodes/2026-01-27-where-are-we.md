@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-01-27
 duration-en: "34 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/htf8y6qgiiay4ikc/multiverse-employee-handbook-s03e17-where-are-we.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/where-are-we/id1764134739?i=1000746822481"
+spotify_url: "https://open.spotify.com/episode/4Mg2pSzFnbq3ordx7nqmn9?si=6CbKKGAsRtqgB0e5GEVljg"
+youtube_url: "https://youtu.be/cHIisinN96Q?si=Dxmg6WQQQ9cjs_GL"
 transcript_url: "/assets/transcripts/TMEH-S03E17-transcript.pdf"
 duration: "PT34M20S"
 description: >
