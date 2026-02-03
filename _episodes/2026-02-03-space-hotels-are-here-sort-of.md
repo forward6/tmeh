@@ -4,13 +4,13 @@ title: "Space Hotels Are Here (Sort Of)"
 episode_number: 18
 season_number: 3
 date: 2026-02-03
-duration-en: "34 minutes"
-audio_url: "https://mcdn.podbean.com/mf/download/PLACEHOLDER/multiverse-employee-handbook-s03e18-space-hotels.mp3"
+duration-en: "42 minutes"
+audio_url: "hhttps://mcdn.podbean.com/mf/download/z92v3q383rqwdbkj/multiverse-employee-handbook-s03e18-space-hotels-are-here-sort-of.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E18-transcript.pdf"
-duration: "PT34M20S"
+duration: "PT42M18S"
 description: >
   An exploration of space tourism and orbital hotels, from Stanley Kubrick's prophetic vision in 2001: A Space Odyssey to the commercial stations actually under construction today. Using aerospace engineering, economic reality checks, and the kind of logic that only makes sense if you're comfortable with business plans where "one customer per year" might be considered progress, we examine why rotating space hotels remain stubbornly twenty-five years in the future, how billionaires turned brief suborbital hops into half-million-dollar experiences, and why the gap between "technically possible" and "economically viable" involves approximately fifty-four million, nine hundred thousand additional dollars and several months of astronaut training.
 ---
