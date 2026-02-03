@@ -5,7 +5,7 @@ episode_number: 18
 season_number: 3
 date: 2026-02-03
 duration-en: "42 minutes"
-audio_url: "hhttps://mcdn.podbean.com/mf/download/z92v3q383rqwdbkj/multiverse-employee-handbook-s03e18-space-hotels-are-here-sort-of.mp3"
+audio_url: "https://mcdn.podbean.com/mf/download/z92v3q383rqwdbkj/multiverse-employee-handbook-s03e18-space-hotels-are-here-sort-of.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/space-hotels-are-here-sort-of/id1764134739?i=1000747830969"
 spotify_url: "https://open.spotify.com/episode/4W2QuxyAfAkkNzDTlxZ4tU?si=w6VDkUH0QwSy0UxIL0wJ9g"
 youtube_url: "https://youtu.be/eYofSAPqJAU?si=mDqRRigwBZ46PVX1"
