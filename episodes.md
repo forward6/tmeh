@@ -40,7 +40,7 @@ type: podcast
                     <h2><a href="{{ episode.url }}">{{ episode.title }}</a></h2>
                     <span class="episode-duration">
                         <i class="far fa-clock"></i>
-                        Temporal Length: {{ episode.duration-en }}
+                        Episode duration: {{ episode.duration-en }}
                     </span>
                     <div class="episodes-excerpt">
                         {{ episode.excerpt }}
