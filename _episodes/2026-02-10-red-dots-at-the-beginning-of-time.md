@@ -4,13 +4,13 @@ title: "Red Dots at the Beginning of Time"
 episode_number: 19
 season_number: 3
 date: 2026-02-10
-duration-en: "32 minutes"
-audio_url: ""
+duration-en: "34 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/57a6azybw5w68cvb/multiverse-employee-handbook-s03e19-red-dots-at-the-beginning-of-time.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E19-transcript.pdf"
-duration: "PT32M20S"
+duration: "PT34M11S"
 description: >
   In 2022, the James Webb Space Telescope discovered something impossible: compact, mysteriously bright red objects scattered throughout the early universe, glowing far too intensely for their size and existing far too early in cosmic history. For years, astronomers proposed increasingly exotic explanations—overmassive black holes that violated formation theory, primordial objects from the Big Bang itself, physics we didn't yet understand. Then, in January 2026, a team of scientists revealed what was actually hiding inside those little red dots: not impossible physics, but an extraordinarily effective disguise made of dense ionised gas that had been fooling our measurements all along. Today, we explore how a careful examination of spectral line shapes unravelled one of JWST's greatest mysteries, why the early universe was considerably more theatrical than anyone expected, and what happens when you realise the universe has been operating behind a very convincing veil for 12 billion years.
 ---
