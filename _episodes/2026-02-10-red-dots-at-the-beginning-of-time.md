@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-02-10
 duration-en: "34 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/57a6azybw5w68cvb/multiverse-employee-handbook-s03e19-red-dots-at-the-beginning-of-time.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/the-red-dots-at-the-beginning-of-time/id1764134739?i=1000749044991"
+spotify_url: "https://open.spotify.com/episode/2rrcbPYhPObCLEo3NK3bUq?si=5yUM-BrUQreCfkf3sfcrtA"
+youtube_url: "https://youtu.be/Hn6eYhzPcwM?si=YEgoVuZQpBZGEDpj"
 transcript_url: "/assets/transcripts/TMEH-S03E19-transcript.pdf"
 duration: "PT34M11S"
 description: >
