@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-02-17
 duration-en: "35 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/9bmv7wpb3az6k9n3/multiverse-employee-handbook-s03e20-can-we-live-on-the-moon.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/can-we-live-on-the-moon/id1764134739?i=1000750101852"
+spotify_url: "https://open.spotify.com/episode/2tw1wOu5lqrjWTNfBUUiXi?si=940N3aAmQJGybdWQtcQ9wQ"
+youtube_url: "https://youtu.be/YWr_jIHSpNM?si=uDN67mhd4LzI97io"
 transcript_url: "/assets/transcripts/TMEH-S03E20-transcript.pdf"
 duration: "PT35M13S"
 description: >
