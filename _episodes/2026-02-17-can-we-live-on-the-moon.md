@@ -4,13 +4,13 @@ title: "Can We Live On the Moon?"
 episode_number: 20
 season_number: 3
 date: 2026-02-17
-duration-en: "33 minutes"
-audio_url: ""
+duration-en: "35 minutes"
+audio_url: "https://mcdn.podbean.com/mf/download/9bmv7wpb3az6k9n3/multiverse-employee-handbook-s03e20-can-we-live-on-the-moon.mp3"
 apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
 spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
 youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
 transcript_url: "/assets/transcripts/TMEH-S03E20-transcript.pdf"
-duration: "PT33M19S"
+duration: "PT35M13S"
 description: >
   More than fifty years after Eugene Cernan left the last human bootprint in lunar regolith, the Moon has become the focal point of a new space race—one driven not by Cold War ideology but by geopolitics, commercial ambition, and the tantalising promise of water ice. NASA's Artemis programme and China's International Lunar Research Station represent parallel visions for permanent human presence at the lunar South Pole, whilst commercial operators prepare infrastructure for what analysts project could become a multi-trillion-dollar cislunar economy by mid-century. But can humans actually live on the Moon? Today we explore the engineering challenges of lunar habitation, from razor-sharp regolith that erodes spacesuits to radiation exposure without atmospheric shielding, the economics of In-Situ Resource Utilisation that transforms ice into rocket fuel, and what daily life might look like for the first permanent lunar residents living underground in lava tubes whilst their skeletons slowly demineralise and Earth hangs as a constant, humbling presence in the black sky above.
 ---
