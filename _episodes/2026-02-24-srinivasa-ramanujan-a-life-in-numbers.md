@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-02-24
 duration-en: "33 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/pxr58tun79tbym7e/multiverse-employee-handbook-s03e21-srinivasa-ramanujan-a-life-in-numbers.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/srinivasa-ramanujan-a-life-in-numbers/id1764134739?i=1000751160673"
+spotify_url: "https://open.spotify.com/episode/2Su4cL2mzsUCRpXhfSrPZU?si=fxbAZJyDTuGjZtwmYYnNug"
+youtube_url: "https://youtu.be/eGvMslOYy3g?si=pqmy8DZPv45yamTC"
 transcript_url: "/assets/transcripts/TMEH-S03E21-transcript.pdf"
 duration: "PT33M50S"
 description: >
