@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-03-03
 duration-en: "32 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/m83nckw7awz6jtub/multiverse-employee-handbook-s03e22-what-happens-if-we-catch-a-graviton.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/what-happens-if-we-catch-a-graviton-it-changes-everything/id1764134739?i=1000752845390"
+spotify_url: "https://open.spotify.com/episode/1FDB554MEPFJxEyDFeUBv9?si=ygQPF8QNR3mJZUYs5FNJAQ&t=186&ct=186"
+youtube_url: "https://youtu.be/FxzUi6-F1KE?si=P8QXT21-yVyE14T9"
 transcript_url: "/assets/transcripts/TMEH-S03E22-transcript.pdf"
 duration: "PT31M53S"
 description: >
