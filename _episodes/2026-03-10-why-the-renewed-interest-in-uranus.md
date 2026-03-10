@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-03-10
 duration-en: "35 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/2uim3naba3rf4j39/multiverse-employee-handbook-s03e23-why-the-renewed-interest-in-uranus.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/why-the-renewed-interest-in-uranus/id1764134739?i=1000754418759"
+spotify_url: "https://open.spotify.com/episode/0SumPtwUYLiUw0zAJHnNYW?si=YLbuAae4S1yMsTo0aplakA"
+youtube_url: "https://youtu.be/0C1zdTesDx4?si=-JS8XOP8FSM0EuTZ"
 transcript_url: "/assets/transcripts/TMEH-S03E23-transcript.pdf"
 duration: "PT34M49S"
 description: >
