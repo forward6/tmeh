@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-03-17
 duration-en: "33 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/pdekhtywryy86p75/multiverse-employee-handbook-s03e24-is-tau-ceti-our-project-hail-mary.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/is-tau-ceti-our-project-hail-mary/id1764134739?i=1000755719415"
+spotify_url: "https://open.spotify.com/episode/0Cp9JYyH2ioseTPxc5T7QV?si=IV8LH8toT263RK7gxoYXaw"
+youtube_url: "https://youtu.be/4kPDRV9ESeU?si=F441wv97P4Ohx--5"
 transcript_url: "/assets/transcripts/TMEH-S03E24-transcript.pdf"
 duration: "PT33M06S"
 description: >
