@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-03-24
 duration-en: "29 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/p5apked9b4jhbzz9/multiverse-employee-handbook-s03e25-our-other-nearest-neighbours.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/our-other-nearest-neighbours/id1764134739?i=1000756945348"
+spotify_url: "https://open.spotify.com/episode/7D9SeQC5gHiAVywk1gKY1Q?si=3rv3F75FTkGPoWMK5fC_Jg"
+youtube_url: "https://youtu.be/9GtRTJ7OJf4?si=jO6-XFmoWknvJgUC"
 transcript_url: "/assets/transcripts/TMEH-S03E25-transcript.pdf"
 duration: "PT29M15S"
 description: >
