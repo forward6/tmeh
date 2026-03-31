@@ -6,9 +6,9 @@ season_number: 3
 date: 2026-03-31
 duration-en: "33 minutes"
 audio_url: "https://mcdn.podbean.com/mf/download/3az3je3m3xhykpqe/multiverse-employee-handbook-s03e26-is-space-trying-to-kill-us-radiation.mp3"
-apple_url: "https://podcasts.apple.com/us/podcast/the-multiverse-employee-handbook/id1764134739"
-spotify_url: "https://open.spotify.com/show/2JxWJWRUjmDjoCje1JbcWZ"
-youtube_url: "https://www.youtube.com/playlist?list=PLCK79HTuWuA409l7x6iRN_icn0xZFzamp"
+apple_url: "https://podcasts.apple.com/us/podcast/is-space-trying-to-kill-us-radiation/id1764134739?i=1000758379268"
+spotify_url: "https://open.spotify.com/episode/5kGLgmqUhRiHLVqfHmVfpm?si=C4KzxQRpR4CD47bbttcqzw"
+youtube_url: "https://youtu.be/02pSTu2WKQQ?si=kFkEWAHKLwa-K2NX"
 transcript_url: "/assets/transcripts/TMEH-S03E26-transcript.pdf"
 duration: "PT33M11S"
 description: >
